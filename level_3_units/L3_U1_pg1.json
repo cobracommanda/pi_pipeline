@@ -1,0 +1,1350 @@
+{
+  "Y49395_TG_L3_U1_L01": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Materials   ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Distribute the Student Book. Have students write their names on the cover and allow them time to browse the book. Explain that, at the end of the unit, they will take the book home to create a library of readings. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Procedures  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Review any class procedures and use of additional materials, as appropriate. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Ongoing Assessment ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Although you have placed students into the materials based on the pre-assessments, these first units in Level 3 will provide additional opportunities to deepen your understanding of each students instructional needs. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49395_TG_L3_U1_L02": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Provide Corrective Feedback  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Circulate, listen in, and provide corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use Student Observation Form  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Note high-frequency words and phonics skills for which students need additional support.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Include and highlight these words in activities throughout the upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49395_TG_L3_U1_L03": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Provide Corrective Feedback  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Circulate, listen in, and provide corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use Student Observation Form  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Note high-frequency words and phonics skills for which students need additional support.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Include and highlight these words in activities throughout the upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Chorally Respond ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display one Phonics/Syllable Card at a time. Have students chorally say the sound(s). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Mix and Repeat ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, mix the cards and repeat. Then select a few cards and place them in a pocket chart or on the desk. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Call out a sound, and have students find the matching Phonics/Syllable Card with the spelling. Repeat with the High-Frequency Word Cards. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Corrective Feedback: Provide phonics corrective feedback by pointing to the missed sound-spelling, stating it, having students repeat, then re-blending the word together.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49395_TG_L3_U1_L04": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Provide Corrective Feedback  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Circulate, listen in, and provide corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use Student Observation Form  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Note high-frequency words and phonics skills for which students need additional support.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Include and highlight these words in activities throughout the upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49395_TG_L3_U1_L05": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Provide Corrective Feedback  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Circulate, listen in, and provide corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use Student Observation Form  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Note high-frequency words and phonics skills for which students need additional support.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Include and highlight these words in activities throughout the upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Chorally Respond ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display one Phonics/Syllable Card at a time. Have students chorally say the sound. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Mix and Repeat ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, mix the cards and repeat. Then select a few cards and place them in a pocket chart or on the desk. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Call out a sound, and have students find the matching Phonics/Syllable Card with the spelling. Repeat with the High-Frequency Word Cards. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Corrective Feedback: Provide phonics corrective feedback by pointing to the missed sound-spelling, stating it, having students repeat, then re-blending the word together. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49395_TG_L3_U1_L06": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Provide Corrective Feedback  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Circulate, listen in, and provide corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use Student Observation Form  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Note high-frequency words and phonics skills for which students need additional support.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Include and highlight these words in activities throughout the upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49395_TG_L3_U1_L07": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Provide Corrective Feedback  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Circulate, listen in, and provide corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use Student Observation Form  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Note high-frequency words and phonics skills for which students need additional support.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Include and highlight these words in activities throughout the upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Chorally Respond ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display one Phonics/Syllable Card at a time. Have students chorally say the sound(s). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Mix and Repeat ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, mix the cards and repeat. Then select a few cards and place them in a pocket chart or on the desk. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Call out a sound(s), and have students find the matching Phonics/Syllable Card with the spelling. Repeat with the High-Frequency Word Cards. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Corrective Feedback: For high-frequency words, students misread, say the word. Have students repeat, chorally spell, trace and spell, then repeat again. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49395_TG_L3_U1_L08": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Provide Corrective Feedback  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Circulate, listen in, and provide corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use Student Observation Form  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Note high-frequency words and phonics skills for which students need additional support.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Include and highlight these words in activities throughout the upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49395_TG_L3_U1_L09": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Provide Corrective Feedback  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Circulate, listen in, and provide corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use Student Observation Form  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Note high-frequency words and phonics skills for which students need additional support.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Include and highlight these words in activities throughout the upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Chorally Respond ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display one Phonics/Syllable Card at a time. Have students chorally say the sound(s). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Mix and Repeat ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, mix the cards and repeat. Then select a few cards and place them in a pocket chart or on the desk. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Call out a sound(s), and have students find the matching Phonics/Syllable Card with the spelling. Repeat with the High-Frequency Word Cards. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Corrective Feedback: Provide phonics corrective feedback by pointing to the missed spelling, stating the sound or sounds, having the student repeat, then re-blending the word together.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49395_TG_L3_U1_L10": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Provide Corrective Feedback  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Circulate, listen in, and provide corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use Student Observation Form  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Note high-frequency words and phonics skills for which students need additional support.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Extend Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Include and highlight these words in activities throughout the upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2454 @@
+{
+  "workbook": "Y49418_L3U24.xlsx",
+  "totals": {
+    "sheets": 10,
+    "slides": 38,
+    "audio_items": 323
+  },
+  "sheets": [
+    {
+      "sheet_name": "Lvl_3_Unt_24_Lsn_1",
+      "base": "level_3_unit_24_lesson_1",
+      "level": 3,
+      "unit": 24,
+      "lesson_num": 1,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 1",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_1_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 24, Lesson 1. Let’s start by gathering your lesson materials. You'll need your Student Books for Unit 23 and Unit 24.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 23 Student Book. Whisper read the story “Mudslide.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 9 spread>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the comparative and superlative suffixes -er and -est, let’s blend some words using these suffixes and other word parts and sounds we have learned. Listen as I sound out the first two words.",
+              "notes": "<visual: show blend words table>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_1_4",
+              "file_type": "Embedded MP4",
+              "transcription": "/fffaaassst/, fast. /fffaaassstûûûrrr/, faster. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.' Say the word nice and loud."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 1",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_1_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 1",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_1_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Comparative suffixes \"er\" and \"est.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence. Suffixes \"er\" and \"est\" are used to compare things.",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"fast.\" Add the suffix \"er\" to the end of \"fast.\" What is the new word?",
+              "notes": "<visual: show the word \"fast\" across from the phonics/syllable card \"er\" and the word \"faster\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Faster. <pause> The suffix \"er\" is used to compare two things. For example: a rabbit is faster than a turtle."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"est\" to the end of the word \"fast.\" What is the new word?",
+              "notes": "<visual: show the word \"fast\" across from the phonics/syllable card \"est\" and the word \"fastest\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Fastest. <pause> The suffix \"est\" is used to compare three or more things. For example: the cheetah is the fastest animal on land."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding suffixes \"er\" and \"est\" to the following words.",
+              "notes": "<visual: show the words: tall, short, long, sad twice each, once across from the \"er\" phonics/syllable card and once across from the \"est\" phonics/syllable card>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Write one sentence using an \"er\" word and one sentence using an \"est\" word from the list."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about rainforests disappearing. First, look at these two pictures. Listen as I read each word. Repeat the word after I say it. trees <pause>, rainforest <pause>, clearing. Look at the picture of the rainforest. What do you notice about the trees?",
+              "notes": "visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about rainforests disappearing. The word is release. Release means “let go or let out.”",
+              "notes": "<visual: Show the vocabulary card and the word, release>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words release and eliminated>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Why Are Rainforests Disappearing?”"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about rainforests disappearing? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 12
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_1_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 1 in your Unit 24 Student Book. The title of this story is \"A Visit to the Rainforest.” Point to each word as you read the title with me: A Visit to the Rainforest. In this story, the narrator, or person telling the story, visits a tropical rainforest in the country of Costa Rica.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: explore. Explore means to travel through a place to learn more about it. Astronauts traveled into space to explore the moon. What are some places you would like to explore?",
+              "notes": "<visual: Show the story and the word, explore>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find two words with the suffi x -est that describe a tropical rainforest."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What animals did the narrator, or person telling the story, see in the rainforest? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Why did the narrator and Dad need a guide to help them explore the rainforest? Why did they explore this place during the daytime and at night?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What is a place that you would like to explore? Explain your answer."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write what you would be most excited to see if you explored a rainforest. <pause> Share your ideas with a partner before you write. Look back at the story for ideas.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_1_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_24_Lsn_2",
+      "base": "level_3_unit_24_lesson_2",
+      "level": 3,
+      "unit": 24,
+      "lesson_num": 2,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Add Initial and Final Sounds"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 2",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_2_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 24, Lesson 2. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 24.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 1 in your Unit 24 Student Book. Whisper read the story “A Visit to the Rainforest.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 1 spread>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: covered, cried, figure, horse, money.>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word cried. Say the word with me. Cried. What sounds do you hear in cried? (/k/ /r/ /i/ /d/) Blend the sounds together."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "What letters do you see? (c-r-i-e-d) This is the past tense of cry. Notice how you change the y to i before adding the -ed ending, just like in tried and fried."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: covered, figure, horse, money."
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 2",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Add Initial and Final Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_2_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: in. <slight pause> Now, listen as I say a sound: /th/",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Add the sound /th/ to the beginning of the word in. What's the new word? <pause> thin"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's add a sound to the end of a word. Listen as I say a word: win. <slight pause> Now, listen as I say a sound: /d/"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Add the sound /d/ to the end of the word win. What's the new word? <pause> wind"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 2",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_2_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review comparative suffixes \"er\" and \"est.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"clean.\" Add the suffix \"er\" to the end of \"clean.\" What is the new word?",
+              "notes": "<visual: show the word \"clean\" across from the phonics/syllable card \"er\" and the word \"cleaner\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Cleaner. <pause> The suffix \"er\" is used to compare two things. For example: Jan's room is cleaner than Greg's room."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"est\" to the end of the word \"clean.\" What is the new word?",
+              "notes": "<visual: show the word \"clean\" across from the phonics/syllable card \"est\" and the word \"cleanest\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Cleanest. <pause> The suffix \"est\" is used to compare three or more things. For example: the kitchen is the cleanest room in our house."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the comparative and superlative suffixes -er and -est, let’s blend some words using these suffixes and other word parts and sounds we have learned. Listen as I sound out the first two words.",
+              "notes": "<visual: show blend words table>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_7",
+              "file_type": "Embedded MP4",
+              "transcription": "/fffaaassst/, fast. /fffaaassstûûûrrr/, faster. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.' Say the word nice and loud."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about Earth’s land biomes. First, look at these four pictures. Listen as I read each word. Repeat the word after I say it. desert <pause>, grassland <pause>, savanna <pause>, rainforest. Look at the pictures of the desert, savanna, grassland, and rainforest. Can you point out the different animals and plants in the pictures?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about Earth’s land biomes. The word is types. Types means “kinds.”",
+              "notes": "<visual: Show the vocabulary card and the word, types>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words types and receive>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Exploring Earth’s Land Biomes”"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about Earth’s land biomes? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 12
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 2",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_2_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 2 in your Unit 24 Student Book. The title of this text is \"The Power of Trees.” Point to each word as you read the title with me: The Power of Trees. This text is a photo comic. It has panels and text boxes like a comic, but it features photos and facts instead of illustrations and dialogue. This text explains how trees help keep our air clean.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: preserve. Preserve means to keep something from being harmed or destroyed. Many people work to preserve habitats for plants and animals. That’s where plants and animals live. How could you preserve an item that is special to you?",
+              "notes": "<visual: Show the story and the word, preserve>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word that means the same as biggest."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What do forests do with carbon dioxide? Why is this good for the air? Find the sentences that answer these questions."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Why is it important to preserve, or protect, Earth’s forests? What might happen if we do not preserve trees?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What information would you share with people to help them understand the importance of protecting Earth’s trees?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: List three to five facts you learned about the power of trees and the effects of destroying forests. <pause> Draw a picture to accompany your list.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_2_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 35
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_24_Lsn_3",
+      "base": "level_3_unit_24_lesson_3",
+      "level": 3,
+      "unit": 24,
+      "lesson_num": 3,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 3",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_3_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 24, Lesson 3. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 24.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 2 in your Unit 24 Student Book. Whisper read the story “The Power of Trees” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 2 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 3",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_3_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 3",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_3_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review comparative suffixes \"er\" and \"est.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"sweet.\" Add the suffix \"er\" to the end of \"sweet.\" What is the new word?",
+              "notes": "<visual: show the word \"sweet\" across from the phonics/syllable card \"er\" and the word \"sweeter\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Sweeter. <pause> The suffix \"er\" is used to compare two things. For example: The honey is sweeter than the peanut butter."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"est\" to the end of the word \"sweet.\" What is the new word?",
+              "notes": "<visual: show the word \"sweet\" across from the phonics/syllable card \"est\" and the word \"sweetest\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Sweetest. <pause> The suffix \"est\" is used to compare three or more things. For example: The orange is the sweetest food in my lunch."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the comparative and superlative suffixes -er and -est, let’s blend some words using these suffixes and other word parts and sounds we have learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with -er."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words with -est."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word new. <pause> Add the letters er to make a comparative adjective. What word did you make? Newer",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word new <pause>. Now change new to newer. Which sound is different? Which letters are different?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "<visual: show the letter cards to build the words>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 3 in your Unit 24 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with the comparative suffixes -er and -est and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together.",
+              "notes": "<visual: Show Cumulative Sentences, pages 12-13>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with the comparative suffixes -er and -est. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word stronger. <pause> When you are finished, read your sentence to a partner.",
+              "notes": "<visual: show sentence strips and word stronger>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: older/oldest, smaller/smallest.",
+              "notes": "<visual: show sentence strips and word pairs older/oldest, smaller/smallest>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_17",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_18",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_19",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_20",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_21",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_22",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_23",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_24",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_25",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_26",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_27",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_28",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_3_4_29",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 29
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 39
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_24_Lsn_4",
+      "base": "level_3_unit_24_lesson_4",
+      "level": 3,
+      "unit": 24,
+      "lesson_num": 4,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 3,
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain"
+        },
+        {
+          "slide_number": 5,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Comparative and Superlative Suffixes -er, -est"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 4",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_4_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 24, Lesson 4. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 24.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 3 in your Unit 24 Student Book. Whisper read the cumulative sentences.",
+              "notes": "<visual: Student Book Lesson 3 spread>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Introduce High-Frequency Words. Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: products, questions, since, usually>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word usually. Slowly clap and say the syllables in the word \"usually.\" u-su-al-ly. We have to pay extra attention to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: u-s-u-a-l-l-y."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Focus on the spelling of each part of the word separately."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: products, questions, since."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word strong."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the words stronger and strongest."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_11",
+              "file_type": "Audio Bar",
+              "transcription": "Spelling Booster: Let's write some more words. Listen to each word I say. Break apart the word sound by sound, then write the letter or spelling for each sound.",
+              "notes": "<visual: show Spelling Booster image>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_12",
+              "file_type": "Audio Bar",
+              "transcription": "easier"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_13",
+              "file_type": "Audio Bar",
+              "transcription": "easiest"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_14",
+              "file_type": "Audio Bar",
+              "transcription": "longer"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_15",
+              "file_type": "Audio Bar",
+              "transcription": "longest"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_16",
+              "file_type": "Audio Bar",
+              "transcription": "bigger"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_1_17",
+              "file_type": "Audio Bar",
+              "transcription": "biggest"
+            }
+          ],
+          "audio_total": 17
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 4",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_4_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review comparative suffixes \"er\" and \"est.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "The suffix \"er\" is used to compare two things. The suffix \"est\" is used to compare three or more things."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Then, read each word as your teacher taps on it.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 4",
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_4_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 4 in your Unit 24 Student Book. The title of this text is \"What Makes a Rainbow?\" Point to each word as you read the title with me: What Makes a Rainbow? The title of this text asks a question. This is a poem. The text is formatted in short lines instead of paragraphs. Read the poem. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Find all the words in the poem with comparaitve and superlative suffixes -er and -est and circle them. <pause> Chorally read the circled words."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Write the sentence I say. Listen carefully and focus on one word at a time.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "The first sentence is: The horse ran faster than the fastest goat. Say the sentence with me: The horse ran faster than the fastest goat. Now write the sentence. Your teacher will help you segment, or break apart, each word and write a letter for each sound."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "The second sentence is: Jen’s voice is louder than mine, but Nate’s voice is the loudest of all. Say the sentence with me: Jen’s voice is louder than mine, but Nate’s voice is the loudest of all. Now write the sentence. Your teacher will help you if you need it."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Let's read each sentence out loud. Check your work. Your teacher will write each sentence. Correct your spellings if necessary."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_3_7",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Comparative and Superlative Suffixes -er, -est",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_4_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review suffixes. A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the word soft and the phonics/syllable card for \"er\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"soft.\" Add the suffix \"er\" to \"soft.\" What is the new word?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "softer. <pause> The suffix \"er\" can be added to a describing word when comparing two nouns, such as in the sentence: The rug from the store was softer than our rug at home.",
+              "notes": "<visual: show the word soft and the phonics/syllable card for \"er\", under them, show the word \"softer\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"est\" to the end of the word \"soft.\" What is the new word?",
+              "notes": "<visual: show the word soft and the phonics/syllable card for \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "softest. <pause> The suffix \"est\" can be added to a word to compare more than two nouns such as in the sentence: Tobby was the softest of the four cats.",
+              "notes": "<visual: show the word soft and the phonics/syllable card for \"est\", under them, show the word \"softest\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_4_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding suffixes \"er\" and \"est\" to the following words.",
+              "notes": "<visual: show the words high, long, wet, and shiny twice, once across from the phonics/syllable card er and once across from the phonics/syllable card est>"
+            }
+          ],
+          "audio_total": 6
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_24_Lsn_5",
+      "base": "level_3_unit_24_lesson_5",
+      "level": 3,
+      "unit": 24,
+      "lesson_num": 5,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Comparative and Superlative Suffixes -er, -est"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 5",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_5_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 24, Lesson 5. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 24.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 4 in your Unit 24 Student Book. Whisper read the story “What Makes a Rainbow?” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 4 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 5",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_5_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 5",
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_5_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about wind. First, look at these four pictures. Listen as I read each word. Repeat the word after I say it. kite <pause>, flag <pause>, leaves <pause>, wind turbine. Look at the picture of the kite. What makes a kite fly?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about wind. The word is beneath. Beneath means “below or underneath.”",
+              "notes": "<visual: Show the vocabulary card and the word, beneath>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words beneath and invisible>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “An Invisible Force of Nature”"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about wind? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 5",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_5_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 5 in your Unit 24 Student Book. The title of this text is \"Hurricane Warning!” Point to each word as you read the title with me: Hurricane Warning! You will read about a powerful storm called a hurricane. A hurricane warning lets people know a storm is coming so they can get to a safe place before it arrives.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: severe. Severe means very bad and very serious. During a severe storm, there can be strong winds and heavy rain. What might you see happening outside during a severe storm?",
+              "notes": "<visual: Show the story and the word, severe>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find a word in the first paragraph with a suffix that helps you understand that hurricanes are severe storms."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What details show that a hurricane can cause severe destruction, or damage? Find sentences that answer this question."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Why is it important for scientists to forecast, or make predictions about, severe storms like hurricanes?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What would you do to stay safe during a severe storm?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Draw four boxes on a sheet of paper. <pause> Write Hurricane in the first box as the cause and then draw a picture to show one effect of hurricanes in each remaining box. Use this information to write a short summary of the text. <pause> Share your summary with a partner before writing.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Comparative and Superlative Suffixes -er, -est",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_5_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review suffixes \"er\" and \"est.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"light.\" Add the suffix \"er\" to the end of \"light.\" What is the new word?",
+              "notes": "<visual: show the word \"light\" and the phonics/syllable card for \"er\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_6_3",
+              "file_type": "Audio Bar",
+              "transcription": "lighter. <pause> The suffix \"er\" can be added to a describing word when comparing two nouns, such as in the sentence: This box is lighter than the other one.",
+              "notes": "<visual: show the word \"light\" and the phonics/syllable card for \"er\", under them, show the word \"lighter\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_6_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"est\" to the end of the word \"light.\" What is the new word?",
+              "notes": "<visual: show the word \"light\" and the phonics/syllable card for \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_6_5",
+              "file_type": "Audio Bar",
+              "transcription": "lightest. <pause> The suffix \"est\" can be added to a word to compare more than two nouns such as in the sentence: This box is the lightest one of all.",
+              "notes": "<visual: show the word \"light\" and the phonics/syllable card for \"est\", under them, show the word \"lightest\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_6_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding suffixes \"er\" and \"est\" to the following words. Remember, you may need to make a spelling change with some words, such as doubling the final consonant, dropping the final \"e,\" or changing the \"y\" to \"i.\"",
+              "notes": "<visual: show the words \"late,\" \"full,\" and \"pretty\" twice, once across from the phonics/syllable card er and once across from the phonics/syllable card est>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_6_7",
+              "file_type": "Audio Bar",
+              "transcription": "Look at these words. Let's read the words together: busy, busier, busiest, silly, sillier, silliest, safe, safer, safest, deep, deeper, deepest, sad, sadder, saddest. Now look at these two categories. This is the word busy. Read the word with me. <pause> Which category should I put busy under? <pause> Yes, busy goes in the base word category because the word busy has no suffix. With your partner, continue to sort the rest of the words.",
+              "notes": "<visual: show words busy, busier, busiest, silly, sillier, silliest, safe, safer, safest, deep, deeper, deepest, sad, sadder, saddest> <visual: show word busy> <visual: show the sorting cards base word, er, and est in a pocket chart>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_6_8",
+              "file_type": "Audio Bar",
+              "transcription": "What did you notice about the words in each group?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_5_6_9",
+              "file_type": "Audio Bar",
+              "transcription": "The suffixes \"-er\" and \"-est\" \" are common word parts. You may notice the suffixes \"-er\" and \"-est\" in many words. As we read, let's look for words with \"-er\" and \"-est.\""
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 5,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_24_Lsn_6",
+      "base": "level_3_unit_24_lesson_6",
+      "level": 3,
+      "unit": 24,
+      "lesson_num": 6,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Blend and Segment Multisyllabic Words by Syllable"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 6",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_6_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 24, Lesson 6. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 24.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 5 in your Unit 24 Student Book. Whisper read the text “Hurricane Warning!” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 1 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 6",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Blend and Segment Multisyllabic Words by Syllable",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_6_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say the following syllables: un-hap-py",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the syllables and blend them to make a word. un-hap-py, unhappy."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following syllables. Blend the syllables to make a word."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now we will segment words into syllables. Listen as I say the following word: unhappy"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the word and segment it into the syllables you hear. Unhappy, un-hap-py."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words. Segment each word into the syllables you hear."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 6",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_6_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review comparative suffixes \"er\" and \"est.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Some words need spelling changes when adding a suffix. Listen as I read the following word: \"tiny.\" Before adding suffix \"er\" to the end of \"tiny,\" first change the letter \"y\" to \"i.\" Then add \"er.\" What is the new word?",
+              "notes": "<visual: show the following in the order listed: tiny tiny-y+i tini+er tinier (please show the \"er\" in red font)>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "\"tinier.\" <pause> The suffix \"er\" is used to compare two things. For example: The cat is tinier than the dog."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Before adding suffix \"est\" to the end of \"tiny,\" first change the letter \"y\" to \"i.\" Then add \"est.\" What is the new word?",
+              "notes": "<visual: show the following in the order listed: tiny tiny-y+i tini+est tiniest (please show the \"est\" in red font)>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "\"tiniest.\" <pause> The suffix \"est\" is used to compare three or more things. For example: The hamster is the tiniest of all our pets."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Say the sound for each letter or spelling as your teacher points to it. Blend the sounds to read the word. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: covered, cried, figure, horse, money, products, questions, since, usually, voice.>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word covered. Say the word with me: \"covered\""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: c-o-v-e-r-e-d. The word \"covered\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: covered, cried, figure, horse, money, products, questions, since, usually, voice."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "<visual: show the letter cards to build the words>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 6 in your Unit 24 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with -er and -est suffixes and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together.",
+              "notes": "<visual: Show Cumulative Sentences, pages 18-19>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with -er and -est suffixes. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word warmest. <pause> When you are finished, read your sentence to a partner.",
+              "notes": "<visual: show sentence strips and word warmest>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: colder/coldest, healthier/healthiest.",
+              "notes": "<visual: show sentence strips and word pairs colder/coldest, healthier/healthiest>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_6_4_17",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 17
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 25
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_24_Lsn_7",
+      "base": "level_3_unit_24_lesson_7",
+      "level": 3,
+      "unit": 24,
+      "lesson_num": 7,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 3,
+          "section": "High-Frequency Word Booster",
+          "title": "Read, Build, Write"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 7",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_7_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 24, Lesson 7. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 24.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 6 in your Unit 24 Student Book. Whisper read the cumulative sentences. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 6 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 7",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_7_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 7",
+          "section": "High-Frequency Word Booster",
+          "title": "Read, Build, Write",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_7_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Read: Look at the high-frequency words. Read each word along with me. covered, <pause> cried, <pause> figure, <pause> horse, <pause> money, <pause> products, <pause> questions, <pause> since, <pause> usually, <pause> voice.",
+              "notes": "<visual: show \"covered, cried, figure, horse, money, products, questions, since, usually, voice\" as cards in pocket-chart pockets, add one blank pocket-row, show tray with only letters for the first word.> [intended for teacher to model the first word]"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Build: Now let's build a word together. Watch as your teacher spells the word."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now use your letter cards to build all the words."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write: Write each word. Then write a sentence using each word. For example, you can start a sentence with \"After school, I usually ______ .\" Read your sentences to a partner when you are done.",
+              "notes": "<visual: show sentence frame \"After school, I usually [blank].\" Then show \"covered, cried, figure, horse, money, products, questions, since, usually, voice\" as cards in pocket-chart pockets underneath sentence frame>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher is going to make a word with letter cards. <pause> What is the word? <pause> Spell it together. <pause> Watch as your teacher scrambles the letters. Fix the spelling.",
+              "notes": "<visual: empty pocket rows with tray with letter cards for 2nd word>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 7 in your Unit 24 Student Book. The title of this text is \"What Causes Wind?\" Point to the word as you read the title with me: What Causes Wind? This text explains the weather conditions that create wind. It includes a diagram with arrows and labels. Authors include diagrams to help readers understand a series of causes and effects.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "What do you notice or wonder about when viewing the diagram?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Draw a diagram or series of pictures to show another example of a process, such as a seed growing into a plant.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_3_9",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 7",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_7_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review comparative suffixes \"er\" and \"est.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Some words need spelling changes when adding a suffix. Listen as I read the following word: \"windy.\" Before adding suffix \"er\" to the end of \"windy,\" first change the letter \"y\" to \"i.\" Then add \"er.\" What is the new word?",
+              "notes": "<visual: show the following in the order listed: windy windy-y+i windi+er windier (please show the \"er\" in red font)>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "\"windier.\" <pause> The suffix \"er\" is used to compare two things. For example: It is windier today than it was yesterday."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Before adding suffix \"est\" to the end of \"windy,\" first change the letter \"y\" to \"i.\" Then add \"est.\" What is the new word?",
+              "notes": "<visual: show the following in the order listed: windy windy-y+i windi+est windiest (please show the \"est\" in red font)>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "\"windiest.\" <pause> The suffix \"est\" is used to compare three or more things. For example: It was the windiest day we've had for months."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: covered, cried, figure, horse, money, products, questions, since, usually, voice.>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word covered. Say the word with me: \"covered\""
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: c-o-v-e-r-e-d. The word \"covered\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_7_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: cried, figure, horse, money, products, questions, since, usually, voice."
+            }
+          ],
+          "audio_total": 11
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 30
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_24_Lsn_8",
+      "base": "level_3_unit_24_lesson_8",
+      "level": 3,
+      "unit": 24,
+      "lesson_num": 8,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 6,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Difference Between Prefixes and Suffixes"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 8",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_8_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 24, Lesson 8. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 24.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 7 in your Unit 24 Student Book. Whisper read the text “What Causes Wind?” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 7 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 8",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_8_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review comparative suffixes \"er\" and \"est.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Some words need spelling changes when adding a suffix. Listen as I read the following word: \"thin.\" Before adding suffix \"er\" to the end of \"thin,\" first double the final consonant \"n.\" Then add \"er.\" What is the new word?",
+              "notes": "<visual: show the following in the order listed: thin thin+n+er thinner (please show the \"er\" in red font)>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "\"thinner.\" <pause> The suffix \"er\" is used to compare two things. For example: The branch is thinner than the tree trunk."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Before adding suffix \"est\" to the end of \"thin,\" first double the final consonant \"n.\" Then add \"est.\" What is the new word?",
+              "notes": "<visual: show the following in the order listed: thin thin+n+est thinnest (please show the \"est\" in red font)>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "\"thinnest.\" <pause> The suffix \"est\" is used to compare three or more things. For example: It was the thinnest book on the whole bookshelf."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with -est."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words that are irregular plural nouns."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word hot. <pause> Add the suffix -er to hot to make a comparative adjective. What spelling change did you make? What word did you make?",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word hot <pause>. Now change hot to hotter. Which sound is different? Which letter will be different?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about the sun and the seasons. First, look at these four pictures. Listen as I read each word. Repeat the word after I say it. winter <pause>, snow <pause>, snowman <pause>, summer <pause>, trees <pause>, spring <pause>, flowers <pause>, fall <pause>, umbrella <pause>, leaves. Look at the picture of winter. Can you describe the weather happening in the picture?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about the sun and the seasons. The word is tilted. Tilted means “leaned or tipped.”",
+              "notes": "<visual: Show the vocabulary card and the word, tilted>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words replace and tilted>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “The Sun and the Seasons.”"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about the sun and the seasons? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 16
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 8",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_8_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 8 in your Unit 24 Student Book. The title of this story is \"The Contest.” Point to each word as you read the title with me: The Contest. You will read a story about a contest, or competition, between the sun and the wind.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: confident. Confident means feeling that you can do well or succeed at something. I am confident that I can teach you how to become better readers. What is something you feel confident you can do? What makes you feel this way?",
+              "notes": "<visual: Show the story and the word, confident>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word that describes who won the contest."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What made Wind feel confident that he would succeed and win the contest? Find the sentences that answer this question."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "How did Wind try to win the contest? Why didn’t his plan work? How did Sun win the contest using a more gentle approach?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Tell about a time when you competed in a contest or competition. What happened?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Draw a picture to remember the important details in the story. Label the details, such as Sun, Wind, man, coat, and cloud. <pause> Use the drawing to retell the story to a partner. <pause> Then, write your retelling.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Difference Between Prefixes and Suffixes",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_8_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "What is the difference between prefixes and suffixes? Adding a prefix or suffix can can change a word's meaning and its part of speech, or how it is used in a sentence. Knowing the meanings of prefixes and suffixes can help you determine the meanings of words.",
+              "notes": "<visual: show the following words in one column: untrue (with \"un\" underlined), dislike (with \"dis\" underlined), replay (with \"re\" underlined); and the following words in a second column: careless (with \"less\" underlined), writer (with \"er\" underlined), longest (with \"est\" underlined)>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "The difference between a prefix and a suffix is where they are added to a base word."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_6_3",
+              "file_type": "Audio Bar",
+              "transcription": "Remember, a prefix is a word part added to the beginning of a word. Add the prefix \"un\" to the beginning of the word \"true.\" What is the new word?",
+              "notes": "<visual: show the word true and the phonics/syllable card \"un\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_6_4",
+              "file_type": "Audio Bar",
+              "transcription": "untrue. <pause> The prefix \"un\" means “not” or “the opposite of,” therefore, untrue means “not true.”",
+              "notes": "<visual: show the word true and the phonics/syllable card \"un\", under them, show the word \"untrue\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_6_5",
+              "file_type": "Audio Bar",
+              "transcription": "A suffix is a word part added to the end of a word. Add the suffix \"less\" to the end of the word \"care.\" What is the new word?",
+              "notes": "<visual: show the word care and the phonics/syllable card for \"less\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_6_6",
+              "file_type": "Audio Bar",
+              "transcription": "careless. <pause> The suffix \"less\" means “no” or “without,” therefore, careless means “without care.”",
+              "notes": "<visual: show the word care and the phonics/syllable card for \"less\", under them, show the word \"careless\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_8_6_7",
+              "file_type": "Audio Bar",
+              "transcription": "Determine whether the following words contain a prefix or a suffix.",
+              "notes": "<visual: show the following words: teacher, quickly, unable, greatest, review, hopeful, shiny, disconnect>"
+            }
+          ],
+          "audio_total": 7
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 35
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_24_Lsn_9",
+      "base": "level_3_unit_24_lesson_9",
+      "level": 3,
+      "unit": 24,
+      "lesson_num": 9,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 9",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_9_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 24, Lesson 9. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 24.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 8 in your Unit 24 Student Book. Whisper read the story “The Contest.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 8 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 9",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_9_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound or sounds for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound or sounds for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Finally, find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 9",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_9_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Comparative suffixes \"er\" and \"est.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence. The suffix \"er\" is used to compare two things. The suffix \"est\" is used to compare three of more things.",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"est\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Some words need spelling changes when adding a suffix. Listen as I read the following word: \"tasty.\" Before adding suffix \"er\" to the end of \"tasty,\" first change the letter \"y\" to \"i.\" Then add \"er.\" What is the new word?",
+              "notes": "<visual: show the following in the order listed: tasty tasty-y+i tasti+er tastier (in please show the \"er\" in red font)>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "\"tastier.\" <pause> The suffix \"er\" is used to compare two things."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Before adding suffix \"est\" to the end of \"tasty,\" first change the letter \"y\" to \"i.\" Then add \"est.\" What is the new word?",
+              "notes": "<visual: show the following in the order listed: tasty tasty-y+i tasti+est tastiest (please show the \"est\" in red font)>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "\"tastiest.\" <pause> The suffix \"est\" is used to compare three or more things."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let's blend some words to practice what we've learned. Read each word as your teacher taps on it. Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word kinder."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word quickest."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now, write this sentence: The newest products are not always better than older ones."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about underwater mountains and valleys. First, look at these two pictures. Listen as I read each word. Repeat the word after I say it. Mt. Everest <pause>, Mariana Trench <pause>, sky <pause>, ocean. Look at Mt. Everest and Mariana Trench in the picture. How are these places alike or different?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about underwater mountains and valleys. The word is collide. Collide means “crash into each other.”",
+              "notes": "<visual: Show the vocabulary card and the word, collide>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words collide and outer>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Mountains and Valleys Under the Sea.”"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about underwater mountains and valleys? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 16
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_9_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 9 in your Unit 24 Student Book. The title of this text is \"Earth's Changing Mountains.” Point to each word as you read the title with me: Earth's Changing Mountains. This text explains how natural forces change the shape and size of mountains over time.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: transform. Transform means to change in form, shape, or appearance. When it rains, a field of dirt may transform into mud. What is something in nature you have seen transform? How did its shape or appearance change?",
+              "notes": "<visual: Show the story and the word, transform>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "How are mountains different in size than other landforms? Find the word that answers the question."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What are some other examples of landforms? Find the sentence that answers the question."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "What causes mountains to transform, or change, over time? How can you tell the difference between an older mountain and a younger mountain?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "People transform over time, too! In what ways might you change in the next ten years?"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_9_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: List two to three facts they learned about mountains and how they change. <pause> Draw a picture to accompay your list.",
+              "notes": "<visual: Show the writing journal>"
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 35
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_24_Lsn_10",
+      "base": "level_3_unit_24_lesson_10",
+      "level": 3,
+      "unit": 24,
+      "lesson_num": 10,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Delete Initial and Final Sounds"
+        },
+        {
+          "slide_number": 3,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Difference Between Prefixes and Suffixes"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 10",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_10_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 24, Lesson 10. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 24.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 24 Student Book. Whisper read the story “Earth’s Changing Mountains.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 9 spread>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's make a word ladder. I will give you a clue for each word to write on the word ladder.",
+              "notes": "<visual: empty word ladder with 6 rungs>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "This word means the opposite of empty."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Add a suffix to full to make a word that describes a bag with the most items in it."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Replace the base word in fullest to make a word that describes a tree that is the least tall."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Replace the suffix in shortest to make a word that means the opposite of taller."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Replace the base word in shorter to make a word that means the opposite of dirtier."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Replace the base word in cleaner to make a word that means the opposite of lighter."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher will ask you to read and write some words to check on your progress. Congratulations on all your hard work in Unit 24!"
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 10",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Delete Initial and Final Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_10_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say the following word: couch",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word couch without the beginning sound /k/. What's the new word? <pause> ouch"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's delete the ending sound of a word. Listen as I say the following word: date"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word date without the ending sound /t/. What's the new word? <pause> day"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_2_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Look at the high-frequency words.",
+              "notes": "<visual: covered, cried, figure, horse, money, products, questions, since, usually, voice>"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_2_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher reads a high-frequency word from the list. Point to the word. Read the word. Spell the the word aloud."
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Now build each high-frequency word using letter cards. Then work with a partner. Take turns scrambling the letters in the words. Rebuild each word. Watch as your teacher models scrambling and rebuilding the word \"figure.\"",
+              "notes": "<visual: pocket chart with 3rd word spelled out with letter cards: figure>"
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Difference Between Prefixes and Suffixes",
+          "audio": [
+            {
+              "filename": "level_3_unit_24_lesson_10_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review the difference between prefixes and suffixes. Adding a prefix or suffix can can change a word's meaning and its part of speech, or how it is used in a sentence. A prefix is a word part added to the beginning of a word and a suffix is a word part added to the end of a word.",
+              "notes": "<visual: show the phonics/syllable cards for \"re\" and \"ful\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following words: \"play\" <pause> \"replay\" <pause> \"playful.\" Identify the base word in \"replay\" and \"playful\" and tell how the prefix or suffix change the word’s meaning.",
+              "notes": "<visual: show the words \"play\" \"replay\" and \"playful\">"
+            },
+            {
+              "filename": "level_3_unit_24_lesson_10_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Identify whether each of the following words contain a prefix or a suffix.",
+              "notes": "<visual: show the words likely, smallest, disobey, speaker, smaller, rewrite, helpful, unhappy, harmless, rebuild, runny, preview>"
+            }
+          ],
+          "audio_total": 3
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 22
+      }
+    }
+  ]
+}

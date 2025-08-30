@@ -1,0 +1,2396 @@
+{
+  "Y49415_TG_L3_U21_L01": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they point to each word.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that this story is about a boy who visits a museum and learns about how people lived 400 years ago. Explain that museums display artifacts, or real objects people used in the past. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build Vocabulary ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Introduce the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "excavate",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " using the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Define/Example/Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. You will prompt students to use this word to talk about the story. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Define",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": To ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "excavate",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " is to uncover something buried in the ground by digging and removing dirt.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Example",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": Scientists who dig in the right place might ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "excavate",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " dinosaur bones or a very old city. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": What else might people find when they ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "excavate",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "?  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read the story. Circulate, listen in, and offer corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Check Comprehension  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, ask the following questions to check comprehension. Prompt students to answer each question with a partner before you call on volunteers to answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Find two related root words for the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "visit",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". (visited, visitors) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What did the boy learn about life in Jamestown from the museums artifacts, or objects from the past? Find the sentences that answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Why do museums need archaeologists to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "excavate,",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " or uncover artifacts in the ground? Why is it important to learn about the past?  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Anyone can ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "excavate",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and make a discovery of some kind. What might you find if you dig in the ground where you live? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students reread the book during independent work time and as a warm-up to the next days lesson. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49415_TG_L3_U21_L02": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they point to each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that this text is a photo comic. It has panels and text boxes like a comic but uses photos and facts instead of illustrations and dialogue. Explain that Máximo and SUE are the names of the two dinosaurs featured in the comic. Point to and name each one. Invite students to share what they know about dinosaurs such as the T-Rex. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build Vocabulary ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Introduce the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "gigantic",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " using the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Define/Example/Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. You will prompt students to use this word to talk about the comic. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Define:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Gigantic",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " means very large in size.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Example:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " The Pacific Ocean is a ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "gigantic",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " body of water. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Ask:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " What is something you would describe as ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "gigantic",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "? Why?  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read the text. Circulate, listen in, and offer corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Check Comprehension  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, ask the following questions to check comprehension. Prompt students to answer each question with a partner before you call on volunteers to answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Find two words with the root word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "joy",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ".",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (enjoy, joyous) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Where are Máximo and SUE? How have Máximos feelings about being here changed? Find the sentences that answer the question.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "How can you tell that Máximo is a ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "gigantic,",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " or extremely large, dinosaur? Why do you think he was named Máximo? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "If ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "excavate",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " means to uncover something in the ground by digging it up, what do you think an ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "excavation",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " is? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What else would you like to know about Máximo and SUE? How could you find more information about them? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students reread the book during independent work time and as a warm-up to the next days lesson. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49415_TG_L3_U21_L03": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read each sentence. Then ask them to chorally read it. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Focus on Target Skill ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students circle words with the same root. Have them point to and read those words to a partner. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write a sentence using the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "friendly",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Have students read the sentence to a partner. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Discuss Sentence Structure ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Discuss the related words that form phrases in sentences 5, 6, and 7. Model how to chunk the text into meaningful phrases as you read each sentence. Have students echoread the sentences, replicating your phrasing. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49415_TG_L3_U21_L04": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Explain  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title. Explain that this is a poem. Point out that the text is formatted in short lines in pairs instead of paragraphs. Explain that an archaeologist is someone who learns about the past by studying objects people left behind. Ask students to listen for words that rhyme, or end with the same sound.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "For the first reading, have students echoread the text with you. Then pair students to reread the poem. Partners can take turns reading each couplet. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Prompt  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Prompt students to find related root words in the poem and circle them. Then have students chorally read the circled words. Ask students questions about the text to confirm understanding. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Say each word, guide students to write it, then proceed to the next word in the sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Offer Phonics Supports ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Provide supports for words that are completely comprised of the phonics skills students have learned.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "These supports include sound boxes, tapping the sounds, and so on. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Offer High-Frequency Word Supports ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Provide supports for the high-frequency words students have learned.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "These supports include the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Read/Build/Write",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students read the entire sentence aloud. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Self-Correct: Write the sentences on the board, and have students self-correct. Take note of errors on each students Student Observation Form. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49415_TG_L3_U21_L05": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they point to each word. Explain that students will read about how dinosaur bones become fossils. Explain that fossils are the remains of plants and animals that lived millions of years ago. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build Vocabulary ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Introduce the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "process",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " using the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Define/Example/Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. You will prompt students to use this word to talk about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Define",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": A ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "process",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " is a set of steps that leads to a result.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Example",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": Building a house is a ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "process",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " that involves many people and materials. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": What is something you do that is a ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "process",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "? Why is it important to follow the steps of a ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "process",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " in the correct order? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read the text. Circulate, listen in, and offer corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Check Comprehension  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, ask the following questions to check comprehension. Prompt students to answer each question with a partner before you call on volunteers to answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Find two words with the same root in the fourth paragraph. (fossils, fossilized) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What is the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "process",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", or series of actions, that leads to dinosaur bones becoming a fossil? Find sentences that answer this question.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "How is erosion, the wearing away of earth, part of the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "process",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " of uncovering dinosaur fossils? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "How would you react to discovering a dinosaurs bones? What would you do with them? Why? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49415_TG_L3_U21_L06": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read each sentence.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then ask them to chorally read it.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Focus on Target Skill  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students circle words with the same root word. Have them point to and read those words to a partner. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write a sentence using the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "unfriendly",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Have them read the sentence to a partner.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Discuss Sentence Structure  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Discuss the different end punctuation for sentences 2 (period) and 3 (question mark). Model how you change your intonation when reading a question (raise voice at end). Have students echoread the sentences, replicating your intonation.   ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49415_TG_L3_U21_L07": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Explain ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they point to each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that this is a brochure for a natural history museum. Explain that a brochure gives information about a place and all the things visitors can see and do there. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Point out that the headings show the topic or subject of each section of the brochure. This makes it easier for visitors to find the information they need. The brochure includes photos of museum displays and information that tells where the museum is and when it is open.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Guide students through a reading of the selection, including the headings. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Prompt ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Prompt students to share what they notice and wonder when viewing the brochure. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49415_TG_L3_U21_L08": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they say each word. This is an on-level selection. It is provided to gauge where students are in their reading progress toward grade-level goals. Students might need to listen and follow along with the e-book for support before they read the book on their own. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain to students that they will read a set of directions for how to make a time capsule, or a container of carefully selected objects that will be opened on a future date. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build Vocabulary ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Introduce the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "memories",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " using the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Define/Example/Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. You will prompt students to use this word to talk about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Define",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Memories",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " are things we remember about our past. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Example",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": Most people have ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "memories ",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "of special events, such as a birthday party or a trip. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": What are some special ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "memories",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " you remember from the past? What makes them special to you?  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read the text. Circulate, listen in, and offer corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Check Comprehension ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, ask the following questions to check comprehension. Prompt students to answer each question with a partner before you call on volunteers to answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Find two words with the root word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "friend",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ".",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (friends, friendly)  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What is the first step in making a time capsule? What do you do next? Find the sentences that answer these questions.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "How can we use a time capsule to preserve, or save, our favorite ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "memories",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "? Why might people want to preserve special ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "memories",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " for the future?  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What items would you put in a time capsule? Explain your choices. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students reread the book during independent work time and as a warm-up to the next days lesson. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49415_TG_L3_U21_L09": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they point to each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that this is a story about a woman who shares stories about the past with a class of students. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build Vocabulary ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Introduce the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "inspire",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " using the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Define/Example/Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. You will prompt students to use this word to talk about the story. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Define",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Inspire",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " means to give someone the idea to do something.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Example",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": A singer can ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "inspire",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " someone to take singing lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": Who is someone that might ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "inspire",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " you? Why?",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisperread the story. Circulate, listen in, and offer corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Check Comprehension ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, ask the following questions to check comprehension. Prompt students to answer each question with a partner before you call on volunteers to answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Find a related root word to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "visiting",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " that describes Mrs. Carver. (visitor)  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What kinds of stories did Mrs. Carver tell? Find the sentences that answer the question.   ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "How did Mrs. Carver and her stories ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "inspire",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " the students?  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What are your favorite kinds of stories? Who or what ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "inspires",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " the stories you write?  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students reread the book during independent work time and as a warm-up to the next days lesson. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49415_TG_L3_U21_L10": []
+}

@@ -1,0 +1,4076 @@
+{
+  "Y49411_TG_L3_U17_L01": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students listen to the sound on the articulation video. Then display the Sound-Spelling Card short /˘oo/. Explain that the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " spelling stands for the /˘oo/ sound as in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "book",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Point to the spelling, say the letter names and sound, and have students repeat. Continue with the following spelling and word: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "u ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(put). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the /˘oo/ spellings several times on paper or a dry-erase board. Prompt them to say the /˘oo/ sound each time they write the spelling. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "repeated_letters_spacing",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "(Add words with skills your students need to review.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the first two words in the first line. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "Card-BlendWords",
+          "runs": [
+            {
+              "text": "book   cook",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What do you hear thats different in these two words? What do you see thats different?",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Chorally Read  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the remaining words in each line. For the first time through the blending lines, point to each letter or spelling as students say the sound. Then run your finger under the letters as students blend the sounds orally. Finally, have students say the word.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Corrective Feedback:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Provide corrective feedback by pointing to the missed spelling, stating the sound or sounds, having student repeat, then re-blending the word together. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: A World of Vegetables ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photos on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "base",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " promote",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " methods",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " combination",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "exterior",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and check understanding.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49411_TG_L3_U17_L02": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the Sound-Spelling Card for short /˘oo/. Review the following /˘oo/spellings and words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(book), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "u ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(put).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the /˘oo/ spellings several times on paper or a dry-erase board. Prompt them to say the /˘oo/ sound each time they write the spelling. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "repeated_letters_spacing",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the modified Lesson 1 blending words (with additional review words) to apply the skill.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Pause before each word for students to whisper-blend it before having them read it together aloud.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Corrective Feedback: Provide corrective feedback by pointing to the missed sound-spelling, stating it, having students repeat, then re-blending the word together. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the high-frequency words one at a time. Point to and say the word, having students repeat after you. Guide students to orally segment the word. Discuss known and unknown word parts. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What syllables do you hear in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "between",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "? Lets clap the syllables as we say the word slowly: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "be-tween",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". This can help us focus on the spelling of each part of the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Finally, have students use each word in an oral sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: Dogs on the Job ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photos on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "trained",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " comprehensive",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " detect",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "alert",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "and check understanding.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49411_TG_L3_U17_L03": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the Sound-Spelling Card short /˘oo/. Review the following /˘oo/ spellings and words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(book), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "u ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(put).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the /˘oo/ spellings several times on paper or a dry-erase board. Prompt them to say the /˘oo/ sound each time they write the spelling. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "repeated_letters_spacing",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Lesson 2 blending words to apply the skill.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Pause before each word for students to whisper-blend it, before having them read it together aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, guide students to find and circle all the words with ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Then have them put a box around all the words with ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "u",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ".",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blending Focus  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use Letter Cards to build the following sequences of words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "bill, bull, full, pull, pulls, pulling, pulled ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "hoot, hood, good, wood, stood ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "moon, noon, soon, spoon ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(cumulative review) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "State the Letter Card to change. For example, say:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Make ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "bill",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". Change the letter ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "i",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "u",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". What word did you make? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Word Awareness Focus  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Repeat, but dont tell students which letter to change. For example, say:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Change ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "bill",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "bull",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "build_word_spacing",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "build_word_spacing",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Build Words Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build More Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use Letter Cards to build the following sequence of words.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    }
+  ],
+  "Y49411_TG_L3_U17_L04": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the Sound-Spelling Card for short /˘oo/. Review the following /˘oo/ spellings and words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(book),",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " u ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(put).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the new blending lines. Focus attention on modeling for students how to transition from known one-syllable words to multisyllabic words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students select two words.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Ask them to write on paper or a dry-erase board a sentence for each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards one at a time. Point to and say the word, having students repeat after you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Guide students to slowly clap and say the syllables in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "mountain",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and to focus on the spelling of each part of the word separately. Highlight the spelling of the last syllable. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Spelling Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use More Dictation ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Dictate the following words for students to spell: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "hood",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " cooking",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " textbook",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " wooden",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " pushy",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " input",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Write the words on the board for students to self-correct. Note on each students Student Observation Form sound-spellings they struggle with. Include more words with these sound-spellings in upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49411_TG_L3_U17_L05": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Teach ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "would not",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Read the phrase and have students repeat. Explain that some groups of words can be shortened to form a contraction. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Build the contraction ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "wouldnt",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Model how to read the new word formed. Explain that the apostrophe has taken the place of the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "o",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "not",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ".",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Continue by forming contractions for the following: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "is not ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(isnt), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "do not ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(dont), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "did not ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(didnt), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "were not",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (werent). Guide students to read the contractions. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Compare the spellings and pronunications of dont and wont.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display each word, and guide students to read it.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Place the sorting cards ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "u",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " in a pocket chart. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model/Sort ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Model how to sort the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "cookie",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "input",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " under the correct category card. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have student partners sort the remaining words at their seats. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Chorally Respond ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students tell you how to sort the words in the pocket chart. Then have students chorally read the words in each column of the sort. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Discuss Observations ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Ask students what they notice about the words.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "If necessary, remind students that the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " spelling can stand for /",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "/, as in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "moon",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", or /˘oo/, as in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "book",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". If students are unsure which sound is correct, they should read the word both ways and listen for a familiar word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Encourage students to look for /˘oo/ words while reading. Highlight these words as you encounter them. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: From Enemies to Mans Best Friend ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photo on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "domesticated",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " tame",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " competed",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " accustomed",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "abandoned",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and check understanding.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49411_TG_L3_U17_L06": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the Sound-Spelling Card short /˘oo/. Review the following /˘oo/ spellings and words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(book),",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " u (",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "put).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the /˘oo/ spellings several times on paper or a dry-erase board. Prompt them to say the /˘oo/sound each time they write the spelling. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "repeated_letters_spacing",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the new blending lines. Focus attention on modeling for students how to transition from known one-syllable words to multisyllabic words.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards one at a time. Point to and say the word, having students repeat after you. Guide students to orally segment the word. Then discuss key features of each word to focus students attention on known (regular) and unknown (irregular) word parts. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Finally, have students use each word in an oral sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Build Words Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build More Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use Letter Cards to build the following sequences of words.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    }
+  ],
+  "Y49411_TG_L3_U17_L07": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the Sound-Spelling Card short /˘oo/. Review the following /˘oo/ spellings and words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(book),",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " u ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(put).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the /˘oo/spellings several times on paper or a dry-erase board. Prompt them to say the /˘oo/ sound each time they write the spelling. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "repeated_letters_spacing",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the new blending lines. Focus attention on modeling for students how to transition from known one-syllable words to multisyllabic words.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards one at a time. Point to and say the word, having students repeat after you.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "High-Frequency Words Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read, Build, Write: add, between, close, example, food, group, hear, home, left, mountain ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the word cards. Call out one word. Have students find the matching word card, repeat the word, and spell it aloud. Then have students build each word with Letter Cards. Extend the learning with one or more of the following activities: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Provide a sentence starter or frame for each word. Have students write and complete the sentences. Then have them read their sentences to a partner (e.g., I like to add _____ to my _____.). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Make a word using Letter Cards. Have students read and spell aloud the word. Then mix the Letter Cards. Have students fix the spelling. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49411_TG_L3_U17_L08": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the Sound-Spelling Card short /˘oo/. Review the following /˘oo/ spellings and words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(book), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "u ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(put).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the /˘oo/ spellings several times on paper or a dry-erase board. Prompt them to say the /˘oo/ sound each time they write the spelling. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "repeated_letters_spacing",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Lesson 6 blending words to apply the skill. When completed, guide students to find and circle all the words with ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Then have them put a box around all the homophones.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blending Focus  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use Letter Cards to build the following sequences of words.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "shoo, shook, hook, book, look, looks, looking ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "fill, full, bull, pull, pulley ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "wound, would, could, should, shouldnt ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(transition to multisyllabic) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "State the Letter Card to change. For example, say:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Make ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "shoo",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". Add the letter",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " k",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " after ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". What word did you make? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Word Awareness Focus  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Repeat, but dont tell students which letter to change. For example, say:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Change ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "shoo",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "shook",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "build_word_spacing",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read-Aloud: Wolves Are Reshaping Ecosystems ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the map and photo on the opposite side of the Read-Aloud Cardas you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "inhabit",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " recover",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " released",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " noticed",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "revitalize",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and check understanding.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49411_TG_L3_U17_L09": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the Sound-Spelling Card short /˘oo/. Review the following /˘oo/ spellings and words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oo ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(book),",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " u ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(put).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Lesson 6 blending words to quickly review the skill.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students select two words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Ask them to write a sentence for each word on paper or a dry-erase board. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Revisit the sentences to model sentence expanding by adding details. Have students expand one of their sentences. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: A Close Look at Food Thats Good to Eat ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photos on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "generally",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " prevent",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " substances",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " provide",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "supply",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and check understanding. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49411_TG_L3_U17_L10": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "wood",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "would",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Read the words and have students repeat. Explain that these words are pronounced the same way but have different spellings and meanings.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Guide students to identify and spell homophones for: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "write",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (right), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "bear",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (bare), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "hear",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (here), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "eight",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (ate), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "by",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (buy, bye). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "List the words as they form them, or provide the words. Discuss their meanings. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students select one set of homophones from the list and write sentences for each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "This word names the sport that has touchdowns. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(football)",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Remove the end syllable from football to name a measurement equal to twelve inches. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(foot)",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Replace the last letter in foot to name a silly person. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(fool) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Replace two letters in fool to name the opposite of empty. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(full) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Change one letter in full to name the opposite of push. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(pull) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Add two letters to pull to name a machine that helps you lift objects. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(pulley) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "High-Frequency Words Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read, Build, Write: add, between, close, example, food, group, hear, home, left, mountain ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Call out one word. Have students find the matching High-Frequency Word Card, repeat the word, and spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Then have students build each word with Letter Cards. Mix the Letter Cards, and have students rebuild it as they point to and say the letters.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

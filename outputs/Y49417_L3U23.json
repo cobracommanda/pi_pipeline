@@ -1,0 +1,2458 @@
+{
+  "workbook": "Y49417_L3U23.xlsx",
+  "totals": {
+    "sheets": 10,
+    "slides": 37,
+    "audio_items": 328
+  },
+  "sheets": [
+    {
+      "sheet_name": "Lvl_3_Unt_23_Lsn_1",
+      "base": "level_3_unit_23_lesson_1",
+      "level": 3,
+      "unit": 23,
+      "lesson_num": 1,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 1",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_1_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 23, Lesson 1. Let’s start by gathering your lesson materials. You'll need your Student Books for Unit 22 and Unit 23.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 22 Student Book. Whisper read the story “Sam Kent’s Journal.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 1 spread>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the suffixes -er and -or, let’s blend some words using these suffixes and other word parts and sounds we have learned. Listen as I sound out the first two words.",
+              "notes": "<visual: show blend words table>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_1_4",
+              "file_type": "Embedded MP4",
+              "transcription": "/rrrēēēd/, read. /rrrēēēdûûûrrr/, reader. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 1",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_1_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 1",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_1_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Suffixes \"er\" and \"or.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards \"er\" and \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"play.\" Add the suffix \"er\" to the end of \"play.\" What is the new word?",
+              "notes": "<visual: show the word \"play\" across from the phonics/syllable card \"er\" and the word \"player\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Player. <pause> The suffix \"er\" can mean “a person who” or “something that does.” A player is “a person who plays something.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"act.\" Add the suffix \"or\" to the end of \"act.\" What is the new word?",
+              "notes": "<visual: show the word \"act\" across from the phonics/syllable card \"or\" and the word \"actor\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Actor. <pause> The suffix \"or\" can mean “a person who” or “something that does.” An actor is a person who acts."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding suffixes \"er\" or \"or\" to the following words and see how many new words you can make.",
+              "notes": "<visual: show the phonics/syllable cards \"er\" and \"or\" and the following word cards: teach, read, help, sail, invent, collect>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now write \"er\" and \"or\" multiple times as you say the sounds for each."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about rocks and minerals. First, look at these six pictures. Listen as I read each word. Repeat the word after I say it. sedimentary rock <pause>, metamorphic rock <pause>, igneous rocks <pause>, gems <pause>, calcium <pause>, potassium. Look at the picture of potassium. What colors do you see?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about rocks and minerals. The word is essential. Essential means “necessary or important to have.”",
+              "notes": "<visual: Show the vocabulary card and the word, essential>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words essential and solid>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Earth’s Essential Elements”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about rocks and minerals? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 12
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_1_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 1 in your Unit 23 Student Book. The title of this story is \"Renata the Rock Star.” Point to each word as you read the title with me: Renata the Rock Star. This fictional, or made-up, story is about a girl who collects and paints rocks.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: intend. Intend means to plan on doing something. The children intend to do their homework after they have a snack. What do you intend to do this weekend?",
+              "notes": "<visual: Show the story and the word, intend>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the phrase in the first paragraph that describes Renata."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What does Renata intend to do with the rocks after she paints them? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Which word describes Renata: selfish or giving? Explain."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What can you do to make someone smile today?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write how the walkers, hikers, and bike riders will most likely react to Renata’s rocks. <pause> Share your ideas with a partner before you write. Look back at the story for ideas.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_1_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_23_Lsn_2",
+      "base": "level_3_unit_23_lesson_2",
+      "level": 3,
+      "unit": 23,
+      "lesson_num": 2,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Initial, Medial, and Final Sounds"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 2",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_2_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 23, Lesson 2. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 23.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 1 in your Unit 23 Student Book. Whisper read the story “Renata the Rock Star.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 1 spread>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: area, ever, hours, measure, notice.>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word measure. Say the word with me. Measure. What syllables do you hear in measure? Let’s clap the syllables as we say the word slowly: mea-sure. The last syllable is spelled sure. That’s a common ending syllable in words like treasure and pleasure, so it’s good to emember this spelling."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: m-e-a-s-u-r-e. The word \"measure\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: area, ever, hours, measure, notice."
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 2",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Initial, Medial, and Final Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_2_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: tray",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word tray, but change the beginning sound. Change /t/, to /g/. What's the new word? <pause> gray"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the ending sound of a word. Listen as I say a word: send"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word send, but change the ending sound. Change /d/, to /t/. What's the new word? <pause> sent"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the middle sound of a word. Listen as I say a word: man"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Audio: Say the word man, but change the middle sound. Change /a/, to /ē/. What's the new word? <pause> mean"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_3_9",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 2",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_2_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about soil. First, look at the picture. Listen as I read each word. Repeat the word after I say it. grass <pause>, organic layer <pause>, topsoil <pause>, subsoil <pause>, bedrock. Look at the subsoil and bedrock in the picture. What do you notice about them?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about soil. The word is layers. Layers means “things that lie above or under other things.”",
+              "notes": "<visual: Show the vocabulary card and the word, layers>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words layers and vital>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “What’s the “Dirt” on Soil?”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about soil? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 2",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_2_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"er\" and \"or.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards \"er\" and \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"paint.\" Add the suffix \"er\" to the end of \"paint.\" What is the new word?",
+              "notes": "<visual: show the word \"paint\" across from the phonics/syllable card \"er\" and the word \"painter\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Painter. <pause> The suffix \"er\" can mean “a person who” or “something that does.” A painter is “a person who paints.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"sail.\" Add the suffix \"or\" to the end of \"sail\" What is the new word?",
+              "notes": "<visual: show the word \"sail\" across from the phonics/syllable card \"or\" and the word \"sailor\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "Sailor. <pause> The suffix \"or\" can mean “a person who” or “something that does.” A sailor is a person who sails."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding suffixes \"er\" or \"or\" to the following words and see how many new words you can make.",
+              "notes": "<visual: show the phonics/syllable cards \"er\" and \"or\" and the following word cards: fight, write, read, lead, invent, bank>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the suffixes -er and -or, let’s blend some words using these suffixes and other word parts and sounds we have learned. Listen as I sound out the first two words."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_8",
+              "file_type": "Embedded MP4",
+              "transcription": "/rrrēēēd/, read. /rrrēēēdûûûrrr/, reader. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.' Say the word nice and loud."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 2 in your Unit 23 Student Book. The title of this text is \"The Soil Doctor.” Point to each word as you read the title with me: The Soil Doctor. This comic is about soil and people who work with soil. The narrator is Gregor, a gopher, and his words are in speech bubbles.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_10",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: mixture. Mixture is something made of smaller parts that are now “mixed” together. I helped Dad pour the mixture of yogurt and berries into the bowls. A jar of coins can have a mixture of quarters, dimes, nickels, and pennies.",
+              "notes": "<visual: Show the story and the word, mixture>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_11",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_12",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word in the title that has an -or ending."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_13",
+              "file_type": "Audio Bar",
+              "transcription": "What is dirt a mixture of? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_14",
+              "file_type": "Audio Bar",
+              "transcription": "Why do Doctor Lee and Farmer Johnson work together? Explain."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_15",
+              "file_type": "Audio Bar",
+              "transcription": "Do you think soil is gross or interesting? Why?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_16",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_17",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: List what Doctor Lee learned about Farmer Johnson’s soil. <pause> Draw a picture to accompany your list.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_2_5_18",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 18
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 39
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_23_Lsn_3",
+      "base": "level_3_unit_23_lesson_3",
+      "level": 3,
+      "unit": 23,
+      "lesson_num": 3,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 3",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_3_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 23, Lesson 3. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 23.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 2 in your Unit 23 Student Book. Whisper read the story “The Soil Doctor.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 2 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 3",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_3_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 3",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_3_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"er\" and \"or.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards \"er\" and \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"sing.\" Add the suffix \"er\" to the end of \"sing.\" What is the new word?",
+              "notes": "<visual: show the word \"sing\" across from the phonics/syllable card \"er\" and the word \"singer\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Singer. <pause> The suffix \"er\" can mean “a person who” or “something that does.” A singer is “a person who sings.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"collect.\" Add the suffix \"or\" to the end of \"collect\" What is the new word?",
+              "notes": "<visual: show the word \"collect\" across from the phonics/syllable card \"or\" and the word \"collector\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Collector. <pause> The suffix \"or\" can mean “a person who” or “something that does.” A collector is a person who collects something."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the suffixes -er and -or, let’s blend some words using these suffixes and other word parts and sounds we have learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with -er."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words with -or."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word sail. <pause> Add -or to the end. What word did you make? Sailor",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word sail <pause>. Now change sail to sailor. Which sound is different? Which letter will be different?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "<visual: show the letter cards to build the words>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 3 in your Unit 23 Student Book. Today we are going to read some cumulative sentences. These sentences contain words that end with -er and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together.",
+              "notes": "<visual: Show Cumulative Sentences, pages 12-13>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words that end with -er. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word container. <pause> When you are finished, read your sentence to a partner.",
+              "notes": "<visual: show sentence strips and word container>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: actor/director, pitcher/catcher.",
+              "notes": "<visual: show sentence strips and word pairs actor/director, pitcher/catcher>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_17",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_18",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_19",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_20",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_21",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_22",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_23",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_24",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_25",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_26",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_27",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_28",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_3_4_29",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 29
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 39
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_23_Lsn_4",
+      "base": "level_3_unit_23_lesson_4",
+      "level": 3,
+      "unit": 23,
+      "lesson_num": 4,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 3,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        },
+        {
+          "slide_number": 4,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Suffixes -er, -or"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 4",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_4_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 23, Lesson 4. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 23.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 3 in your Unit 23 Student Book. Whisper read the cumulative sentences.",
+              "notes": "<visual: Student Book Lesson 3 spread>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Introduce High-Frequency Words. Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: order, piece, short, today, true>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word today. Say the word with me. Today. The word \"today\" has two parts: to-day We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: t-o-d-a-y."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: order, piece, short, true."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word worker."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word actor."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_11",
+              "file_type": "Audio Bar",
+              "transcription": "Spelling Booster: Let's write some more words. Listen to each word I say. Break apart the word sound by sound, then write the letter or spelling for each sound.",
+              "notes": "<visual: show Spelling Booster image>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_12",
+              "file_type": "Audio Bar",
+              "transcription": "survivor"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_13",
+              "file_type": "Audio Bar",
+              "transcription": "speaker"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_14",
+              "file_type": "Audio Bar",
+              "transcription": "builder"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_15",
+              "file_type": "Audio Bar",
+              "transcription": "visitor"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_1_16",
+              "file_type": "Audio Bar",
+              "transcription": "stranger"
+            }
+          ],
+          "audio_total": 16
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 4",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_4_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"er\" and \"or.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "The suffixes \"er\" and \"or\" can mean “a person who” or “something that does.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Then, read each word as your teacher taps on it.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 4",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_4_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 4 in your Unit 23 Student Book. The title of this text is \"Riddle Me This!\" Point to each word as you read the title with me: Riddle Me This! These are riddles. Each riddle contains clues about a noun. You will identify the word. Read the riddles. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Find all the words in the riddles with suffixes -er and -or and circle them. <pause> Chorally read the circled words."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Write the sentence I say. Listen carefully and focus on one word at a time.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "The first sentence is: The diners notice that the waiter is very busy. Say the sentence with me: The diners notice that the waiter is very busy. Now write the sentence. Your teacher will help you segment, or break apart, each word and write a letter for each sound."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "The second sentence is: The narrator tells the story of a great warrior. Say the sentence with me: The narrator tells the story of a great warrior. Now write the sentence. Your teacher will help you if you need it."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Let's read each sentence out loud. Check your work. Your teacher will write each sentence. Correct your spellings if necessary."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_3_7",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Suffixes -er, -or",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_4_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review suffixes. Suffixes \"er\" and \"or\" are added to some verbs to form nouns. These suffixes can mean “a person who” or “something that does.”",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Some base words require spelling changes before adding suffixes, such as dropping the final \"e\" or doubling the final consonant."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: drum. Before adding the suffix \"er\" to \"drum,\" we need to double the final consonant \"m.\"",
+              "notes": "<visual: show the following: drum drum+m+er drummer (show \"er\" in red font)"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's add suffix \"er\" to the end of the word \"drum.\" What is the new word?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "drummer. <pause> A drummer is “a person who plays the drums.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: create. Before adding the suffix \"or\" to \"create,\" we need to drop the final \"e.\"",
+              "notes": "<visual: show the following: create create-e+or creator (show \"or\" in red font) >"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's add suffix \"or\" to the end of the word \"create.\" What is the new word?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "creator. <pause> A creator is “someone who creates.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_4_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding suffixes \"er\" or \"or\" to the following words.",
+              "notes": "<visual: show the following words across from the following phonics/syllable cards: win (er card), senate (or card), grow (er card), educate (or card)>"
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 36
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_23_Lsn_5",
+      "base": "level_3_unit_23_lesson_5",
+      "level": 3,
+      "unit": 23,
+      "lesson_num": 5,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Suffixes -er, -or"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 5",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_5_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 23, Lesson 5. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 23.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 4 in your Unit 23 Student Book. Whisper read the story “Riddle Me This!” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 4 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 5",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_5_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 5",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_5_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about soil and sand. First, look at these two pictures. Listen as I read each word. Repeat the word after I say it. garden <pause>, pot <pause>, plant <pause>, soil <pause>, ocean <pause>, beach <pause>, sandcastle <pause>, sand. Look at the sand in the picture. What can you do with sand?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about soil and sand. The word is common. Common means “widespread or used by many people.”",
+              "notes": "<visual: Show the vocabulary card and the word, common>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words common and plunge>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Getting to Know Soil and Sand.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about soil and sand? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Suffixes -er, -or",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_5_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review suffixes. Suffixes \"er\" and \"or\" are added to some verbs to form nouns. These suffixes can mean “a person who” or “something that does.”",
+              "notes": "<visual: show the phonics/syllable cards for \"er\" and \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"ride.\" Before adding the suffix \"er\" to ride, we need to drop the final \"e.\" Now let's add suffix \"er\" to the end of the word. What is the new word?",
+              "notes": "<visual: show the following: ride ride-e+er rider (show \"er\" in red font) >"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "rider. <pause> A rider is “someone who rides.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's add suffix \"or\" to the end of the word \"conduct.\" What is the new word?",
+              "notes": "<visual: show the word \"conduct\" using letter cards and the phonics/syllable card for \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "conductor. <pause> A conductor is “someone who conducts.”",
+              "notes": "<visual: show the word \"conduct\" using letter cards and the phonics/syllable card for \"or\", under them, show the word \"conductor\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding suffixes \"er\" or \"or\" to the following words.",
+              "notes": "<visual: show the following words across from the following phonics/syllable cards: sing (er card), survive (or card), jog (er card), elevate (or card)>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Look at these words. Let's read the words together: director, editor, offi cer, tailor, leader, janitor, painter, manager, doctor, builder, aviator, soldier. Now look at these two categories. This is the word director. Read the word with me. <pause> Which category should I put director under? <pause> Yes, director goes in the -er category because the word director ends with -er. With your partner, continue to sort the rest of the words.",
+              "notes": "<visual: show words director, editor, offi cer, tailor, leader, janitor, painter, manager, doctor, builder, aviator, soldier> <visual: show word director> <visual: show the sorting cards er and or in a pocket chart>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "What did you notice about the words in each group?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "\"-er\" and \"-or\" are common word parts. You may notice the -er word part in many words. As we read, let's look for words with -er and -or."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_10",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 5 in your Unit 23 Student Book. The title of this text is \"Let's Make a Terrarium.” Point to each word as you read the title with me: Let's Make a Terrarium. You will read a procedural text about how to make a terrarium, which is a small habitat for plants and/or animals.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_11",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: sufficient. Sufficient means enough. Three pizzas are sufficient for the birthday party. How do you know if a plant has received a sufficient amount of water?",
+              "notes": "<visual: Show the story and the word, sufficient>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_12",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_13",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word in the first sentence that has a suffix."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_14",
+              "file_type": "Audio Bar",
+              "transcription": "How can you tell that the terrarium has a sufficient amount of soil? Find the sentence that answers this question."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_15",
+              "file_type": "Audio Bar",
+              "transcription": "How does the diagram help you understand the directions? Explain."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_16",
+              "file_type": "Audio Bar",
+              "transcription": "Would you like to make your own terrarium?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_17",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_18",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Draw four boxes on a sheet of paper. <pause> Write one key step for building a terrarium in each box. Use these steps to write a one or two sentence summary of the text. <pause> Share your summary with a partner before writing.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_5_5_19",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 19
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_23_Lsn_6",
+      "base": "level_3_unit_23_lesson_6",
+      "level": 3,
+      "unit": 23,
+      "lesson_num": 6,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Sounds"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 6",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_6_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 23, Lesson 6. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 23.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 5 in your Unit 23 Student Book. Whisper read the text “Let’s Make a Terrarium.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 5 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 6",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_6_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: and",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word and, but change /d/ to /t/. What's the new word? <pause> ant"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the second sound in a word. Listen as I say a word: clue"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word clue, but change /l/ to /r/. What's the new word? <pause> crew"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 6",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_6_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"er\" and \"or.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards \"er\" and \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"play.\" Add the suffix \"er\" to the end of \"play.\" What is the new word?",
+              "notes": "<visual: show the word \"play\" across from the phonics/syllable card \"er\" and the word \"player\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Player. <pause> The suffix \"er\" can mean “a person who” or “something that does.” A player is “a person who plays something.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"act.\" Add the suffix \"or\" to the end of \"act.\" What is the new word?",
+              "notes": "<visual: show the word \"act\" across from the phonics/syllable card \"or\" and the word \"actor\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Actor. <pause> The suffix \"or\" can mean “a person who” or “something that does.” An actor is a person who acts."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Say the sound for each letter or spelling as your teacher points to it. Blend the sounds to read the word. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: area, ever, hours, measure, notice, order, piece, short, today, true.>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word area. Say the word with me: \"area\""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: a-r-e-a. The word \"area\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: area, ever, hours, measure, notice, order, piece, short, today, true."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "<visual: show the letter cards to build the words>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 6 in your Unit 23 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with suffixes -er or -or and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together.",
+              "notes": "<visual: Show Cumulative Sentences, pages 18-19>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with suffixes -er or -or. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word dancer. <pause> When you are finished, read your sentence to a partner.",
+              "notes": "<visual: show sentence strips and word dancer>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: washer/dryer, tutor/ruler.",
+              "notes": "<visual: show sentence strips and word pairs washer/dryer, tutor/ruler>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_6_4_17",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 17
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 25
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_23_Lsn_7",
+      "base": "level_3_unit_23_lesson_7",
+      "level": 3,
+      "unit": 23,
+      "lesson_num": 7,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 3,
+          "section": "High-Frequency Word Booster",
+          "title": "Review High-Frequency Words"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 7",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_7_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 23, Lesson 7. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 23.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 6 in your Unit 23 Student Book. Whisper read the cumulative sentences. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 6 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 7",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_7_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 7",
+          "section": "High-Frequency Word Booster",
+          "title": "Review High-Frequency Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_7_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Read: Look at the high-frequency words. Read each word along with me. area, <pause> ever, <pause> hours, <pause> measure, <pause> notice, <pause> order, <pause> piece, <pause> short, <pause> today, <pause> true.",
+              "notes": "<visual: show \"area, ever, hours, measure, notice, order, piece, short, today, true\" as cards in pocket-chart pockets, add one blank pocket-row, show tray with only letters for the first word.> [intended for teacher to model the first word]"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Build: Now let's build a word together. Watch as your teacher spells the word."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now use your letter cards to build all the words."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write: Write each word. Then write a sentence using each word. For example, you can start a sentence with \"I can use a ______ to a measure ______ .\" Read your sentences to a partner when you are done.",
+              "notes": "<visual: show sentence frame \"I can use a [blank] to measure [blank].\" Then show \"area, ever, hours, measure, notice, order, piece, short, today, true\" as cards in pocket-chart pockets underneath sentence frame>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher is going to make a word with letter cards. <pause> What is the word? <pause> Spell it together. <pause> Watch as your teacher scrambles the letters. Fix the spelling.",
+              "notes": "<visual: empty pocket rows with tray with letter cards for 2nd word>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 7 in your Unit 23 Student Book. The title of this text is \"Beach Day!\" Point to the word as you read the title with me: Beach Day! This text is about preparing for a beach day and includes a list.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "What do you notice or wonder about when viewing the list?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Write a list of the supplies you use in school every day.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_3_9",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 7",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_7_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"er\" and \"or.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards \"er\" and \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "The suffixes \"er\" and \"or\" can mean “a person who” or “something that does.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"act.\" Add the suffix \"or\" to the end of \"act.\" What is the new word?",
+              "notes": "<visual: show the word \"act\" across from the phonics/syllable card \"or\" and the word \"actor\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Actor."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Practice by adding the suffix \"er\" to the word \"play.\"",
+              "notes": "<visual: show the word \"play\" across from the phonics/syllable card \"er\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: area, ever, hours, measure, notice, order, piece, short, today, true.>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word ever. Say the word with me: \"ever\""
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: e-v-e-r. The word \"ever\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_7_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: area, ever, hours, measure, notice, order, piece, short, today, true."
+            }
+          ],
+          "audio_total": 11
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 30
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_23_Lsn_8",
+      "base": "level_3_unit_23_lesson_8",
+      "level": 3,
+      "unit": 23,
+      "lesson_num": 8,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Homographs"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 8",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_8_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 23, Lesson 8. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 23.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 7 in your Unit 23 Student Book. Whisper read the text “Beach Day!” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 7 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Homographs",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_8_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"wound.\" (/woond/) When \"wound\" is pronounced this way, it is a noun that means “an injury.”",
+              "notes": "<visual: show the word wound>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen as I read the following word: \"wound.\" When \"wound\" is pronounced this way, it means the past tense of the verb wind (/wind/)."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "\"wound\" and \"wound\" are homographs. The words are spelled the same but have different pronunciations and meanings. In a text, the context—or words near the homograph—gives readers clues about which meaning of the word the author intends."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"bow.\" When \"bow\" is pronounced this way, it is a noun that means a knot tied with two loops and two loose ends.",
+              "notes": "<visual: show the word bow>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen as I read the following word: \"bow.\" When \"bow\" is pronounced this way, it is a verb meaning to bend the head, body, or knee."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Can you think of any other homographs?",
+              "notes": "<visual: show the sentence: Can you think of any other homographs?>"
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 8",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_8_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"er\" and \"or.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards \"er\" and \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "The suffixes \"er\" and \"or\" can mean “a person who” or “something that does.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"play.\" Add the suffix \"er\" to the end of \"play.\" What is the new word?",
+              "notes": "<visual: show the word \"play\" across from the phonics/syllable card \"er\" and the word \"player\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Player."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Practice by adding the suffix \"or\" to the word \"act.\"",
+              "notes": "<visual: show the word \"act\" across from the phonics/syllable card \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with suffixes."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words that are homographs."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word sing. <pause> Add -er to the end. What wo rd did you make? Singer. What does this new word mean?",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word sing <pause>. Now change sing to singer. Which sound is different? Which letters will be different?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about how sand is made. First, look at the picture. Listen as I read each word. Repeat the word after I say it. rock <pause>, hoodoo <pause>, sky <pause>, canyon. Look at the rock in the picture. What different things do you notice about the rock?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about how sand is made. The word is process. Process means “a series of actions or steps.”",
+              "notes": "<visual: Show the vocabulary card and the word, process>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words process and extend>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “The “Life Cycle' of Sand.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about how sand is made? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 16
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 8",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_8_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 8 in your Unit 23 Student Book. The title of this story is \"Our Sandcastles.” Point to each word as you read the title with me: Our Sandcastles. You will read a story about a girl going to the beach with her sister and grandma.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: demolished. Demolished is destroyed. The old library was demolished after the new library was built. Have you ever seen a building get demolished? If so, what happened?",
+              "notes": "<visual: Show the story and the word, demolished>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word that names the grandmother’s job."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What demolished the sandcastle? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "How are the narrator and the narrator’s sister alike? How are they different?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Would you rebuild the sandcastle after it was destroyed? Why or why not?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Draw a picture to remember the important details in the story. Label the details, such as beach, sandpiper, sandcastle, and wave. <pause> Use the drawing to retell the story to a partner. <pause> Then, write your retelling.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_8_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_23_Lsn_9",
+      "base": "level_3_unit_23_lesson_9",
+      "level": 3,
+      "unit": 23,
+      "lesson_num": 9,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 9",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_9_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 23, Lesson 9. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 23.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 8 in your Unit 23 Student Book. Whisper read the story “Our Sandcastles.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 8 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 9",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_9_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"er\" and \"or.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards \"er\" and \"or\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_10",
+              "file_type": "Audio Bar",
+              "transcription": "The suffixes \"er\" and \"or\" can mean “a person who” or “something that does.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_11",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let's blend some words to practice what we've learned. Read each word as your teacher taps on it. Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_12",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_13",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_14",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word banker."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_15",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word janitor."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_2_16",
+              "file_type": "Audio Bar",
+              "transcription": "Finally, write this sentence: We will order a new monitor for our computer."
+            }
+          ],
+          "audio_total": 16
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 9",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_9_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about erosion shaping land. First, look at these two pictures. Listen as I read each word. Repeat the word after I say it. Grand Canyon <pause>, river <pause>, The Wave <pause>, ridge <pause>, sandstone. Look at the sandstone in the picture. What do you notice about it?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about erosion shaping land. The word is gradually. Gradually means “happening little by little or slowly over a long period of time.”",
+              "notes": "<visual: Show the vocabulary card and the word, gradually>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words gradually and deposit>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Shaping the Land in Amazing Ways.”"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about erosion shaping land? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_9_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 9 in your Unit 23 Student Book. The title of this text is \"Mudslide.” Point to each word as you read the title with me: Mudslide. This text is an interview about a recent mudslide. In the interview, a reporter asks questions and two people answer them.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: primary. Primary means most important. Molly’s primary reason for becoming a veterinarian is her love of animals. What do you think is the primary way we can protect, or keep safe, Earth’s environment?",
+              "notes": "<visual: Show the story and the word, primary>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word that tells who is asking the questions in this text."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "According to Will, what is the primary cause of the mudslide? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Why does the reporter interview James and Will about the mudslide? Explain."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What are some ways that people can help others who are affected by natural disasters?"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write an interview between the reporter and the governor. <pause> Share your ideas with a partner before writing.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_9_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 33
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_23_Lsn_10",
+      "base": "level_3_unit_23_lesson_10",
+      "level": 3,
+      "unit": 23,
+      "lesson_num": 10,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Homographs"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Sounds"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 10",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_10_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 23, Lesson 10. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 23.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 23 Student Book. Whisper read the story “Mudslide.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 9 spread>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's make a word ladder. I will give you a clue for each word to write on the word ladder.",
+              "notes": "<visual: empty word ladder with 6 rungs>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write dream."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Add a suffix to dream to name someone who dreams."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Change dreamer to name someone who trains animals."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Change trainer to name someone who walks."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Add a suffix to dream to name someone who dreams."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Change surfer to name someone who helps."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher will ask you to read and write some words to check on your progress. Congratulations on all your hard work in Unit 23!",
+              "notes": "<visual: show Cumulative Assessment page 30>"
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Homographs",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_10_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review homographs. Homographs are words that are spelled the same but have different pronunciations and meanings. The words \"pruh-duce\" – which means to make something – and \"pro-duce\" which is something that is grown – are examples of homographs.",
+              "notes": "<visual: show the word \"produce\" twice>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Identify two meanings and pronunciations for the following homographs.",
+              "notes": "<visual: show the words \"dove,\" \"bass,\" \"tear,\" \"close\">"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Look at the high-frequency words.",
+              "notes": "<visual: area, ever, hours, measure, notice, order, piece, short, today, true>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher reads a high-frequency word from the list. Point to the word. Read the word. Spell the the word aloud."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now build each high-frequency word using letter cards. Then work with a partner. Take turns scrambling the letters in the words. Rebuild each word. Watch as your teacher models scrambling and rebuilding the word \"hours.\"",
+              "notes": "<visual: pocket chart with 3rd word spelled out with letter cards: hours>"
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 10",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_23_lesson_10_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: day",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word day, but change the beginning sound. Change /d/, to /p/. What's the new word? <pause> pay"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the ending sound of a word. Listen as I say a word: send"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word send, but change the ending sound. Change /d/, to /t/. What's the new word? <pause> sent"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the middle sound of a word. Listen as I say a word: ran"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word ran, but change the middle sound. Change /a/, to /ā/. What's the new word? <pause> rain"
+            },
+            {
+              "filename": "level_3_unit_23_lesson_10_3_9",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 24
+      }
+    }
+  ]
+}

@@ -1,0 +1,2372 @@
+{
+  "Y49416_TG_L3_U22_L01": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they point to each word.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that this story is about a girl who learns how the climate on Earth is changing. Explain that climate is what the weather is like in a place, over a long period of time.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build Vocabulary ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Introduce the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "shift",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " using the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Define/Example/Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. You will prompt students to use this word to talk about the story. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Define:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " A ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "shift",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " is a change in something. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Example:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " I felt a ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "shift",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "in temperature because there was a cold breeze. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": What are some ways the temperature might ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "shift",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "throughout the year? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read the story. Circulate, listen in, and offer corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Check Comprehension  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, ask the following questions to check comprehension. Prompt students to answer each question with a partner before you call on volunteers to answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Find the plurals of ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "person",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "life",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " on the first page of the story. (people, lives)   ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "What climate ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "shift ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "did the girl learn about when she went to the rally? Find the sentences that answer the question.   ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "How do you think the hurricane, thunderstorm, and tornado warning affected how the girl feels about climate change? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Why is it important to help with a cause you feel strongly about?  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students reread the book during independent work time and as a warm-up to the next days lesson. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49416_TG_L3_U22_L02": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they point to each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that this text is a photo comic. It has panels and text boxes like a comic but uses photos and facts instead of illustrations and dialogue. Explain that Morris is the name of the moose featured in the comic. Invite students to share what they know about moose. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build Vocabulary ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Introduce the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "suited",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " using the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Define/Example/Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. You will prompt students to use this word to talk about the comic. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Define:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Suited",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " means appropriate or matched. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Example: ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "A polar bears fur is ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "suited",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " to its freezing home. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Ask:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " What is an activity that is ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "suited",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " to you? Why?  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read the text. Circulate, listen in, and offer corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Check Comprehension  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, ask the following questions to check comprehension. Prompt students to answer each question with a partner before you call on volunteers to answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Find the plural of ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "moose",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". (moose) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Where do moose migrate, or travel to? Find the sentences and text features that answer the question.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "In what ways are moose ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "suited ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "for the environments where they live? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "What else would you like to know about moose? How could you find more information about them? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students reread the book during independent work time and as a warm-up to the next days lesson. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49416_TG_L3_U22_L03": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read each sentence. Then ask them to chorally read it. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Focus on Irregular Plural Nouns ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students circle the irregular plural nouns. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have them point to and read those words to a partner. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write a sentence using the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "teeth",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students read the sentence to a partner. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Discuss Sentence Structure ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Discuss the phrases in sentences 35. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Model how to chunk the text into meaningful phrases as you read each sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students echoread the sentences, replicating your phrasing. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49416_TG_L3_U22_L04": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Explain  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title. Explain that this text is a photo comic. It has panels, speech bubbles, and text boxes like a comic but uses photos together with illustrations. Ask students to listen to the story to find out about lightning and thunder. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "For the first reading, have students echoread the text with you. Then pair students to reread the comic. Partners can take turns reading Sam and Moms dialogue.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Prompt  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Prompt students to find the irregular plural",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "in the comic and circle it. Then have students chorally read the circled word. Ask students questions about the text to confirm understanding.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Say each word, guide students to write it, then proceed to the next word in the sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Offer Phonics Supports ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Provide supports for words that are completely comprised of the phonics skills students have learned.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "These supports include sound boxes, tapping the sounds, and so on. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Offer High-Frequency Word Supports ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Provide supports for the high-frequency words students have learned.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "These supports include the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Read/Build/Write",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students read the entire sentence aloud. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Self-Correct: Write the sentences on the board, and have students self-correct. Take note of errors on each students Student Observation Form. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49416_TG_L3_U22_L05": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they point to each word. Explain that students will read about more effects of climate change.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build Vocabulary ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Introduce the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "consequence",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " using the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Define/Example/Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. You will prompt students to use this word to talk about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Define",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": A ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "consequence",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " is the result or effect of something.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Example",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": A ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "consequence",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " of eating too many sweets can be a stomachache.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": What might be the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "consequence",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " of going outside in the rain without an umbrella? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read the text. Circulate, listen in, and offer corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Check Comprehension  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, ask the following questions to check comprehension. Prompt students to answer each question with a partner before you call on volunteers to answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Find two irregular plural nouns on the second page of the text. (lives, people)",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "What is one example of a ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "consequence",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", or effect, of a heat wave? Find sentences that answer this question.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Why does the author say that extreme weather is dangerous? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "How would you describe the weather today where you live? How would you describe the climate where you live? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49416_TG_L3_U22_L06": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read each sentence.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then ask them to chorally read it.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Focus on Irregular Plural Nouns ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students circle irregular plural nouns. Have them point to and read those words to a partner. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write a sentence using the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "feet",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Have them read the sentence to a partner. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Discuss Sentence Structure ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Discuss the different end punctuation for sentences 2 (period) and 3 (question mark). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Model how you change your intonation when reading a question (raise voice at end). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students echoread the sentences, replicating your intonation. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49416_TG_L3_U22_L07": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Explain ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they point to each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that this is a chart that compares and contrasts weather and climate. It tells how weather and climate are alike and different.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Guide students through a reading of the selection, including the headings. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Prompt ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Prompt students to share what they notice and wonder when viewing the chart. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49416_TG_L3_U22_L08": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they say each word. This is an on-level selection. It is provided to gauge where students are in their reading progress toward grade-level goals. Students might need to listen and follow along with the e-book for support before they read the book on their own. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain to students that they will read a text about the dust storms that took place in the Midwest nearly one hundred years ago.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build Vocabulary ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Introduce the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "erosion",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " using the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Define/Example/Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. You will prompt students to use this word to talk about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Define",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Erosion",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " is the breaking away of soil and rocks caused by wind, water, and other forces.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Example",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": Waves can cause sand",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "erosion",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " at the beach. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": How do you think wind and water cause ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "erosion",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "? Tell about your ideas.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisper-read the text. Circulate, listen in, and offer corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Check Comprehension ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, ask the following questions to check comprehension. Prompt students to answer each question with a partner before you call on volunteers to answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Find three irregular plural nouns on the first page",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ".",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (teeth, people, children)  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "How did ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "erosion",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " play a part in the dust storms of the 1930s? Find the sentences that answer this question.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Why did many people leave their homes during the dust storms? Why do you think other people stayed? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Imagine that your family lived through the dust storms. What do you think it was like? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students reread the book during independent work time and as a warm-up to the next days lesson. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49416_TG_L3_U22_L09": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Read the title, and have students repeat as they point to each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that this passage is a journal entry written by a man visiting the Grand Canyon. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build Vocabulary ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Introduce the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "account",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " using the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Define/Example/Ask",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " routine. You will prompt students to use this word to talk about the story. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Define",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": An ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "account",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " is a telling of events or a report. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Example",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ": Dad gave an ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "account",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " of what happened on his way home. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Ask:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " When have you given an ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "account",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " of something that happened? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students whisperread the story. Circulate, listen in, and offer corrective feedback. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Check Comprehension ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, ask the following questions to check comprehension. Prompt students to answer each question with a partner before you call on volunteers to answer the question. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Find an irregular plural noun in the second paragraph. (teeth)  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "What does Sam Kent see as he looks down into the canyon? Find the sentences that answer the question.   ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Why do you think Sam Kent wrote this account in his journal?  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk_indent",
+          "runs": [
+            {
+              "text": "Would you like to visit the Grand Canyon? Why or why not? Use details from Sam Kents journal to support your answer. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students reread the book during independent work time and as a warm-up to the next days lesson. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49416_TG_L3_U22_L10": []
+}

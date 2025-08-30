@@ -1,0 +1,4604 @@
+{
+  "Y49422_TG_L3_U28_L01": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Tell students that a possessive noun shows ownership. Explain that to show one person or thing owns something, add apostrophe ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(s). To show more than one person or thing owns something, add an apostrophe (s). Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to an irregular plural noun that does not end in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (e.g. children/childrens). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Model how to form possessives using ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dog",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " dogs",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " dogs",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "children/childrens",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Then use each word in a sentence to distinguish singular from plural nouns.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Practice  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the following words:",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " mom",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " cats",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " men",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Have students form the possessive for each one and then say and write a sentence for it. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "(Add words with skills your students need to review.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the first two words in the first line. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "Card-BlendWords",
+          "runs": [
+            {
+              "text": "boy\tboys",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What do you see thats different in these two words? Why?",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Chorally Read  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the remaining words in each line. For the first time through the blending lines, point to each letter or spelling as students say the sound. Then run your finger under the letters as students blend the sounds orally. Finally, have students say the word.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Corrective Feedback: Provide corrective feedback by pointing to the missed spelling, stating the sound or sounds, having student repeat, then re-blending the word together. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: Physical States of Matter ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photos on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "familiar",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " similar",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "characteristics",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "container",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and check understanding.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49422_TG_L3_U28_L02": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Remind students that possessive nouns show ownership. Review how to form possessives using ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dog/dogs/dogs",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "children/childrens",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Then use each word in a sentence to distinguish singular from plural nouns. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the following words:",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " book",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " books",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " men",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Model how to form the possessive for each word. Guide students in reading each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the following words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " painting",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " paintings",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " geese",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ".",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Have students form the possessive for each word. Have students make a sentence with each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the modified Lesson 1 blending words (with additional review words) to apply the skill.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Pause before each word for students to whisper-blend it before having them read it together aloud. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Corrective Feedback: Provide corrective feedback by pointing to the missed sound-spelling, stating it, having students repeat, then re-blending the word together. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the high-frequency words one at a time. Point to and say the word, having students repeat after you. Guide students to orally segment the word. Discuss known and unknown word parts. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Which sounds do you hear in",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "gave",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "? (/g/ /a/ /v/)? Which letters do you see? (g-a-v-e) English words dont end in the letter v. If you hear the v",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "sound at the end of the word, add the letter ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "e",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ", as in the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "give",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "love",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Finally, have students use each word in an oral sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: The Math Behind the Games We Play ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photo on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "predict",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "defeat",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "opponents",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "positions",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "realize",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and check understanding. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49422_TG_L3_U28_L03": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Remind students that a possessive noun shows ownership. To show one person or thing owns something, add apostrophe ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (s). To show more than one person or thing owns something, add an apostrophe (s). Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to an irregular plural noun that does not end in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (e.g., children/childrens).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the following words:",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " sign",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " signs",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " tooth",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " teeth",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Guide students in forming the possessive for each word. Then have students say and write a sentence for each word.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the modified Lesson 2 blending words (with additional review words) to apply the skill.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Pause before each word for students to whisper-blend it before having them read it together aloud. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, guide students to find and circle all the words with ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Then have them put a box around each word with ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blending Focus ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Create a card with an apostrophe or draw one on a sticky note. Use the apostrophe card and Letter Cards to build the following sequence of words. For additional clues, provide word meanings or use the word in a sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "mouse",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "mouses",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "houses",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "houses",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "duck",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "ducks",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "trucks",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "trucks",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets",
+          "runs": [
+            {
+              "text": "nights, knights, knights, knights ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(cumulative review) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "State the Letter Cards to change. For example, say:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Make",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "mouse",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " to the end. What new word did you make? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Word Awareness Focus  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Repeat, but dont tell students which letter to change. For example, say:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Change ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "mouse",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "mouses",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "Body-txt",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "Body-txt",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49422_TG_L3_U28_L04": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Remind students that a possessive noun shows ownership. To show one person or thing owns something, add apostrophe ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (s). To show more than one person or thing owns something, add an apostrophe (s). Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to an irregular plural noun that does not end in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (e.g., children/childrens).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the new blending lines. Focus attention on modeling for students how to transition from known one-syllable words to multisyllabic words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students select two possessive nouns.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Ask them to write on paper or a dry-erase board a sentence for each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards one at a time. Point to and say the word, having students repeat after you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Point out the irregular spelling of ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "ocean",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Highlight the letters ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "cean ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "for ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "/shun/",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ".  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Spelling Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use More Dictation ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Dictate the following words for students to spell: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "a cars",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " two cars",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " a womans",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "four womens",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Write the words on the board for students to self-correct. Note on each students Student Observation Form sound-spellings they struggle with. Include more words with these sound-spellings in upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49422_TG_L3_U28_L05": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Teach  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "tiger",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "tigers",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and , and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "people",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Read the words and identify the possessive endings. Have students repeat. Remind students that possessive nouns show ownership and can be singular, plural, or irregular plural nouns. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "tiger",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "tigers",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "people",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", one at a time. Model how to read the new words formed. Identify each noun as singular or plural possessive. Use each word in a sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Continue by adding  or ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to these words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "desk",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (s), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "chairs",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "women",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (s). Guide students to read the words and identify each as singular or plural possessive.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display each word, and guide students to read it.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Place the sorting cards ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Possessive",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Not Possessive",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " in a pocket chart. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model/Sort ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Model how to sort the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "cat",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "cats",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " under the correct category card. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have student partners sort the remaining words at their seats. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Chorally Respond ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students tell you how to sort the words in the pocket chart. Then have students chorally read the words in each column of the sort. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Discuss Observations ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Ask students what they notice about the words.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "If necessary, point out the difference between singular and plural nouns and singular and plural possessive nouns. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Encourage students to look for possessive nouns while reading. Highlight these words as you encounter them. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: A World of Radiation ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photos on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "spontaneously",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "luminous",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ingested",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "risk",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "hazardous",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and check understanding. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49422_TG_L3_U28_L06": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Remind students that a possessive noun shows ownership. To show one person or thing owns something, add apostrophe ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (s). To show more than one person or thing owns something, add an apostrophe (s). Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to an irregular plural noun that does not end in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (e.g., children/childrens).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the following words:",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " friend",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " friends",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " wolf",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " wolves",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Guide students in forming the possessive for each word. Then have students say and write a sentence for each word.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the new blending lines. Focus attention on modeling for students how to transition from known one-syllable words to multisyllabic words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards one at a time. Point to and say the word, having students repeat after you. Guide students to orally segment the word. Then discuss key features of each word to focus students attention on known (regular) and unknown (irregular) word parts. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Finally, have students use each word in an oral sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_6-10",
+          "runs": [
+            {
+              "text": "Build Words Booster (10 MIN.)",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 2,
+          "style": "lesson_B-hd_BoosterBox",
+          "runs": [
+            {
+              "text": "Build More Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Create a card with an apostrophe or draw one on a sticky note. Use the apostrophe card and Letter Cards to build the following sequence of words. For additional clues, provide word meanings or use the word in a sentence.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49422_TG_L3_U28_L07": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Remind students that a possessive noun shows ownership. To show one person or thing owns something, add apostrophe ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (s). To show more than one person or thing owns something, add an apostrophe (s). Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to an irregular plural noun that does not end in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (e.g., children/childrens).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the following words:",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " horse",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " horses",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " woman",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " women",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Model forming the possessive for each word.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Lesson 6 blending words to apply the skill. Pause before each word for students to whisper-blend it before having them read it together aloud. Provide corrective feedback by pointing to the missed sound-spelling, stating it, having students repeat, then re-blending the word together. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards one at a time. Point to and say the word, having students repeat after you.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "High-Frequency Words Booster (10 min.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read, Build, Write: brought, contain, front, gave, inches, material, noun, ocean, strong, verb ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards. Call out one word. Have students find the matching word card, repeat the word, and spell it aloud. Then have students build each word with Letter Cards. Extend the learning with one or more of the following activities: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Provide a sentence starter or frame for each word. Have students write and complete the sentences. Then have them read their sentences to a partner (e.g., An example of a noun is the word_____.). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets",
+          "runs": [
+            {
+              "text": "Make a word using Letter Cards. Have students read and spell aloud the word. Then mix the Letter Cards. Have students fix the spelling. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49422_TG_L3_U28_L08": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Remind students that a possessive noun shows ownership. To show one person or thing owns something, add apostrophe ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (s). To show more than one person or thing owns something, add an apostrophe (s). Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to an irregular plural noun that does not end in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (e.g., children/childrens). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the following words:",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " bird",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " birds",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "leaf",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "leaves",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Model forming the possessive for each word.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Lesson 6 blending words to apply the skill. When completed, guide students to find and circle all the words with ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Then have them put a box around each word with ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ".",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blending Focus ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Create a card with an apostrophe or draw one on a sticky note. Use the apostrophe card and Letter Cards to build the following sequence of words. For additional clues, provide word meanings or use the word in a sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "cooks",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "cooks",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "books",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "books ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "teeth",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "teeths",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "tooths",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " tooth",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "dance",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dancer",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dancers,",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dancers",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (transition to multisyllabic) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt_space_above",
+          "runs": [
+            {
+              "text": "State the Letter Card to change. For example, say: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Make ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "cooks",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". Move the apostrophe after",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". What word did you make? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Word Awareness Focus ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Repeat, but dont tell students which letter to change. For example, say: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Change ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "cooks",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "to its plural possessive form, ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "cooks",
+              "bold": true,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "Body-txt",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: Temperature and Changing States of Matter ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the images on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "melt",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "bound",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "boils",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "and",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " freeze",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and check understanding. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49422_TG_L3_U28_L09": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Remind students that a possessive noun shows ownership. To show one person or thing owns something, add apostrophe ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (s). To show more than one person or thing owns something, add an apostrophe (s). Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to an irregular plural noun that does not end in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (e.g., children/childrens).",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Lesson 6 blending words to quickly review the skill. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students select two words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Ask them to write a sentence for each word on paper or a dry-erase board. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Revisit the sentences to model sentence expanding by adding details. Have students expand one of their sentences. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 min.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: Making Glass from Sand ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photos on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "transform",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "mixture",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "vary",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "security",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and check understanding.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49422_TG_L3_U28_L10": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Teach ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Remind students that or ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " can be added to nouns to form possessive nouns. Display the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "lights",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "lights",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " mices",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Have students identify each word as a singular or plural possessive noun and explain how they know. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "lion",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " moose",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " geese",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Model how to form the possessive noun for each word and tell if the noun is singular or plural. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students select two of the possessive nouns and write sentences for them. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "This word describes a very sharp object. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(knife)",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Change the first two letters of knife to form a word that is the opposite of husband. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(wife)",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Add an ending to make wife a singular possessive noun. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(wifes)",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Change one letter and move the apostrophe in wifes to make a plural possessive noun. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(wives) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Replace one letter in wives to form a word that is the possessive plural of a very sharp object. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(knives)",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Replace two letters in knives to form the plural possessive form of life. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(lives) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "High-Frequency Words Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read, Build, Write: brought, contain, front, gave, inches, material, noun, ocean, strong, verb ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Call out one word. Have students find the matching word card, repeat the word, and spell it aloud. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Then have students build each word with Letter Cards. Mix the Letter Cards, and have students rebuild it as they point to and say the letters. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

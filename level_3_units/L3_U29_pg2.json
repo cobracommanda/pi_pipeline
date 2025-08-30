@@ -1,0 +1,4806 @@
+{
+  "Y49423_TG_L3_U29_L01": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Introduce  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that a prefix is a word part added to the beginning of a word. It changes the words meaning. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Phonics/Syllable Cards to model how to add prefixes ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to the following words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "happy",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (un), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "read",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (re), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "like",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (dis). Explain that ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " can mean not or the opposite of. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Unhappy",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means not happy. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Dislike",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means the opposite of like. Explain that ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means again. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", or ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to the following words to see how many words they can make: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "pack",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " open",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " agree",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". List the words as they form them. Discuss their meanings. Point out that the prefix is a separate syllable. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " multiple times as they say the sounds for each. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "(Add words with skills your students need to review.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the first two words in the first line. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "Card-BlendWords",
+          "runs": [
+            {
+              "text": "pack\tunpack",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What do you hear thats different in these two words? What do you see thats different?",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Chorally Read  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the remaining words in each line. For the first time through the blending lines, point to each letter or spelling as students say the sound. Then run your finger under the letters as students blend the sounds orally. Finally, have students say the word.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Corrective Feedback:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Provide corrective feedback by pointing to the missed spelling, stating the sound or sounds, having student repeat, then re-blending the word together. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: The Power of Polymers ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photos on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words features, manufactured, appearance, tangling, and attracted, and check understanding.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49423_TG_L3_U29_L02": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that a prefix is a word part added to the beginning of a word. It changes the words meaning.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Phonics/Syllable Cards to model how to add prefixes ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to the following words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "well",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (un), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "build",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (re), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "trust ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(dis). Explain that ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " can mean not or the opposite of. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Unwell",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means not well. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Distrust ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "means the opposite of trust. Explain that ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re- ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "means again. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", or ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to the following words to see how many words they can make: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "lock",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " use",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " believe",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". List the words as they form them. Discuss their meanings. Point out that the prefix is a separate syllable.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students select two of the words from the list and write sentences for them.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Corrective Feedback:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Provide corrective feedback by pointing to the missed sound-spelling, stating it, having students repeat, then re-blending the word together. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the high-frequency words one at a time. Point to and say the word, having students repeat after you. Guide students to orally segment the word. Discuss known and unknown word parts. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "What sounds do you hear in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "island",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "? (/",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "i",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "/ /",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "l",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "/ /",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "a",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "/ /",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "n",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "/ /",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "d",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "/) What letters to you see? (i-s-l-a-n-d) The letter ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "s",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " in ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "island",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " is silent, so we have to remember that when we spell the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Finally, have students use each word in an oral sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: How We Close Our Clothes ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photos on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words fasten, practical, decorative, visible, and bulky, and check understanding.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49423_TG_L3_U29_L03": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that a prefix is a word part added to the beginning of a word. It changes the words meaning.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Phonics/Syllable Cards to model how to add prefixes ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to the following words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "able ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(un), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "fill",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (re), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "honest",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (dis). Explain that ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " can mean not or the opposite of. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Unhappy",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means not able. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Dishonest",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means the opposite of honest. Explain that ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means again. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Lesson 2 blending words to apply the skill.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Pause before each word for students to whisper-blend it before having them read it together aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, guide students to find and circle all the words with the prefix ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Then have them put a box around all the words with the prefix ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blending Focus  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use Letter Cards to build the following sequences of words.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "do, redo, undo, undone ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "appear, reappear, disappear, disappeared",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "duck",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "ducks",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "trucks",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "trucks",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (cumulative review) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "State the Letter Cards to change. For example, say:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Make ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "do",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". Add",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "to the beginning. What word did you make? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Word Awareness Focus  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Repeat, but dont tell students which letters to change. For example, say:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Change ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "do",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "redo",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "build_word_spacing",
+          "runs": []
+        },
+        {
+          "type": "para",
+          "style": "build_word_spacing",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Build Words Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build More Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use Letter Cards to build the following sequence of words.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    }
+  ],
+  "Y49423_TG_L3_U29_L04": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that a prefix is a word part added to the beginning of a word. It changes the words meaning.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the new blending lines. Focus attention on modeling for students how to transition from known one-syllable words to multisyllabic words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students select two words.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Ask them to write on paper or a dry-erase board a sentence for each word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards one at a time. Point to and say the word, having students repeat after you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Point out the irregular spelling of ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "system",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Highlight the letter ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "y",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Spelling Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Use More Dictation ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Dictate the following words for students to spell: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "regroup",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " dishonest",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " unsafe",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "disappear",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " reheat",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "unrest",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Write the words on the board for students to self-correct. Note on each students Student Observation Form sound-spellings they struggle with. Include more words with these sound-spellings in upcoming lessons. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49423_TG_L3_U29_L05": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Teach ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Phonics/Syllable Cards or write the prefixes ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "load",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Read each one and have students repeat. Explain that a prefix is a word part added to the beginning of a word. It changes the words meaning. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "load",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", one at a time. Model how to read the new words formed. Explain that ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means the opposite of, so ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "unload",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means the opposite of load. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means again so ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "reload",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means load again. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Continue by adding prefixes to these words: (re) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "trace,",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (un) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "bent",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", (dis) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "grace",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", (re) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "copy",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", (dis) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "place",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", (un) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "easy",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", (re) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "fuel",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Guide students to read the words and determine the new words meaning. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Display ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display each word, and guide students to read it.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Place the sorting cards ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " in a pocket chart. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model/Sort ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Model how to sort the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "untie",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "rewind",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " under the correct category card. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have student partners sort the remaining words at their seats. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Chorally Respond ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students tell you how to sort the words in the pocket chart. Then have students chorally read the words in each column of the sort. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Discuss Observations ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Ask students what they notice about the words.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "If necessary, point out that each prefix adds a syllable to the base word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Encourage students to look for words with prefixes while reading. Highlight these words as you encounter them. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: What a Gem! ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the photos on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words solidifies, durable, applied, majority, and cherished, and check understanding.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49423_TG_L3_U29_L06": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that a prefix is a word part added to the beginning of a word. It changes the words meaning.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Phonics/Syllable Cards to model how to add prefixes ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " to the following words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "do",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (un), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "heat",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (re), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "honest ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(dis). Explain that ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " can mean not or the opposite of. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Undo",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means not do. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Dishonest ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "means the opposite of honest. Explain that ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " means again. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the new blending lines. Focus attention on modeling for students how to transition from known one-syllable words to multisyllabic words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards one at a time. Point to and say the word, having students repeat after you. Guide students to orally segment the word. Then discuss key features of each word to focus students attention on known (regular) and unknown (irregular) word parts. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Finally, have students use each word in an oral sentence. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Build Words Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Build More Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use Letter Cards to build the following sequences of words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    }
+  ],
+  "Y49423_TG_L3_U29_L07": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that a prefix is a word part added to the beginning of a word. It changes the words meaning.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Phonics/Syllable Cards or write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "- on the board. Model adding prefixes to form the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "undo",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "reheat",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "distrust",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the new blending lines. Focus attention on modeling for students how to transition from known one-syllable words to multisyllabic words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Say ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards one at a time. Point to and say the word, having students repeat after you.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Spell ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Spell the word as you point to each letter. Then have students chorally spell it with you. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Then have students chorally read the word. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students write the word as they spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "High-Frequency Words Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read, Build, Write: built, correct, inside, island, language, oh, person, street, system, warm ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards. Call out one word. Have students find the matching word card, repeat the word, and spell it aloud. Then have students build each word with Letter Cards. Extend the learning with one or more of the following activities:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Provide a sentence starter or frame for each word. Have students write and complete the sentences. Then have them read their sentences to a partner (e.g., We wear ____ to stay warm when its cold outside.). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Make a word using Letter Cards. Have students read and spell aloud the word. Then mix the Letter Cards. Have students fix the spelling. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49423_TG_L3_U29_L08": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that a prefix is a word part added to the beginning of a word. It changes the words meaning.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Phonics/Syllable Cards or write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " on the board. Model adding prefixes to form the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "undo",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "reheat",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "distrust",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Lesson 6 blending words to apply the skill. When completed, guide students to find and circle all the words with the prefix ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Then have them put a box around all abbreviations. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blending Focus  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use Letter Cards to build the following sequences of words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "form, reform, reforms, reforming ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "trust, distrust, distrusted, distrusting ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets",
+          "runs": [
+            {
+              "text": "write, rewrite, rewritten, unwritten (transition to multisyllabic) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "State the Letter Cards to change. For example, say:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Make ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "form",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". Add ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " to the beginning. What word did you make? ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Word Awareness Focus  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Repeat, but dont tell students what letters to change. For example, say:  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "teacher_talk",
+          "runs": [
+            {
+              "text": "Change ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "form",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "reform",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "build_word_spacing",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "build_word_spacing",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: Weather on the Move ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the map on the opposite side of the Read-Aloud Card as you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "influences",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " indicates",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " constantly",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ",",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "replaces",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and check understanding.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49423_TG_L3_U29_L09": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Review ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Explain that a prefix is a word part added to the beginning of a word. It changes the words meaning.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Phonics/Syllable Cards or write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "un-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "re-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dis-",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " on the board. Model adding prefixes to form the words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "unhappy",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "reread",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "dislike",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Blend Words ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Use the Lesson 6 blending words to quickly review the skill. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Write ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "When completed, have students select two words. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Ask them to write a sentence for each word on paper or a dry-erase board. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Revisit the sentences to model sentence expanding by adding details. Have students expand one of their sentences. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "Vocabulary Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read Aloud: Friendly Floatees ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the map and photos on the opposite side of the Read-Aloud Cardas you read. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Use the prompts to highlight the words distant, opportunity, distribute, span, and retrace, and check understanding. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Ask students to share their wonderings and questions about the text. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Y49423_TG_L3_U29_L10": [
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Teach ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Write the word ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "street",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and the abbreviation ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "St",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Explain that an abbreviation is a short form of a word that often ends with a period. Point to the abbreviation and read it aloud. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Model ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students build abbreviations for the following words: ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Mister",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (Mr.), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Lane",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (Ln.), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "November",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (Nov.), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Wednesday",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (Wed.), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Boulevard",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (Blvd.), ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Professor",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (Prof.). ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Discuss how each word is shortened. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Practice ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Have students select two of the abbrevations from the list and write sentences for them. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "This word means not clean. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(unclean) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Change the base word of unclean",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "to form a word that means different from or not like something. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(unlike) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Change the prefix of unlike to name the opposite of like. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(dislike) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Change the base word of dislike",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "to name what you do when you end a call. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(disconnect) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Change the prefix of disconnect",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "to form a word that means connect again. ",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": "(reconnect) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "para",
+          "style": "lesson_Body-txt",
+          "runs": [
+            {
+              "text": "Change the base word of reconnect to form a word that means start again.",
+              "bold": false,
+              "italic": true,
+              "underline": false
+            },
+            {
+              "text": " (restart) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
+          "type": "header",
+          "level": 1,
+          "style": "lesson_A-hd_1-5",
+          "runs": [
+            {
+              "text": "High-Frequency Words Booster (10 MIN.) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "level": 3,
+          "style": "lesson_C-hd",
+          "runs": [
+            {
+              "text": "Read, Build, Write: built, correct, inside, island, language, oh, person, street, system, warm ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Display the High-Frequency Word Cards.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Call out one word. Have students find the matching  High-Frequency Word Card, repeat the word, and spell it aloud.  ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "style": "lesson_bullets-nospace",
+          "runs": [
+            {
+              "text": "Then have students build each word with Letter Cards. Mix the Letter Cards, and have students rebuild it as they point to and say the letters. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

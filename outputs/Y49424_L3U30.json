@@ -1,0 +1,2063 @@
+{
+  "workbook": "Y49424_L3U30.xlsx",
+  "totals": {
+    "sheets": 10,
+    "slides": 33,
+    "audio_items": 271
+  },
+  "sheets": [
+    {
+      "sheet_name": "Lvl_3_Unt_30_Lsn_1",
+      "base": "level_3_unit_30_lesson_1",
+      "level": 3,
+      "unit": 30,
+      "lesson_num": 1,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 1",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_1_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 30, Lesson 1. Let’s start by gathering your lesson materials. You'll need your Student Books for Unit 29 and Unit 30.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 29 Student Book. Whisper read the story “Water!” Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the suffixes -ful and -less, let’s blend some words using these suffixes and other word parts and sounds we have learned. Listen as I sound out the first two words."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_1_4",
+              "file_type": "Embedded MP4",
+              "transcription": "/hhheeelllp/, help. /hhheeelllpfuuulll/, helpful. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 1",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_1_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Suffixes \"ful\" and \"less.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"help.\" Add the suffix \"ful\" to the end of \"help.\" What is the new word?",
+              "notes": "<visual: show the word \"help\" across from the phonics/syllable card \"ful\" and the word \"helpful\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Helpful. <pause> The suffix \"ful\" means \"full of.\" For example, a \"helpful\" person is \"full of help.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"less\" to the end of \"help.\" What is the new word?",
+              "notes": "<visual: show the word \"help\" across from the phonics/syllable card \"less\" and the word \"helpless\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Helpless. <pause> The suffix \"less\" means \"no\" or \"without.\" for example, a \"helpless\" person is \"without help.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding suffixes \"ful\" or \"less\" to the following words to see how many new words you can make.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\" and the following words: hope, color, harm, use>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now write \"ful\" and \"less\" multiple times as you say the sounds for each."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about catalysts and chemical reactions. First, look at these four pictures. Listen as I read each word. Repeat the word after I say it. yeast <pause>, foam <pause>, water <pause>, bowl. Look at the yeast in the picture. What do you think yeast is used for?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about catalysts and chemical reactions. The word is simple. Simple means easy or straightforward."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Powerful Catalysts at Work”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about catalysts and chemical reactions? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 12
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_1_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 1 in your Unit 30 Student Book. The title of this story is \"A Helpful Hand.” Point to each word as you read the title with me: A Helpful Hand. This story is about a boy who helps his aunt, a scientist who works at a lab."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: assist. Assist means “to help someone else do a task or job.” We all assist with putting away supplies. How do you assist your family with tasks, or jobs, at home? Tell your partner about them."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word that describes the things Aunt Sofia removes from water."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What is the first thing the boy and his aunt do at the lab? Find the sentence that answers the question."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "How does the boy assist, or help, his aunt? If you know assist means “to help,” what do you think an assistant is? Why does the boy’s aunt describe him as “a very helpful lab assistant”?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "If you visited a lab, what would you want to explore? Explain your answer."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_1_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write what the boy might tell his dad about helping his aunt at the lab. <pause> Share your ideas with a partner before you write. Look back at the story for ideas."
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 25
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_30_Lsn_2",
+      "base": "level_3_unit_30_lesson_2",
+      "level": 3,
+      "unit": 30,
+      "lesson_num": 2,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Add Initial and Final Sounds"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 2",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_2_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 30, Lesson 2. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 30.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 1 in your Unit 30 Student Book. Whisper read the story “A Helpful Hand.” Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: dark, clear, explain, force, minutes>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word minutes. Say the word with me. Minutes. What syllables do you hear in minute? (min-utes) Look at the last syllable, utes. The vowel sound is spelled with the letter u, even though it might sound like the /i/ sound to many of you. That’s the part we need to remember."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: m-i-n-u-t-e-s. The word \"minutes\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: dark, clear, explain, force."
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 2",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Add Initial and Final Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_2_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: low. <slight pause> Now, listen as I say a sound: /g/"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Add the sound /g/ to the beginning of the word low. What's the new word? <pause> glow"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's add a sound to the end of a word. Listen as I say a word: why. <slight pause> Now, listen as I say a sound: /d/"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Add the sound /d/ to the end of the word why. What's the new word? <pause> wide"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 2",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_2_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about epidemiologists. First, look at the picture. Listen as I read each word. Repeat the word after I say it. lab <pause>, microscope <pause>, doctor. Look at the microscope in the picture. What do you think the doctor is using the microscope for?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about epidemiologists. The word is respond. Respond means “react or reply.”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Disease Detectives on the Hunt for Viruses.”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about epidemiologists? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 2",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_2_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"ful\" and \"less.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"care.\" Add the suffix \"ful\" to the end of \"care.\" What is the new word?",
+              "notes": "<visual: show the word \"care\" across from the phonics/syllable card \"ful\" and the word \"careful\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Careful. <pause> The suffix \"ful\" means \"full of.\" For example, a \"careful\" person is \"full of care.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"less\" to the end of \"care.\" What is the new word?",
+              "notes": "<visual: show the word \"care\" across from the phonics/syllable card \"less\" and the word \"careless\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "Careless. <pause> The suffix \"less\" means \"no\" or \"without.\" For example, a \"careless\" person is \"without care.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding suffixes \"ful\" or \"less\" to the following words to see how many new words you can make.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\" and the following words: joy, truth, end, harm>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the suffixes -ful and -less, let’s blend some words using these suffixes and other word parts and sounds we have learned. Listen as I sound out the first two words."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_8",
+              "file_type": "Embedded MP4",
+              "transcription": "/hhheeelllp/, help. /hhheeelllpfuuulll/, helpful. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 2 in your Unit 30 Student Book. The title of this text is \"Viruses: Tiny, Powerful, and Everywhere.” Point to each word as you read the title with me: Viruses: Tiny, Powerful, and Everywhere. This text is a photo comic. It has panels and text boxes like a comic, but it features photos and facts instead of illustrations and dialogue for a story. This text tells about viruses, tiny germs that can make us sick."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_10",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: microscopic. Microscopic means “so small that it can only be seen with a microscope.” The cells that make up our bodies are microscopic because they are extremely small. What is something microscopic you would like to see under a microscope."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_11",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_12",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word that includes the suffix -ful and tells how strong viruses are."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_13",
+              "file_type": "Audio Bar",
+              "transcription": "What happens when a virus invades, or takes over, the cells of living things? Find the sentence that answers this question."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_14",
+              "file_type": "Audio Bar",
+              "transcription": "How can scientists learn about viruses if they are microscopic, or too small to be seen with our eyes? Do you think scientists should try to get rid of every virus that exists on Earth? Why or why not?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_15",
+              "file_type": "Audio Bar",
+              "transcription": "Some viruses are germs that can make people sick. What can you do at school and home to avoid getting sick from a virus?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_16",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_2_5_17",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: List three to five facts they learned about viruses. <pause> Draw a picture to accompany your list."
+            }
+          ],
+          "audio_total": 17
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 35
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_30_Lsn_3",
+      "base": "level_3_unit_30_lesson_3",
+      "level": 3,
+      "unit": 30,
+      "lesson_num": 3,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 3",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_3_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 30, Lesson 3. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 30.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 2 in your Unit 30 Student Book. Whisper read the story “Viruses: Tiny, Powerful, and Everywhere.” Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 3",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_3_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"ful\" and \"less.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"power.\" Add the suffix \"ful\" to the end of \"power.\" What is the new word?",
+              "notes": "<visual: show the word \"power\" across from the phonics/syllable card \"ful\" and the word \"powerful\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Powerful. <pause> The suffix \"ful\" means \"full of.\" For example, a \"power\" person is \"full of power.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"less\" to the end of \"power.\" What is the new word?",
+              "notes": "<visual: show the word \"power\" across from the phonics/syllable card \"less\" and the word \"powerless\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Powerless. <pause> The suffix \"less\" means \"no\" or \"without.\" For example, a \"powerless\" person is \"without power.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the suffixes -ful and -less, let’s blend some words using these suffixes and other word parts and sounds we have learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with -ful."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words with -less."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word joy. <pause> Add the letters -ful to make a word that ends with a suffix. What word did you make? Joyful.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word joy.<pause>. Now change joy to joyful. Which sound is different? Which letter will be different?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "Should I list the letter cards needed to buid the words?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 3 in your Unit 30 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with suffixes -ful and -less and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with suffixes -ful and -less. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word thankful. <pause> When you are finished, read your sentence to a partner."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_3_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: careless/painful, colorful/endless."
+            }
+          ],
+          "audio_total": 16
+        }
+      ],
+      "totals": {
+        "slides": 2,
+        "audio_items": 18
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_30_Lsn_4",
+      "base": "level_3_unit_30_lesson_4",
+      "level": 3,
+      "unit": 30,
+      "lesson_num": 4,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 3,
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain"
+        },
+        {
+          "slide_number": 5,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Suffixes -ful and -less"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 4",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_4_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 30, Lesson 4. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 30.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 3 in your Unit 30 Student Book. Whisper read the cumulative sentences."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Introduce High-Frequency Words. Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: object, plane, power, produce, surface.>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word produce. Say the word with me. Produce. The word \"produce\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: p-r-o-d-u-c-e. The letter \"u\" makes the /o͞o/ sound in the word \"produce,\" similar to the word \"reduce.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: object, plane, power, produce, surface."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word powerful."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word homeless."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_11",
+              "file_type": "Audio Bar",
+              "transcription": "Spelling Booster: Let's write some more words. Listen to each word I say. Break apart the word sound by sound, then write the letter or spelling for each sound.",
+              "notes": "<visual: TK>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_12",
+              "file_type": "Audio Bar",
+              "transcription": "careful"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_13",
+              "file_type": "Audio Bar",
+              "transcription": "careless"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_14",
+              "file_type": "Audio Bar",
+              "transcription": "painful"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_15",
+              "file_type": "Audio Bar",
+              "transcription": "painless"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_16",
+              "file_type": "Audio Bar",
+              "transcription": "thoughtful"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_1_17",
+              "file_type": "Audio Bar",
+              "transcription": "thoughtless"
+            }
+          ],
+          "audio_total": 17
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 4",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_4_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"ful\" and \"less.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\" and the words \"thank\" \"thankful\" and thankless\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let's use these words in a sentence. <pause> Ethan was thankful for the gift. <pause> Thankless means the opposite of thankful."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Then, read each word as your teacher taps on it.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 4",
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_4_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 4 in your Unit 30 Student Book. The title of this text is \"Careful! Brain Teasers Ahead!\" Point to each word as you read the title with me: Careful! Brain Teasers Ahead! This text features brain teasers. Brain teasers are like riddles: readers must use the clues to figure out the word that answers each question. Read the brain teasers. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Find the all the words in the brain teasers with the suffix -ful- and circle them. <pause> Chorally read the circled words."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Write the sentence I say. Listen carefully and focus on one word at a time."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "The first sentence is: They are careful to keep the plane spotless. Say the sentence with me: They are careful to keep the plane spotless. Now write the sentence. Your teacher will help you segment, or break apart, each word and write a letter for each sound."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "The second sentence is: We are hopeful we can find this priceless object. Say the sentence with me: We are hopeful we can find this priceless object. Now write the sentence. Your teacher will help you if you need it."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Let's read each sentence out loud. Check your work. Your teacher will write each sentence. Correct your spellings if necessary."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Suffixes -ful and -less",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_4_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review suffixes. A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the word use and the phonics/syllable cards for \"ful\" and \"less\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"use.\" Add the suffix ful to the end of \"use.\" What is the new word?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "useful. <pause> The suffix ful means “full of,” therefore, useful means “full of use.”",
+              "notes": "<visual: show the word use and the phonics/syllable card for \"ful\", under them, show the word \"useful\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix less to the end of the word \"use.\" What is the new word?",
+              "notes": "<visual: show the word use and the phonics/syllable card for \"less\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "useless. <pause> The suffix less means “no” or “without,” therefore, useless means “without use.”",
+              "notes": "<visual: show the word use and the phonics/syllable card for \"less\", under them, show the word \"useless\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_4_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding the suffixes \"ful\" and \"less\" to the following words. Then determine the meanings of the new words.",
+              "notes": "<visual: show the following words across from the following phonics/syllable cards: rest (ful card), mind (ful card), fear (ful card), rest (less card), mind (less card), fear (less card), count (less card)>"
+            }
+          ],
+          "audio_total": 6
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 33
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_30_Lsn_5",
+      "base": "level_3_unit_30_lesson_5",
+      "level": 3,
+      "unit": 30,
+      "lesson_num": 5,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Suffixes -ful, -less"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 5",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_5_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 30, Lesson 5. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 30.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 4 in your Unit 30 Student Book. Whisper read the story “Careful! Brain Teasers Ahead!” Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 5",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_5_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about a science lab in space. First, look at the picture. Listen as I read each word. Repeat the word after I say it. International Space Station <pause>, lab <pause>, astronaut <pause>, experiment. Look at the astronaut in the picture. Where do astronauts work?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about a science lab in space. The word is impact. Impact means effect or influence."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “A Science Lab in Space”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about a science lab in space? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 5",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_5_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 5 in your Unit 30 Student Book. The title of this text is \"Feathers or Bricks?” Point to each word as you read the title with me: Feathers or Bricks? Look at the scale in the picture. We use a scale to determine how much something weighs."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: analyze. Analyze means “to carefully study something so you can understand it.” To correctly solve a riddle, you must analyze all the information in it. How does a doctor or dentist analyze you? Why do they need to carefully study your body or teeth?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Besides warning readers not to answer too soon, what does the author say they should be? Find the word."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What makes this brain teaser tricky? Find the sentence that answers this question."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "What tips does the author give to help you analyze, or carefully examine, brain teasers and riddles? Why might following these steps make it easier to come up with the correct answer?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Do you find solving brain teasers fun or frustrating? Explain your answer."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Draw three boxes on a sheet of paper. <pause> Write what a brain teaser is in the first box and list three tips for solving one in the remaining boxes. Use this information to write a short summary of the text. <pause> Share your summary with a partner before writing."
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Suffixes -ful, -less",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_5_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review suffixes \"ful\" and \"less.\"A suffix is a word part that may be added to the end of a word. It can change the word’s meaning and part of speech.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"pain.\" Add the suffix \"ful\" to the end of \"pain.\" What is the new word?",
+              "notes": "<visual: show the word \"pain\" and the phonics/syllable card for \"ful\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_6_3",
+              "file_type": "Audio Bar",
+              "transcription": "painful. <pause> The suffix \"ful\" means “full of,” therefore, painful means “full of pain.”",
+              "notes": "<visual: show the word \"pain\" and the phonics/syllable card for \"ful\", under them, show the word \"painful\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_6_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"less\" to the end of the word \"pain.\" What is the new word?",
+              "notes": "<visual: show the word pain and the phonics/syllable card for \"less\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_6_5",
+              "file_type": "Audio Bar",
+              "transcription": "painless. <pause> the suffix \"less\" means “no” or “without,” therefore, painless means “without pain.”",
+              "notes": "<visual: show the word pain and the phonics/syllable card for \"less\", under them, show the word \"painless\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_6_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding the suffixes \"ful\" or \"less\" to the following words.",
+              "notes": "<visual: show the following words across from the following phonics/syllable cards: care (ful card), delight (ful card), wire (less card), motion (less card)>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_6_7",
+              "file_type": "Audio Bar",
+              "transcription": "Look at these words. Let's read the words together: useless, harmful, powerful, beautiful, wasteful, helpful, endless, needless, flawless, spotless, grateful. Now look at these two categories. This is the word helpful. Read the word with me. <pause> Which category should I put helpful under? <pause> Yes, helpful goes in the -ful category because the word helpful ends with -ful. With your partner, continue to sort the rest of the words.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_6_8",
+              "file_type": "Audio Bar",
+              "transcription": "What did you notice about the words in each group?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_5_6_9",
+              "file_type": "Audio Bar",
+              "transcription": "\"-ful\" is a common word part. You may notice the -ful word part in many words. As we read, let's look for words with -ful."
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 25
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_30_Lsn_6",
+      "base": "level_3_unit_30_lesson_6",
+      "level": 3,
+      "unit": 30,
+      "lesson_num": 6,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Blend and Segment Multisyllabic Words by Syllable"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 6",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_6_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 30, Lesson 6. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 30.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 5 in your Unit 30 Student Book. Whisper read the text “Feathers or Bricks?” Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 6",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Blend and Segment Multisyllabic Words by Syllable",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_6_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say the following syllables: help-ful"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the syllables and blend them to make a word. help-ful, helpful."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following syllables. Blend the syllables to make a word."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now we will segment words into syllables. Listen as I say the following word: helpless"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the word and segment it into the syllables you hear. Helpless, help-less."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words. Segment each word into the syllables you hear."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 6",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_6_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes. \"ful\" and \"less\" are suffixes added to the end of a word. Adding \"ful\" or \"less\" to the base word \"color\" changes the word’s meaning and its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\" and the word \"color\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Add the suffix \"ful\" to the end of \"color\" What is the new word?",
+              "notes": "<visual: show the word \"color\" across from the phonics/syllable card \"ful\" and the word \"colorful\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Colorful. <pause> The suffix \"ful\" means \"full of.\" For example, a \"colorful\" room is \"full of color.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"less\" to the end of \"color.\" What is the new word?",
+              "notes": "<visual: show the word \"color\" across from the phonics/syllable card \"less\" and the word \"colorless\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Colorless. <pause> The suffix \"less\" means \"no\" or \"without.\" For example, a \"colorless\" room is \"without color.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Say the sound for each letter or spelling as your teacher points to it. Blend the sounds to read the word. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: dark, clear, explain, force, minutes, object, plane, power, produce, surface.>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word dark. Say the word with me: \"dark\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: d-a-r-k. Listen to the sounds, /d/ /är/ /k/. Dark. We have to pay extra attention to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: dark, clear, explain, force, minutes, object, plane, power, produce, surface."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "Should I list the letter cards needed to buid the words?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 6 in your Unit 30 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with the suffixes -ful and -less and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with the suffixes -ful and -less. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word beautiful. <pause> When you are finished, read your sentence to a partner."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_6_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: wonderful/speechless, fl awless/delightful."
+            }
+          ],
+          "audio_total": 16
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 24
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_30_Lsn_7",
+      "base": "level_3_unit_30_lesson_7",
+      "level": 3,
+      "unit": 30,
+      "lesson_num": 7,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 3,
+          "section": "High-Frequency Word Booster",
+          "title": "Read, Build, Write"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 7",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_7_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 30, Lesson 7. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 30.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 6 in your Unit 30 Student Book. Whisper read the cumulative sentences. Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 7",
+          "section": "High-Frequency Word Booster",
+          "title": "Read, Build, Write",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_7_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Read: Look at the high-frequency words. Read each word along with me. dark, <pause> clear, <pause> explain, <pause> force, <pause> minutes, <pause> object, <pause> plane, <pause> power, <pause> produce, <pause> surface.",
+              "notes": "<visual: show \"dark, clear, explain, force, minutes, object, plane, power, produce, surface\" as cards in pocket-chart pockets, add one blank pocket-row, show tray with only letters for the first word.> [intended for teacher to model the first word]"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Build: Now let's build a word together. Watch as your teacher spells the word."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now use your letter cards to build all the words."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write: Write each word. Then write a sentence using each word. For example, you can start a sentence with \"An object in our classroom is the ______ .\" Read your sentences to a partner when you are done.",
+              "notes": "<visual: show sentence frame \"An object in our classroom is the [blank].\" Then show \"dark, clear, explain, force, minutes, object, plane, power, produce, surface\" as cards in pocket-chart pockets underneath sentence frame>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher is going to make a word with letter cards. <pause> What is the word? <pause> Spell it together. <pause> Watch as your teacher scrambles the letters. Fix the spelling.",
+              "notes": "<visual: empty pocket rows with tray with letter cards for 2nd word>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 7 in your Unit 30 Student Book. The title of this text is \"Let's Compare!\" Point to the word as you read the title with me: Let's Compare! This text compares the weights of balls used in different sports. Remember when we compare, we look at things and think about how they are alike and different. This text also includes graphics. Authors include graphics to help readers quickly grasp information. These graphics show the number of each type of ball that equals ten pounds."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "What do you notice or wonder about when viewing the graphic?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Draw a graphic to show another weight comparison, such as the teacher's desk and assorted classrom items. <pause> Estimate how many of a specific classroom item might weigh the same as the desk. <pause> Draw a scale with the desk on one side and a set of classroom objects on the other side."
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 7",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_7_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes. \"ful\" and \"less\" are suffixes added to the end of a word. Adding \"ful\" or \"less\" to the base word \"meaning\" changes the word’s meaning and its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\" and the word \"meaning\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Add the suffix \"ful\" to the end of \"meaning\" What is the new word?",
+              "notes": "<visual: show the word \"meaning\" across from the phonics/syllable card \"ful\" and the word \"meaningful\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Colorful. <pause> The suffix \"ful\" means \"full of.\" For example, a \"colorful\" room is \"full of color.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"less\" to the end of \"meaning.\" What is the new word?",
+              "notes": "<visual: show the word \"meaning\" across from the phonics/syllable card \"less\" and the word \"meaningless\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Colorless. <pause> The suffix \"less\" means \"no\" or \"without.\" For example, a \"colorless\" room is \"without color.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: dark, clear, explain, force, minutes, object, plane, power, produce, surface.>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word clear. Say the word with me: \"clear\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: c-l-e-a-r. We have to pay extra attention to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_7_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: dark, clear, explain, force, minutes, object, plane, power, produce, surface."
+            }
+          ],
+          "audio_total": 11
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 21
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_30_Lsn_8",
+      "base": "level_3_unit_30_lesson_8",
+      "level": 3,
+      "unit": 30,
+      "lesson_num": 8,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 9,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Prefixes un-, re-, dis-"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 8",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_8_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 30, Lesson 8. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 30.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 7 in your Unit 30 Student Book. Whisper read the text “Let’s Compare!” Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 8",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_8_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes \"ful\" and \"less.\" A suffix is a word part added to the end of a word. It can change the word's meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"success.\" Add the suffix \"ful\" to the end of \"success\" What is the new word?",
+              "notes": "<visual: show the word \"success\" across from the phonics/syllable card \"ful\" and the word \"successful\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Successful. <pause> The suffix \"ful\" means \"full of.\" For example, a \"successful\" person is \"full of success.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"friend.\"Add the suffix \"less\" to the end of \"friend.\" What is the new word?",
+              "notes": "<visual: show the word \"friend\" across from the phonics/syllable card \"less\" and the word \"friendess\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Friendless. <pause> The suffix \"less\" means \"no\" or \"without.\" For example, a \"friendless\" person is \"without friends.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with -ful or -less."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words with un-, re-, or dis-."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word fear. <pause> Add the letters ful at the end to make a word with a suffix. What word did you make? Fearful.",
+              "notes": "<PRODUCTION: Is there and MP4 video modeling this? If not, we need the e-pocket chart here so the teacher can model this>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word fear <pause>. Now change fear to fearful. Which sounds are different? Which letters will be different?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about colloids. First, look at these seven pictures. Listen as I read each word. Repeat the word after I say it. whipped cream <pause>, milk <pause>, jelly <pause>, shaving cream <pause>, hair gel <pause>, marshmallow <pause>, mayonnaise. Look at the pictures of the shaving cream and the hair gel. What do you think these two things have in common?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about colloids. The word is separate. Separate means to split or move apart."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Marvelous Mixtures Called Colloids”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about colloids? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 16
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 8",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_8_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 8 in your Unit 30 Student Book. The title of this text is \"Changing Liquids and Solids.” Point to each word as you read the title with me: Changing Liquids and Solids. You will read about two states of matter: solids and liquids."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: matter. Matter is anything that has weight and takes up space. The three main forms of matter are solid, liquid, and gas. What examples of liquid matter can you name?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "What can change part of an orange into orange juice? Find a phrase that answers the question."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What are two forms of matter that an orange can take? Find the sentences that answer this question."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "According to the text, what are two ways matter can change from a solid to a liquid? Why do you think liquid water can change into solid ice in winter?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What other solids and liquids do you know about? Which ones can you change from a solid to a liquid? From a liquid to a solid? How?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: List two to four facts you learned about solids and liquids and how their forms change. <pause> Draw pictures to illustrate the facts in your list."
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Prefixes un-, re-, dis-",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_8_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review prefixes. A prefix is a word part added to the beginning of a word. It can change the word’s meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"un\" \"re\" and \"dis\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_9_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"well.\" Add the prefix \"un\" to the beginning of \"well.\" What is the new word?",
+              "notes": "<visual: show the phonics/syllable card for \"un\" and the word \"well\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_9_3",
+              "file_type": "Audio Bar",
+              "transcription": "unwell. <pause> The prefix \"un\" means “not” or “the opposite of,” therefore, unwell means “not well.”",
+              "notes": "<visual: show the phonics/syllable card for \"un\" and the word \"well\", under them, show the word \"unwell\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_9_4",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding the prefix \"un\" to the following words. Then determine the meaning of each new word.",
+              "notes": "<visual: show the following words and the phonics/syllable card for \"un\" across from each: kind, usual, welcome>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_9_5",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review prefixes \"re\" and \"dis.\" Listen as I read the following word: \"write.\" Add the prefix \"re\" the beginning of the word \"write.\" What is the new word?",
+              "notes": "<visual: show the phonics/syllable card \"re\" and the word \"write\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_9_6",
+              "file_type": "Audio Bar",
+              "transcription": "rewrite. <pause> The prefix \"re\" means “again,” therefore, rewrite means “write again.”",
+              "notes": "<visual: show the phonics/syllable card \"re\" and the word \"write\", under them, show the word \"rewrite\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_9_7",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"obey.\" Add the prefix dis- to the beginning of \"obey.\" What is the new word?",
+              "notes": "<visual: show the phonics/syllable card for \"dis\" and the word \"obey\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_9_8",
+              "file_type": "Audio Bar",
+              "transcription": "disobey. <pause> The prefix \"dis\" means “not” or “the opposite of,” therefore, dislike means “not obey.”",
+              "notes": "<visual: show the phonics/syllable card for \"dis\" and the word \"obey\", under them, show the word \"disobey\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_8_9_9",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding the prefixes \"un,\" \"re,\" or \"dis\" to the following words.",
+              "notes": "<visual: show the following words across from the following phonics/syllable cards: (re card) use, (re card) design, (dis card) agree, (dis card) respect>"
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 36
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_30_Lsn_9",
+      "base": "level_3_unit_30_lesson_9",
+      "level": 3,
+      "unit": 30,
+      "lesson_num": 9,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 9",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_9_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 30, Lesson 9. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 30.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 8 in your Unit 30 Student Book. Whisper read the story “Changing Liquids and Solids.” Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 9",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_9_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review suffixes. \"ful\" and \"less\" are suffixes added to the end of a word. Adding \"ful\" or \"less\" to the base word \"harm\" changes the word’s meaning and its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"ful\" and \"less\" and the word \"harm\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Add the suffix \"ful\" to the end of \"harm\" What is the new word?",
+              "notes": "<visual: show the word \"harm\" across from the phonics/syllable card \"ful\" and the word \"harmful\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Harmful. <pause> The suffix \"ful\" means \"full of.\" Therefore, \"harmful\" means \"full of harm.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the suffix \"less\" to the end of \"harm.\" What is the new word?",
+              "notes": "<visual: show the word \"harm\" across from the phonics/syllable card \"less\" and the word \"harmless\" underneath them>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Harmless. <pause> The suffix \"less\" means \"no\" or \"without.\" Therefore, \"harmless\" means \"no harm.\""
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let's blend some words to practice what we've learned. Read each word as your teacher taps on it. Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word beautiful."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word helpless."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Finally, write this sentence: It is useless to read in the dark without a powerful light."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about skyscraper farms. First, look at these three pictures. Listen as I read each word. Repeat the word after I say it. skyscraper <pause>, plants <pause>, solar panels <pause>, windows <pause>, rooftop. Look at the plants in the picture. Where do you usually see plants growing?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about skyscraper farms. The word is vertical. Something vertical is upright, or positioned up and down instead of side to side."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “The Sky’s the Limit for Skyscraper Farms.”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about skyscraper farms? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 16
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_9_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 9 in your Unit 30 Student Book. The title of this story is \"New Planets.” Point to each word as you read the title with me: New Planets. This story is about a woman who travels to new planets with her pet cat."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: reject. Reject means “to cast something out because you do not like or want it.” I had to reject the cookies because they had peanut butter in them. What is a food you would reject? Why would you not want to eat it?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "How does Professor Ott feel about finding other amazing planets? Find the word that answers the question."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What does Professor Ott find on the three planets she lands on? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Why does Smarty reject the first planet? What does he dislike about the second planet?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "If you could visit any planet in our solar system, which one would you like to visit? What would make you reject living on that planet?"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_9_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Draw a picture to remember the important details of the story. <pause> Label the details such as: Professor Ott, Smarty, spaceship, water, useless, ice, gas, delightful. <pause> Use the drawing to retell the story to a partner. Then, write your retelling."
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 27
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_30_Lsn_10",
+      "base": "level_3_unit_30_lesson_10",
+      "level": 3,
+      "unit": 30,
+      "lesson_num": 10,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Delete Initial and Final Sounds"
+        },
+        {
+          "slide_number": 8,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Prefixes un-, re-, dis-"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 10",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_10_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 30, Lesson 10. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 30.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 30 Student Book. Whisper read the story “New Planets.” Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's make a word ladder. I will give you a clue for each word to write on the word ladder.",
+              "notes": "<visual: empty word ladder with 6 rungs>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write the word peace."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Add a suffix to peace to make a word that means “full of peace.”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Change the base word in peaceful to make a word that means “full of power.”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Change the suffix in powerful to make a word that means “without power.”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Change the base word in powerless to make a word that means “without harm.”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Change the base word in harmless to make a word that means “without sleep.”"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher will ask you to read and write some words to check on your progress. Congratulations on all your hard work in Unit 30!"
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 10",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Delete Initial and Final Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_10_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say the following word: couch"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word couch without the beginning sound /k/. What's the new word? <pause> ouch"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's delete the ending sound of a word. Listen as I say the following word: date"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word date without the ending sound /t/. What's the new word? <pause> day"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_2_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Look at the high-frequency words.",
+              "notes": "<visual: dark, clear, explain, force, minutes, object, plane, power, produce, surface>"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_2_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher reads a high-frequency word from the list. Point to the word. Read the word. Spell the the word aloud."
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Now build each high-frequency word using letter cards. Then work with a partner. Take turns scrambling the letters in the words. Rebuild each word. Watch as your teacher models scrambling and rebuilding the word \"explain.\"",
+              "notes": "<visual: pocket chart with 3rd word spelled out with letter cards: explain>"
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Prefixes un-, re-, dis-",
+          "audio": [
+            {
+              "filename": "level_3_unit_30_lesson_10_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review prefixes \"un,\" \"re,\" and \"dis.\" A prefix is a word part added to the beginning of a word. It can change the word’s meaning and sometimes its part of speech, or how it is used in a sentence.",
+              "notes": "<visual: show the phonics/syllable cards for \"un\" \"re\" and \"dis\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_8_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"clear.\" Add the prefix \"un\" to the beginning of \"clear.\" What is the new word?",
+              "notes": "<visual: show the word \"clear\" and the phonics/syllable card for \"un\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_8_3",
+              "file_type": "Audio Bar",
+              "transcription": "unclear. <pause> The prefix \"un\" means “not” or “the opposite of,” therefore, unclear means “not clear.”",
+              "notes": "<visual: show the word \"clear\" and the phonics/syllable card for \"un\", under them, show the word \"unclear\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_8_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"read.\" Add the prefix \"re\" to the beginning of \"read.\" What is the new word?",
+              "notes": "<visual: show the word \"read\" and the phonics/syllable card for \"re\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_8_5",
+              "file_type": "Audio Bar",
+              "transcription": "reread. <pause> The prefix \"re\" means “again,” therefore, reread means “read again.”",
+              "notes": "<visual: show the word \"read\" and the phonics/syllable card for \"re\", under them, show the word \"reread\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_8_6",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"honor.\" Add the prefix \"dis\" to the beginning of \"honor.\" What is the new word?",
+              "notes": "<visual: show the word honor and the phonics/syllable card for \"dis\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_8_7",
+              "file_type": "Audio Bar",
+              "transcription": "dishonor. <pause> The prefix \"dis\" means “not” or “the opposite of,” therefore, dishonor means “not honor.”",
+              "notes": "<visual: show the word honor and the phonics/syllable card for \"dis\", under them, show the word \"dishonor\">"
+            },
+            {
+              "filename": "level_3_unit_30_lesson_10_8_8",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding the prefixes \"un,\" \"re,\" or \"dis\" to the following words and see how many new words you can make.",
+              "notes": "<visual: show the following words trust, sell, friendly, appoint, able, build and the phonics/syllable cards for \"un\" \"re\" and \"dis\">"
+            }
+          ],
+          "audio_total": 8
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 27
+      }
+    }
+  ]
+}

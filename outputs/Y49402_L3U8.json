@@ -1,0 +1,3764 @@
+{
+  "workbook": "Y49402_L3U8.xlsx",
+  "totals": {
+    "sheets": 10,
+    "slides": 144,
+    "audio_items": 287
+  },
+  "sheets": [
+    {
+      "sheet_name": "Lvl_3_Unt_8_Lsn_1",
+      "base": "level_3_unit_8_lesson_1",
+      "level": 3,
+      "unit": 8,
+      "lesson_num": 1,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Word Cards"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 7,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Blend Words"
+        },
+        {
+          "slide_number": 8,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 9,
+          "section": "Vocabulary Booster",
+          "title": "Word 1"
+        },
+        {
+          "slide_number": 10,
+          "section": "Vocabulary Booster",
+          "title": "Word 2"
+        },
+        {
+          "slide_number": 11,
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud"
+        },
+        {
+          "slide_number": 12,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 13,
+          "section": "Apply to Reading and Writing",
+          "title": "Build Vocabulary"
+        },
+        {
+          "slide_number": 14,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        },
+        {
+          "slide_number": 15,
+          "section": "Apply to Reading and Writing",
+          "title": "Check Comprehension"
+        },
+        {
+          "slide_number": 16,
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 1",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 8, Lesson 1. Let’s start by gathering your lesson materials. You'll need…your Student Books for Unit 7 and Unit 8.",
+              "notes": "<visual: book cover>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 1",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 7 Student Book. Whisper read the story “Vote for Lulu.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 9 spread>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 1",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards 19–44>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_3_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_3_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_3_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 1",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Word Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards 51–70>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_4_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_4_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_4_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 1",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Listen to the sounds."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_5_2",
+              "file_type": "Embedded MP4",
+              "transcription": "<visual: ar articulation video>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 1",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "This is the sound-spelling card for the r-controlled vowel /är/. The \"a-r\" spelling stands for the /är/ sounds. What sounds does the \"a-r\" spelling make in the word \"barn?\" <pause> \"/är/.\"",
+              "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /är/>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "Write the spelling several times. Say the /är/ sounds each time you write the spelling."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 1",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Blend Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the r-Controlled Vowel /är/, let’s blend some words with r-Controlled Vowel /är/ and other sounds to practice what we've learned. Listen as I sound out the first two words.",
+              "notes": "<visual: show blend words chart>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_7_2",
+              "file_type": "Embedded MP4",
+              "transcription": "/kaaat/, cat. /kääärrr/, car. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 1",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about levels of government. First, look at these four pictures. Listen as I read each word. Repeat the word after I say it. city hall <pause>, flag <pause>, city council <pause>, speaker <pause>, audience. Look at the pictures of the city council and the speaker. What do you think they are talking about?",
+              "notes": "<visual: show vocabulary card>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 1",
+          "section": "Vocabulary Booster",
+          "title": "Word 1",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about levels of government. The word is substantial. If something is substantial, it is large in size or amount.",
+              "notes": "<visual: Show the vocabulary card and the word, substantial>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 1",
+          "section": "Vocabulary Booster",
+          "title": "Word 2",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and word, scale>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 11,
+          "lesson": "Lesson 1",
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_11_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Serving the People at Every Level”",
+              "notes": "<visual: Show the vocabulary card and the words substantial and scale>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_11_2",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about levels of government? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 12,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_12_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 1 in your Unit 8 Student Book. The title of this story is \"Star Gardeners.” Point to each word as you read the title with me: Star Gardeners. This story is about a class planting a garden for their community.",
+              "notes": "<visual: Show the student book cover and story>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 13,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Build Vocabulary",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_13_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: options. Options are things to choose from. There are many options of fresh juices at the market. What are some food options you have for breakfast?",
+              "notes": "<visual: Show the story and the word, options>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 14,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_14_1",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: show story>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 15,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Check Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_15_1",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word that names what Carla wants to start.",
+              "notes": "<visual: show story>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_15_2",
+              "file_type": "Audio Bar",
+              "transcription": "How does the class choose between the options of helping others in their community? Find the sentence that answers the question."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_15_3",
+              "file_type": "Audio Bar",
+              "transcription": "How does the garden help the community? Explain."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_15_4",
+              "file_type": "Audio Bar",
+              "transcription": "What do you think the neighbors will do at the party?"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_15_5",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 16,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_1_16_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write about what you would plant in a garden. <pause> Share your ideas with a partner before you write. Look back at the story for ideas.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_1_16_2",
+              "file_type": "Audio Bar",
+              "transcription": null,
+              "notes": "16"
+            }
+          ],
+          "audio_total": 2
+        }
+      ],
+      "totals": {
+        "slides": 16,
+        "audio_items": 31
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_8_Lsn_2",
+      "base": "level_3_unit_8_lesson_2",
+      "level": 3,
+      "unit": 8,
+      "lesson_num": 2,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Initial and Final Sounds"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce High-Frequency Words"
+        },
+        {
+          "slide_number": 7,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 8,
+          "section": "Vocabulary Booster",
+          "title": "Word 1"
+        },
+        {
+          "slide_number": 9,
+          "section": "Vocabulary Booster",
+          "title": "Word 2"
+        },
+        {
+          "slide_number": 10,
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud"
+        },
+        {
+          "slide_number": 11,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 12,
+          "section": "Apply to Reading and Writing",
+          "title": "Build Vocabulary"
+        },
+        {
+          "slide_number": 13,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        },
+        {
+          "slide_number": 14,
+          "section": "Apply to Reading and Writing",
+          "title": "Check Comprehension"
+        },
+        {
+          "slide_number": 15,
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 2",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 8, Lesson 2. Let’s start by gathering your lesson materials. You'll need…your Student Book for Unit 8.",
+              "notes": "<visual: book cover>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 2",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 1 in your Unit 8 Student Book. Whisper read the story “Star Gardeners.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 1 spread>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 2",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Initial and Final Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: sat",
+              "notes": "<visual: show phonemic awareness image>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word sat, but change the beginning sound. Change /s/, to /m/. What's the new word? <pause> mat"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the ending sound of a word. Listen as I say a word: sat"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word sat, but change the ending sound. Change /t/, to /d/. What's the new word? <pause> sad"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 2",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "This is the sound-spelling card for the r-controlled vowel /är/. The \"a-r\" spelling stands for the /är/ sounds. What sounds does the \"a-r\" spelling make in the word \"barn?\" <pause> \"/är/.\"",
+              "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /är/>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Write the spelling several times. Say the /är/ sounds each time you write the spelling."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 2",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the r-Controlled Vowel /är/, let’s blend some words with r-Controlled Vowel /är/ and other sounds to practice what we've learned. Listen as I sound out the first two words.",
+              "notes": "<visual: show blend words chart>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_5_2",
+              "file_type": "Embedded MP4",
+              "transcription": "/kaaat/, cat. /kääärrr/, car. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 2",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce High-Frequency Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: one, have, is, jump, my>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word one. Say the word with me. One. Which sounds do you hear in one? /w/ /u/ /n/. Blend the sounds together."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_6_3",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: o-n-e. The word \"one\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_6_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_6_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: have, is, jump, my."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 2",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about national parks. First, look at these three pictures. Listen as I read each word. Repeat the word after I say it. glacier <pause>, Glacier Bay <pause>, geyser <pause>, trees <pause>, Yellowstone <pause>, The Grand Canyon <pause>, river <pause>, rock. Look at the pictures of Glacier Bay, Yellowstone, and The Grand Canyon. How are these places different from each other?",
+              "notes": "<visual: show vocabulary card>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 2",
+          "section": "Vocabulary Booster",
+          "title": "Word 1",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about national parks. The word is sturdy. Something that is sturdy is strong and well made.",
+              "notes": "<visual: Show the vocabulary card and the word, sturdy>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 2",
+          "section": "Vocabulary Booster",
+          "title": "Word 2",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the word, constant>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 2",
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Visit America the Beautiful”",
+              "notes": "<visual: Show the vocabulary card and the words sturdy and constant>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_10_2",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about national parks? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 11,
+          "lesson": "Lesson 2",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_11_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 2 in your Unit 8 Student Book. The title of this text is \"Welcome to City Hall!” Point to each word as you read the title with me: Welcome to City Hall! This text describes the purpose of a city hall and how it’s an important place in a local community.",
+              "notes": "<visual: Show the student book cover and story>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 12,
+          "lesson": "Lesson 2",
+          "section": "Apply to Reading and Writing",
+          "title": "Build Vocabulary",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_12_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: participate. Participate means “to take part in.\" I want to participate in the school play. Which sports or after-school activities do you participate in?",
+              "notes": "<visual: Show the story and the word, participate>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 13,
+          "lesson": "Lesson 2",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_13_1",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: show story>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 14,
+          "lesson": "Lesson 2",
+          "section": "Apply to Reading and Writing",
+          "title": "Check Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_14_1",
+              "file_type": "Audio Bar",
+              "transcription": "Find the name of a festival that might have posters hung up in a city hall.",
+              "notes": "<visual: show story>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_14_2",
+              "file_type": "Audio Bar",
+              "transcription": "What is the history of city halls? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_14_3",
+              "file_type": "Audio Bar",
+              "transcription": "Summarize the different ways citizens can participate in events at their local, or nearby, city hall."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_14_4",
+              "file_type": "Audio Bar",
+              "transcription": "Not all places have city halls. Some have other kinds of buildings where decisions are made. Which government buildings are in your area?"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_14_5",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 15,
+          "lesson": "Lesson 2",
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_2_15_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: List three to five facts that you learned about city halls. <pause> Draw a picture to accompany your list.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_2_15_2",
+              "file_type": "Audio Bar",
+              "transcription": null,
+              "notes": "15"
+            }
+          ],
+          "audio_total": 2
+        }
+      ],
+      "totals": {
+        "slides": 15,
+        "audio_items": 32
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_8_Lsn_3",
+      "base": "level_3_unit_8_lesson_3",
+      "level": 3,
+      "unit": 8,
+      "lesson_num": 3,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Word Cards"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        },
+        {
+          "slide_number": 7,
+          "section": "Build Words with Phonemic Awareness Focus",
+          "title": "Blending Focus"
+        },
+        {
+          "slide_number": 8,
+          "section": "Build Words Booster",
+          "title": "Build More Words"
+        },
+        {
+          "slide_number": 9,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        },
+        {
+          "slide_number": 10,
+          "section": "Apply to Reading and Writing",
+          "title": "Write"
+        },
+        {
+          "slide_number": 11,
+          "section": "Apply to Reading and Writing",
+          "title": "Write: Sentence Building"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 3",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 8, Lesson 3. Let’s start by gathering your lesson materials. You'll need…your Student Book for Unit 8.",
+              "notes": "<visual: book cover>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 3",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 2 in your Unit 8 Student Book. Whisper read the story “Welcome to City Hall!” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 2 spread>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 3",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards 19–45>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_3_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_3_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_3_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 3",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Word Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards 51–75>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_4_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_4_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_4_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 3",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "This is the sound-spelling card for the r-controlled vowel /är/. The \"a-r\" spelling stands for the /är/ sounds. What sounds does the \"a-r\" spelling make in the word \"barn?\" <pause> \"/är/.\"",
+              "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /är/>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Write the spelling several times. Say the /är/ sounds each time you write the spelling."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 3",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about the r-Controlled Vowel /är/, let’s blend some words with r-Controlled Vowel /är/ and other sounds to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with art."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_6_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words with ark."
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 3",
+          "section": "Build Words with Phonemic Awareness Focus",
+          "title": "Blending Focus",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word am. <pause> Add the letter r after a. What word did you make? Arm",
+              "notes": "<visual: show letters in e-pocket chart>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_7_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_7_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word am <pause>. Now change am to arm. Which sound is different? Which letter will be different?"
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 3",
+          "section": "Build Words Booster",
+          "title": "Build More Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "<visual: show the letter cards to build the words>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 3",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 3 in your Unit 8 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with ar spellings and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together.",
+              "notes": "<visual: Show Cumulative Sentences, pages 12-13>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_9_2",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with ar spellings. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 3",
+          "section": "Apply to Reading and Writing",
+          "title": "Write",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word arm. <pause> When you are finished, read your sentence to a partner.",
+              "notes": "<visual: show sentence strips and word arm>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 11,
+          "lesson": "Lesson 3",
+          "section": "Apply to Reading and Writing",
+          "title": "Write: Sentence Building",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_3_11_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: far/park, artist/large.",
+              "notes": "<visual: show sentence strips and word pairs far/park, artist/large>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_3_11_2",
+              "file_type": "Audio Bar",
+              "transcription": null,
+              "notes": "11"
+            }
+          ],
+          "audio_total": 2
+        }
+      ],
+      "totals": {
+        "slides": 11,
+        "audio_items": 24
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_8_Lsn_4",
+      "base": "level_3_unit_8_lesson_4",
+      "level": 3,
+      "unit": 8,
+      "lesson_num": 4,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 4,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 5,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 6,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 7,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 8,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 9,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 10,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce High-Frequency Words"
+        },
+        {
+          "slide_number": 11,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Use Dictation with Phonemic Awareness Focus"
+        },
+        {
+          "slide_number": 12,
+          "section": "Spelling Booster",
+          "title": "Use Dictation with Phonemic Awareness Focus"
+        },
+        {
+          "slide_number": 13,
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain"
+        },
+        {
+          "slide_number": 14,
+          "section": "Apply to Reading and Writing",
+          "title": "Write: Dictation Sentences"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 4",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 8, Lesson 4. Let’s start by gathering your lesson materials. You'll need…your Student Book for Unit 8.",
+              "notes": "<visual: book cover>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 3 in your Unit 8 Student Book. Whisper read the cumulative sentences.",
+              "notes": "<visual: Student Book Lesson 3 spread>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Inflectional endings are suffixes. A suffix is a word part added to the end of a word. It can change the word's meaning.",
+              "notes": "<visual: show the word park and the phonics/syllable card \"ed\" across from it>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"park.\" Add the inflectional ending \"ed\" to the end of \"park.\" What is the new word?"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "parked. <pause> \"parked\" is the past-tense form of the verb \"park.\" Adding the inflectional ending \"ed\" changes the tense of a verb from present tense to past tense.",
+              "notes": "<visual: show the word park and the phonics/syllable card \"ed\" across from it, under them, show the word \"parked\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the inflectional ending \"ing\" to the end of the word \"park.\" What is the new word?",
+              "notes": "<visual: show the word park and the phonics/syllable card \"ing\" across from it>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "parking. <pause> \"Parking\" is a present-tense verb that means the action \"park\" is happening now, such as in the sentence: Mr. Lang is parking his car. The inflectional ending \"ing\" is added to a verb to change the tense.",
+              "notes": "<visual: show the word park and the phonics/syllable card \"ing\" across from it, under them, show the word \"parking\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding inflectional endings \"ed\" and \"ing\" to the following words. Then create a sentence for each new word.",
+              "notes": "<visual: show the words start, jump, and help twice, once across from the phonics/syllable card ed and once across from the phonics/syllable card ing>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 4",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "This is the sound-spelling card for the r-controlled vowel /är/. The \"a-r\" spelling stands for the /är/ sounds. What sounds does the \"a-r\" spelling make in the word \"barn?\" <pause> \"/är/.\"",
+              "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /är/>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 4",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Then, read each word as your teacher taps on it.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_9_2",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 4",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce High-Frequency Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Introduce High-Frequency Words. Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: their, too, walk, where, year.>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_10_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word their. Say the word with me. Their. The word \"their\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_10_3",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: t-h-e-i-r. The letters \"ei\" make the /âr/ sound in the word \"their.\""
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_10_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_10_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: too, walk, where, year."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 11,
+          "lesson": "Lesson 4",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Use Dictation with Phonemic Awareness Focus",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_11_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual: show phonemic awareness image>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_11_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word far."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_11_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the words hard and dark."
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 12,
+          "lesson": "Lesson 4",
+          "section": "Spelling Booster",
+          "title": "Use Dictation with Phonemic Awareness Focus",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_12_1",
+              "file_type": "Audio Bar",
+              "transcription": "Spelling Booster: Let's write some more words. Listen to each word I say. Break apart the word sound by sound, then write the letter or spelling for each sound.",
+              "notes": "<visual: spelling booster image>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_12_2",
+              "file_type": "Audio Bar",
+              "transcription": "arm"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_12_3",
+              "file_type": "Audio Bar",
+              "transcription": "charm"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_12_4",
+              "file_type": "Audio Bar",
+              "transcription": "star"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_12_5",
+              "file_type": "Audio Bar",
+              "transcription": "start"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_12_6",
+              "file_type": "Audio Bar",
+              "transcription": "match"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_12_7",
+              "file_type": "Audio Bar",
+              "transcription": "march"
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 13,
+          "lesson": "Lesson 4",
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_13_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 4 in your Unit 8 Student Book. The title of this text is \"Riddle Me This\" Point to each word as you read the title with me: Riddle Me This. These are riddles. Each riddle contains clues that will help you identify the missing word. Read the riddles. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_13_2",
+              "file_type": "Audio Bar",
+              "transcription": "Find all the words in the riddles with ar spellings and circle them. <pause> Chorally read the circled words."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 14,
+          "lesson": "Lesson 4",
+          "section": "Apply to Reading and Writing",
+          "title": "Write: Dictation Sentences",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_4_14_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write the sentence I say. Listen carefully and focus on one word at a time.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_14_2",
+              "file_type": "Audio Bar",
+              "transcription": "The first sentence is: Lucky never barks when we walk in the park. Say the sentence with me: Lucky never barks when we walk in the park. Now write the sentence. Your teacher will help you segment, or break apart, each word and write a letter for each sound."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_14_3",
+              "file_type": "Audio Bar",
+              "transcription": "The second sentence is: Can you discard that small carton of milk? Say the sentence with me: Can you discard that small carton of milk? Now write the sentence. Your teacher will help you if you need it."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_14_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's read each sentence out loud. Check your work. Your teacher will write each sentence. Correct your spellings if necessary."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_4_14_5",
+              "file_type": "Audio Bar",
+              "transcription": null,
+              "notes": "14"
+            }
+          ],
+          "audio_total": 5
+        }
+      ],
+      "totals": {
+        "slides": 14,
+        "audio_items": 33
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_8_Lsn_5",
+      "base": "level_3_unit_8_lesson_5",
+      "level": 3,
+      "unit": 8,
+      "lesson_num": 5,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Word Cards"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 7,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 8,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 9,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 10,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 11,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Sort Words"
+        },
+        {
+          "slide_number": 12,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 13,
+          "section": "Vocabulary Booster",
+          "title": "Word 1"
+        },
+        {
+          "slide_number": 14,
+          "section": "Vocabulary Booster",
+          "title": "Word 2"
+        },
+        {
+          "slide_number": 15,
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud"
+        },
+        {
+          "slide_number": 16,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 17,
+          "section": "Apply to Reading and Writing",
+          "title": "Build Vocabulary"
+        },
+        {
+          "slide_number": 18,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        },
+        {
+          "slide_number": 19,
+          "section": "Apply to Reading and Writing",
+          "title": "Check Comprehension"
+        },
+        {
+          "slide_number": 20,
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 5",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 8, Lesson 5. Let’s start by gathering your lesson materials. You'll need…your Student Book for Unit 8.",
+              "notes": "<visual: book cover>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 5",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 4 in your Unit 8 Student Book. Whisper read the story “Riddle Me This.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 4 spread>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 5",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards 19–45>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_3_2",
+              "file_type": "Embedded  MP4?",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_3_3",
+              "file_type": "Embedded  MP4?",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_3_4",
+              "file_type": "Embedded  MP4?",
+              "transcription": "Say the sound for each phonics card you see."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 5",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Word Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards 61–80>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_4_2",
+              "file_type": "Embedded  MP4?",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_4_3",
+              "file_type": "Embedded  MP4?",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_4_4",
+              "file_type": "Embedded  MP4?",
+              "transcription": "Find the card for the word I say. Listen carefully."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review inflectional endings \"ed\" and \"ing.\" Inflectional endings are suffixes. A suffix is a word part that may be added to the end of a word. It can change the word’s meaning and part of speech.",
+              "notes": "<visual: show the phonics/syllable cards for \"ed\" and \"ing\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"bark.\" Add the inflectional ending \"ed\" to the end of \"bark.\" What is the new word?",
+              "notes": "<visual: show the word \"bark\" and the phonics/syllable card for \"ed\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "\"barked.\" <pause>\"Barked\" is the past-tense form of the verb \"bark.\" The inflectional ending \"ed\" changes the tense of a verb from present-tense to past-tense.",
+              "notes": "<visual: show the word \"bark\" and the phonics/syllable card for \"ed\", under them, show the word \"barked\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the inflectional ending \"ing\" to the end of the word \"bark.\" What is the new word?",
+              "notes": "<visual: show the word bark and the phonics/syllable card \"ing\" across from it>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "\"barking.\" <pause> The inflectional ending \"ing\" often shows that an action is happening now, so \"barking\" means that the action, \"bark,\" is happening now.",
+              "notes": "<visual: show the word bark and the phonics/syllable card \"ing\" across from it, under them, show the word \"barking\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding the inflectional endings \"ed\" and \"ing\" to the following words.",
+              "notes": "<visual: show each of the following words across from both endings \"ed\" and \"ing\": \"march\" \"wait\" \"mix\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 11,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Sort Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_11_1",
+              "file_type": "Audio Bar",
+              "transcription": "Look at these words. Let's read the words together: mark, part , bark, start, shark, artist, chart, dark, smart, park. Now look at these two categories. This is the word artist. Read the word with me. <pause> Which category should I put artist under? <pause> Yes, artist goes in the art- category because the word is spelled with with art-. With your partner, continue to sort the rest of the words.",
+              "notes": "<visual: show words mark, part , bark, start, shark, artist, chart, dark, smart, park> <visual: show word artist> <visual: show the sorting cards art and ark in a pocket chart>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_11_2",
+              "file_type": "Audio Bar",
+              "transcription": "What did you notice about the words in each group?"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_11_3",
+              "file_type": "Audio Bar",
+              "transcription": "/är/ words don't have a long or short vowel sound for a. The letter r affects the vowel sound, making it different. You may notice the art- and ark- word spellings in many words. As we read, let's look for words with art- and ark-."
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 12,
+          "lesson": "Lesson 5",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_12_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about political vocabulary. First, look at these two pictures. Listen as I read each word. Repeat the word after I say it. voter <pause>, screen <pause>, ballot <pause>, box. Look at the voter in the picture. What is this person doing?",
+              "notes": "<visual: show vocabulary card>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 13,
+          "lesson": "Lesson 5",
+          "section": "Vocabulary Booster",
+          "title": "Word 1",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_13_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about political vocabulary. The word is obstruct. Obstruct means to block or get in the way.",
+              "notes": "<visual: Show the vocabulary card and the word, obstruct>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 14,
+          "lesson": "Lesson 5",
+          "section": "Vocabulary Booster",
+          "title": "Word 2",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_14_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the word, prolonged>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 15,
+          "lesson": "Lesson 5",
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_15_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Dark Horse or Lame Duck?”",
+              "notes": "<visual: Show the vocabulary card and the words obstruct and prolonged>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_15_2",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about political vocabulary? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 16,
+          "lesson": "Lesson 5",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_16_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 5 in your Unit 8 Student Book. The title of this text is \"Taxes Help Everyone.” Point to each word as you read the title with me: Taxes Help Everyone. You will read about taxes and what taxes pay for.",
+              "notes": "<visual: Show the student book cover and story>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 17,
+          "lesson": "Lesson 5",
+          "section": "Apply to Reading and Writing",
+          "title": "Build Vocabulary",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_17_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: employ. Employ is to give a job to someone. Schools employ many teachers and other staff, or workers. Which places employ nurses and doctors?",
+              "notes": "<visual: show student book and word, employ>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 18,
+          "lesson": "Lesson 5",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_18_1",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: show story>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 19,
+          "lesson": "Lesson 5",
+          "section": "Apply to Reading and Writing",
+          "title": "Check Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_19_1",
+              "file_type": "Audio Bar",
+              "transcription": "Find the first example of something that taxes pay for.",
+              "notes": "<visual: show story>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_19_2",
+              "file_type": "Audio Bar",
+              "transcription": "What are some things that state governments tax? Find the sentences that answer this question."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_19_3",
+              "file_type": "Audio Bar",
+              "transcription": "The government employs many people. How do government workers benefit from taxes?"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_19_4",
+              "file_type": "Audio Bar",
+              "transcription": "Do you think it is fair for citizens to pay taxes? What would happen if citizens did not pay taxes?"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_19_5",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 20,
+          "lesson": "Lesson 5",
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_5_20_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Draw four boxes on a sheet of paper. <pause> Write an important fact about taxes in each box. Use these facts to write a one or two sentence summary of the text. <pause> Share your ideas with a partner before you write.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_5_20_2",
+              "file_type": "Audio Bar",
+              "transcription": null,
+              "notes": "20"
+            }
+          ],
+          "audio_total": 2
+        }
+      ],
+      "totals": {
+        "slides": 20,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_8_Lsn_6",
+      "base": "level_3_unit_8_lesson_6",
+      "level": 3,
+      "unit": 8,
+      "lesson_num": 6,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Medial Vowel Sounds"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review High-Frequency Words"
+        },
+        {
+          "slide_number": 7,
+          "section": "Build Words Booster",
+          "title": "Build More Words"
+        },
+        {
+          "slide_number": 8,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        },
+        {
+          "slide_number": 9,
+          "section": "Apply to Reading and Writing",
+          "title": "Write"
+        },
+        {
+          "slide_number": 10,
+          "section": "Apply to Reading and Writing",
+          "title": "Write: Sentence Building"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 6",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_6_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 8, Lesson 6. Let’s start by gathering your lesson materials. You'll need…your Student Book for Unit 8.",
+              "notes": "<visual: book cover>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 6",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_6_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 5 in your Unit 8 Student Book. Whisper read the text “Taxes Help Everyone” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 5 spread>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 6",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Medial Vowel Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_6_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: born",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_6_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word born, but change the middle sound. Change /ôr/ to /är/ What's the new word? <pause> barn"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_6_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 6",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_6_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "This is the sound-spelling card for the r-controlled vowel /är/. The \"a-r\" spelling stands for the /är/ sounds. What sounds does the \"a-r\" spelling make in the word \"barn?\" <pause> \"/är/.\"",
+              "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /är/>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_6_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Write the spelling several times. Say the /är/ sounds each time you write the spelling."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 6",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_6_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Say the sound for each letter or spelling as your teacher points to it. Blend the sounds to read the word. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 6",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review High-Frequency Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_6_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: move, never, once, round, small, their, too, walk, where, year.>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_6_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word move. Say the word with me: \"move\""
+            },
+            {
+              "filename": "level_3_unit_8_lesson_6_6_3",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: m-o-v-e. The word \"move\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_6_6_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_6_6_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: never, once, round, small, their, too, walk, where, year."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 6",
+          "section": "Build Words Booster",
+          "title": "Build More Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_6_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "<visual: show the letter cards to build the words>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 6",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_6_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 6 in your Unit 8 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with ar spellings and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together.",
+              "notes": "<visual: Show Cumulative Sentences, pages 18-19>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_6_8_2",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with ar spellings. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 6",
+          "section": "Apply to Reading and Writing",
+          "title": "Write",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_6_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word shark. <pause> When you are finished, read your sentence to a partner.",
+              "notes": "<visual: show sentence strips and word, shark>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 6",
+          "section": "Apply to Reading and Writing",
+          "title": "Write: Sentence Building",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_6_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: hard/farm, artist/card.",
+              "notes": "<visual: show sentence strips and word pairs hard/farm, artist/card>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_6_10_2",
+              "file_type": "Audio Bar",
+              "transcription": null,
+              "notes": "10"
+            }
+          ],
+          "audio_total": 2
+        }
+      ],
+      "totals": {
+        "slides": 10,
+        "audio_items": 19
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_8_Lsn_7",
+      "base": "level_3_unit_8_lesson_7",
+      "level": 3,
+      "unit": 8,
+      "lesson_num": 7,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Word Cards"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 7,
+          "section": "High-Frequency Word Booster",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 8,
+          "section": "High-Frequency Word Booster",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 9,
+          "section": "High-Frequency Word Booster",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 10,
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain"
+        },
+        {
+          "slide_number": 11,
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 7",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 8, Lesson 7. Let’s start by gathering your lesson materials. You'll need…your Student Book for Unit 8.",
+              "notes": "<visual: book cover>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 7",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 6 in your Unit 8 Student Book. Whisper read the cumulative sentences. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 6 spread>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 7",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards 19–45>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_3_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_3_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_3_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 7",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Word Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards 61–80>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_4_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_4_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_4_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 7",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "This is the sound-spelling card for the r-controlled vowel /är/. The \"a-r\" spelling stands for the /är/ sounds. What sounds does the \"a-r\" spelling make in the word \"barn?\" <pause> \"/är/.\"",
+              "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /är/>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Write the spelling several times. Say the /är/ sounds each time you write the spelling."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 7",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 7",
+          "section": "High-Frequency Word Booster",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Read: Look at the high-frequency words. Read each word along with me. move, <pause> never, <pause> once, <pause> round, <pause> small, <pause> their, <pause> too, <pause> walk, <pause> where, <pause> year.",
+              "notes": "<visual: show \"move, never, once, round, small, their, too, walk, where, year\" as cards in pocket-chart pockets, add one blank pocket-row, show tray with only letters for the first word.> [intended for teacher to model the first word]"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_7_2",
+              "file_type": "Audio Bar",
+              "transcription": "Build: Now let's build a word together. Watch as your teacher spells the word."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_7_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now use your letter cards to build all the words."
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 7",
+          "section": "High-Frequency Word Booster",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write: Write each word. Then write a sentence using each word. For example, you can start a sentence with \"A ______ is a round object.\" Read your sentences to a partner when you are done.",
+              "notes": "<visual: show sentence frame \"A [blank] is a round object.\" Then show \"move, never, once, round, small, their, too, walk, where, year\" as cards in pocket-chart pockets underneath sentence frame>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 7",
+          "section": "High-Frequency Word Booster",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher is going to make a word with letter cards. <pause> What is the word? <pause> Spell it together. <pause> Watch as your teacher scrambles the letters. Fix the spelling.",
+              "notes": "<visual: empty pocket rows with tray with letter cards for 2nd word>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 7",
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 7 in your Unit 8 Student Book. The title of this text is \"What Are Taxes Used For?\" Point to the word as you read the title with me: What Are Taxes Used For? This shows what taxes are used for by displaying, or showing, a pie chart. The pie chart shows how much of Greenfield’s tax money goes to each service. The pie chart has colors and percentages. The percent is on each wedge. Each wedge identifies a service to show what the taxes pay for.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_10_2",
+              "file_type": "Audio Bar",
+              "transcription": "What do you notice or wonder about when viewing the pie chart?"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 11,
+          "lesson": "Lesson 7",
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_7_11_1",
+              "file_type": "Audio Bar",
+              "transcription": "Draw and label a pie chart that identifies the favorite colors of the students in your class.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_7_11_2",
+              "file_type": "Audio Bar",
+              "transcription": null,
+              "notes": "11"
+            }
+          ],
+          "audio_total": 2
+        }
+      ],
+      "totals": {
+        "slides": 11,
+        "audio_items": 22
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_8_Lsn_8",
+      "base": "level_3_unit_8_lesson_8",
+      "level": 3,
+      "unit": 8,
+      "lesson_num": 8,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 4,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 5,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 6,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 7,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 8,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 9,
+          "section": "Build Words with Phonemic Awareness Focus",
+          "title": "Blending Focus"
+        },
+        {
+          "slide_number": 10,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 11,
+          "section": "Vocabulary Booster",
+          "title": "Word 1"
+        },
+        {
+          "slide_number": 12,
+          "section": "Vocabulary Booster",
+          "title": "Word 2"
+        },
+        {
+          "slide_number": 13,
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud"
+        },
+        {
+          "slide_number": 14,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 15,
+          "section": "Apply to Reading and Writing",
+          "title": "Build Vocabulary"
+        },
+        {
+          "slide_number": 16,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        },
+        {
+          "slide_number": 17,
+          "section": "Apply to Reading and Writing",
+          "title": "Check Comprehension"
+        },
+        {
+          "slide_number": 18,
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 8",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 8, Lesson 8. Let’s start by gathering your lesson materials. You'll need…your Student Book for Unit 8.",
+              "notes": "<visual: book cover>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 7 in your Unit 8 Student Book. Whisper read the text “What Are Taxes Used For?” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 7 spread>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review inflectional endings. Inflectional endings change the tense of a verb, or action word. The \"ed\" ending shows that the action happened in the past. The \"ing\" ending shows that the action is happening now.",
+              "notes": "<visual: show the word star and the phonics/syllable cards \"ed\" and \"ing\">"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Some base words require spelling changes before adding the ending, such as doubling the final consonant or dropping the final \"e.\""
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"star.\" Before adding inflectional ending \"ed\" to \"star,\" double the final consonant \"r.\"",
+              "notes": "<visual: show the following: star star+r+ed starred (show \"ed\" in red font) >"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the inflectional ending \"ed\" to the end of the word \"star.\" What is the new word?"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "starred. <pause> Starred has two r's. \"Starred\" is a past-tense verb meaning that it already happened."
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Before adding inflectional ending \"ing\" to the word \"star,\" double the final consonant \"r.\"",
+              "notes": "<show the following: star star+r+ing starring (show \"ing\" in red font) >"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the inflectional ending \"ing\" to the end of the word \"star.\" What is the new word?"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "starring. <pause> Starring has two r's. \"Starring\" is an action that's happening in the present, such as in the sentence: Raya is starring in the school play."
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding inflectional endings \"ed\" and \"ing\" to the following words.",
+              "notes": "<visual: show the words fry, grab, and smile twice, once across from the phonics/syllable card ed and once across from the phonics/syllable card ing>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 8",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "This is the sound-spelling card for the r-controlled vowel /är/. The \"a-r\" spelling stands for the /är/ sounds. What sounds does the \"a-r\" spelling make in the word \"barn?\" <pause> \"/är/.\"",
+              "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /är/>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_7_2",
+              "file_type": "Audio Bar",
+              "transcription": "Write the spelling several times. Say the /är/ sounds each time you write the spelling."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 8",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_8_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with art."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_8_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words with -ed or -ing."
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 8",
+          "section": "Build Words with Phonemic Awareness Focus",
+          "title": "Blending Focus",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word cap. <pause> Change the letter p to r. What word did you make? Car",
+              "notes": "<visual: show the letter cards to build the words>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_9_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_9_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word cap<pause>. Now change cap to car. Which sound is different? Which letter will be different?"
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 8",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about the Statue of Liberty. First, look at these five pictures. Listen as I read each word. Repeat the word after I say it. Statue of Liberty <pause>, crown <pause>, torch <pause>, tablet <pause>, pedestal. Look at the Statue of Liberty in the picture. What is the statue holding?",
+              "notes": "<visual: show vocabulary card>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 11,
+          "lesson": "Lesson 8",
+          "section": "Vocabulary Booster",
+          "title": "Word 1",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_11_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about the Statue of Liberty. The word is occasion. An occasion is a special event, such as a wedding or a birthday party.",
+              "notes": "<visual: Show the vocabulary card and the word, occasion>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 12,
+          "lesson": "Lesson 8",
+          "section": "Vocabulary Booster",
+          "title": "Word 2",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_12_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the word, symbol>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 13,
+          "lesson": "Lesson 8",
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_13_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “The Story of Lady Liberty.”",
+              "notes": "<visual: Show the vocabulary card and the words occasion and symbol>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_13_2",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about the Statue of Liberty? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 14,
+          "lesson": "Lesson 8",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_14_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 8 in your Unit 8 Student Book. The title of this story is \"A Special Lady.” Point to each word as you read the title with me: A Special Lady. You will read a story about a class trip to the Statue of Liberty.",
+              "notes": "<visual: Show the student book cover and story>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 15,
+          "lesson": "Lesson 8",
+          "section": "Apply to Reading and Writing",
+          "title": "Build Vocabulary",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_15_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: symbol. A symbol is something that represents, or stands for, an idea. A dove is a symbol of peace. What are some symbols that represent the United States?",
+              "notes": "<visual: Show the story and the word, symbol>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 16,
+          "lesson": "Lesson 8",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_16_1",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: show story>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 17,
+          "lesson": "Lesson 8",
+          "section": "Apply to Reading and Writing",
+          "title": "Check Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_17_1",
+              "file_type": "Audio Bar",
+              "transcription": "Find the name of the teacher leading the class trip.",
+              "notes": "<visual: show story>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_17_2",
+              "file_type": "Audio Bar",
+              "transcription": "Who is the “special lady” Mr. Clark wants his students to meet? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_17_3",
+              "file_type": "Audio Bar",
+              "transcription": "What is the statue a symbol of? Can it be a symbol of more than one idea? Explain."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_17_4",
+              "file_type": "Audio Bar",
+              "transcription": "How do you think the students felt about Mr. Clark’s surprise? What makes you think so?"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_17_5",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 18,
+          "lesson": "Lesson 8",
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_8_18_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Draw a picture to remember the important details in the story. <pause> Label the details, such as bus, Battery Park, Mr. Clark, Statue of Liberty, and New York Harbor. <pause> Use your drawing to retell the story to a partner. Then, write your retelling.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_8_18_2",
+              "file_type": "Audio Bar",
+              "transcription": null,
+              "notes": "18"
+            }
+          ],
+          "audio_total": 2
+        }
+      ],
+      "totals": {
+        "slides": 18,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_8_Lsn_9",
+      "base": "level_3_unit_8_lesson_9",
+      "level": 3,
+      "unit": 8,
+      "lesson_num": 9,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Word Cards"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 7,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Use Dictation with Phonemic Awareness Focus"
+        },
+        {
+          "slide_number": 8,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 9,
+          "section": "Vocabulary Booster",
+          "title": "Word 1"
+        },
+        {
+          "slide_number": 10,
+          "section": "Vocabulary Booster",
+          "title": "Word 2"
+        },
+        {
+          "slide_number": 11,
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud"
+        },
+        {
+          "slide_number": 12,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 13,
+          "section": "Apply to Reading and Writing",
+          "title": "Build Vocabulary"
+        },
+        {
+          "slide_number": 14,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        },
+        {
+          "slide_number": 15,
+          "section": "Apply to Reading and Writing",
+          "title": "Check Comprehension"
+        },
+        {
+          "slide_number": 16,
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 9",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 8, Lesson 9. Let’s start by gathering your lesson materials. You'll need…your Student Book for Unit 8.",
+              "notes": "<visual: book cover>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 9",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 8 in your Unit 8 Student Book. Whisper read the story “A Special Lady.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 8 spread>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 9",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards 19–45>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_3_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound or sounds for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_3_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_3_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound or sounds for each phonics card you see."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 9",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Word Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards 61–80>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_4_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_4_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_4_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Finally, find the card for the word I say. Listen carefully."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 9",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "This is the sound-spelling card for the r-controlled vowel /är/. The \"a-r\" spelling stands for the /är/ sounds. What sounds does the \"a-r\" spelling make in the word \"barn?\" <pause> \"/är/.\"",
+              "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /är/>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 9",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let's blend some words to practice what we've learned. Read each word as your teacher taps on it. Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 9",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Use Dictation with Phonemic Awareness Focus",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual: show phonemic awareness image>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_7_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word spark."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_7_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word harvest."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_7_4",
+              "file_type": "Audio Bar",
+              "transcription": "Finally, write this sentence: Where is the small starfish with five arms?"
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 9",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about ocean cleanup. First, look at these two pictures. Listen as I read each word. Repeat the word after I say it. ocean <pause>, plastic waste <pause>, plastic bag <pause>, turtle. Look at the ocean in the picture. What is in the water?",
+              "notes": "<visual: show vocabulary card>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 9",
+          "section": "Vocabulary Booster",
+          "title": "Word 1",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about ocean cleanup. The word is convert. When you convert something, you change it into something else.",
+              "notes": "<visual: Show the vocabulary card and the word, convert>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 9",
+          "section": "Vocabulary Booster",
+          "title": "Word 2",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and word, banned>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 11,
+          "lesson": "Lesson 9",
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_11_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Working Together on Ocean Cleanup.”",
+              "notes": "<visual: Show the vocabulary card and the words convert and banned>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_11_2",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about ocean cleanup? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 12,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_12_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 9 in your Unit 8 Student Book. The title of this text is \"Community Workers.” Point to each word as you read the title with me: Community Workers. This is a nonfiction text about different community jobs.",
+              "notes": "<visual: Show the student book cover and story>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 13,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Build Vocabulary",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_13_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: essential. Essential is something that is needed. Pencils and paper are essential for writers. Which tools are essential to builders of houses? Chefs, who cook food? Artists?",
+              "notes": "<visual: Show the story and the word, essential>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 14,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_14_1",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: show story>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 15,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Check Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_15_1",
+              "file_type": "Audio Bar",
+              "transcription": "Find three things that mail carriers bring to people.",
+              "notes": "<visual: show story>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_15_2",
+              "file_type": "Audio Bar",
+              "transcription": "Why are firefighters important community workers? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_15_3",
+              "file_type": "Audio Bar",
+              "transcription": "Why are teachers, bus drivers, mail carriers, police officers, and firefighters essential to our community? Explain."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_15_4",
+              "file_type": "Audio Bar",
+              "transcription": "Which job from this text would you like to have? Why?"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_15_5",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 16,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Write to Deepen Comprehension",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_9_16_1",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write about one other job that is important to the community. <pause> Share your ideas with a partner before you write.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_9_16_2",
+              "file_type": "Audio Bar",
+              "transcription": null,
+              "notes": "16"
+            }
+          ],
+          "audio_total": 2
+        }
+      ],
+      "totals": {
+        "slides": 16,
+        "audio_items": 32
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_8_Lsn_10",
+      "base": "level_3_unit_8_lesson_10",
+      "level": 3,
+      "unit": 8,
+      "lesson_num": 10,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Blend and Segment Multisyllabic Words by Syllable"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 7,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 8,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 9,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 10,
+          "section": "Make a Word Ladder",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 11,
+          "section": "High-Frequency Word Booster",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 12,
+          "section": "High-Frequency Word Booster",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        },
+        {
+          "slide_number": 13,
+          "section": "Cumulative Assessments",
+          "title": "Morphology: Inflectional Endings -ed, -ing"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 10",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 8, Lesson 10. Let’s start by gathering your lesson materials. You'll need…your Student Book for Unit 8.",
+              "notes": "<visual: book cover>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 10",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Reread to Build Fluency",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 8 Student Book. Whisper read the story “Community Workers.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 9 spread>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 10",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Blend and Segment Multisyllabic Words by Syllable",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say the following syllables: car-toon",
+              "notes": "<visual: show phonemic awareness Image>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the syllables and blend them to make a word. car-toon, cartoon."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following syllables. Blend the syllables to make a word."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now we will segment words into syllables. Listen as I say the following word: depart"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the word and segment it into the syllables you hear. Depart, de-part."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words. Segment each word into the syllables you hear."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review inflectional endings \"ed\" and \"ing.\" Inflectional endings are suffixes. A suffix is a word part that may be added to the end of a word. It can change the word’s meaning and part of speech.",
+              "notes": "<visual: show the phonics/syllable cards for \"ed\" and \"ing\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"carve.\" Add the inflectional ending \"ed\" to the end of \"carve.\" What is the new word?",
+              "notes": "<visual: show the word \"carve\" and the phonics/syllable cards for \"ed\" and \"ing\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "\"carved.\" <pause> \"Carved\" is the past-tense form of the verb \"carve.\" The inflectional ending \"ed\" changes the tense of a verb, or action word. An example of carved in a sentence would be: He carved a slice of the turkey.",
+              "notes": "<visual: show the word \"carve\" and the phonics/syllable cards for \"ed\", under them, show the word \"carved\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now add the inflectional ending \"ing\" to the end of the word \"carve.\" What is the new word?",
+              "notes": "<visual: show the word \"carve\" and the phonics/syllable card \"ing\" across from it>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 8,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_8_1",
+              "file_type": "Audio Bar",
+              "transcription": "\"carving.\" <pause> The inflectional ending \"ing\" often shows that an action is happening now, so \"carving\" means that the action, \"carve,\" is happening now as in the sentence: She was carving the turkey for dinner.",
+              "notes": "<visual: show the word \"carve\" and the phonics/syllable card \"ing\" across from it, under them, show the word \"carving\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 9,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_9_1",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding the inflectional endings \"ed\" or \"ing\" to the following words.",
+              "notes": "<visual: show the phonics/syllable cards for \"ed\" and \"ing\" and the following words: \"farm,\" \"charge,\" \"march,\" \"dry\">"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 10",
+          "section": "Make a Word Ladder",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's make a word ladder. I will give you a clue for each word to write on the word ladder.",
+              "notes": "<visual: empty word ladder with 6 rungs>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_10_2",
+              "file_type": "Audio Bar",
+              "transcription": "This word names a place where horses live."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_10_3",
+              "file_type": "Audio Bar",
+              "transcription": "Change one letter in barn to name the sound a dog makes."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_10_4",
+              "file_type": "Audio Bar",
+              "transcription": "Change one letter in bark to describe what you do when you drive a car into a spot."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_10_5",
+              "file_type": "Audio Bar",
+              "transcription": "Add two letters to park to show that the action happened in the past."
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_10_6",
+              "file_type": "Audio Bar",
+              "transcription": "Change one letter in parked to form a word that means “drew.”"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_10_7",
+              "file_type": "Audio Bar",
+              "transcription": "Change one letter in marked to name a place to shop."
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 11,
+          "lesson": "Lesson 10",
+          "section": "High-Frequency Word Booster",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_11_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Look at the high-frequency words.",
+              "notes": "<visual: move, never, once, round, small, their, too, walk, where, year>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_11_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher reads a high-frequency word from the list. Point to the word. Read the word. Spell the the word aloud."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 12,
+          "lesson": "Lesson 10",
+          "section": "High-Frequency Word Booster",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_12_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now build each high-frequency word using letter cards. Then work with a partner. Take turns scrambling the letters in the words. Rebuild each word. Watch as your teacher models scrambling and rebuilding the word \"once.\"",
+              "notes": "<visual: pocket chart with 3rd word spelled out with letter cards: once>"
+            }
+          ],
+          "audio_total": 1
+        },
+        {
+          "slide_number": 13,
+          "lesson": "Lesson 10",
+          "section": "Cumulative Assessments",
+          "title": "Morphology: Inflectional Endings -ed, -ing",
+          "audio": [
+            {
+              "filename": "level_3_unit_8_lesson_10_13_1",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher will ask you to read and write some words to check on your progress. Congratulations on all your hard work in Unit 8!",
+              "notes": "<visual: show Cumulative Assessment page 30>"
+            },
+            {
+              "filename": "level_3_unit_8_lesson_10_13_2",
+              "file_type": "Audio Bar",
+              "transcription": null,
+              "notes": "13"
+            }
+          ],
+          "audio_total": 2
+        }
+      ],
+      "totals": {
+        "slides": 13,
+        "audio_items": 26
+      }
+    }
+  ]
+}

@@ -1,0 +1,2221 @@
+{
+  "workbook": "Y49421_L3U27.xlsx",
+  "totals": {
+    "sheets": 10,
+    "slides": 37,
+    "audio_items": 282
+  },
+  "sheets": [
+    {
+      "sheet_name": "Lvl_3_Unt_27_Lsn_1",
+      "base": "level_3_unit_27_lesson_1",
+      "level": 3,
+      "unit": 27,
+      "lesson_num": 1,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 1",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_1_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 27, Lesson 1. Let’s start by gathering your lesson materials. You'll need your Student Books for Unit 26 and Unit 27.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 26 Student Book. Whisper read the story “A New Kind of Pop!” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 1 spread>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about silent letters, let’s blend some words with silent letters to practice what we've learned. Listen as I sound out the first two words.",
+              "notes": "<visual: show blend words table>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_1_4",
+              "file_type": "Embedded MP4",
+              "transcription": "/rrrīīīt/, write. /rrrōōōt/, wrote. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 1",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_1_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Listen to the sound.",
+              "notes": "<visual: Show the pocket chart and word>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_10",
+              "file_type": "Embedded MP4",
+              "transcription": "articulation video TK"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_11",
+              "file_type": "Audio Bar",
+              "transcription": "This is the sound-spelling card for silent letters. The \"w-r\" spelling stands for the /r/ sound in \"write.\" The \"k-n\" and \"g-n\" spellings stand for the /n/ sound in \"knee\" and \"gnat.\" The \"m-b\" spelling stands for the /m/ sound in \"comb.\" Each of these spellings has a silent letter—a letter we don’t pronounce when sounding out the word.",
+              "notes": "<visual: show the sound-spelling card for silent letters>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_2_12",
+              "file_type": "Audio Bar",
+              "transcription": "Write each spelling several times. Say the letter sound each time as you write the letters and circle the silent letter.",
+              "notes": "<visual: show the letter pairs: gn kn wr mb>"
+            }
+          ],
+          "audio_total": 12
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 1",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_1_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about bartering. First, look at the picture. Listen as I read each word. Repeat the word after I say it. trading <pause>, pudding <pause>, apple. Look at the pudding and the apple in the picture. What are the people in the picture doing with these items?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about bartering. The word is trading. Trading means “exchanging or swapping one item for another.”",
+              "notes": "<visual: Show the vocabulary card and the word, trading>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words trading and bartering>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Getting Things You Want — Without Spending Money”"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about bartering? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_1_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 1 in your Unit 27 Student Book. The title of this story is \"A Fair Trade.” Point to each word as you read the title with me: A Fair Trade. This story is about a brother and sister who make a fair trade, or exchange things of equal value. Their mother teaches them that the term “fair trade” also applies to many of the products we use every day.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: employee. An employee is a person who works for a company or business. The store employee helped me find what I needed. When you grow up, where would you like to be an employee? Why?",
+              "notes": "<visual: Show the story and the word, employee>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the words that name the items Hana and Ken want to trade."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "How can employees, or workers, at a fair trade company expect to be treated? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "What are some reasons people might choose to buy from a fair trade company instead of other companies?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Which of the fair trade products in the story are ones you and your family use?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_1_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write about if and why you would want to support a fair trade company. <pause> Share your ideas with a partner before you write. Look back at the story for ideas.",
+              "notes": "<visual: Show the writing journal>"
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 30
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_27_Lsn_2",
+      "base": "level_3_unit_27_lesson_2",
+      "level": 3,
+      "unit": 27,
+      "lesson_num": 2,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Initial and Final Sounds"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 2",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_2_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 27, Lesson 2. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 27.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 1 in your Unit 27 Student Book. Whisper read the story “A Fair Trade.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 1 spread>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: among, building, circle, decided, finally>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word building. Say the word with me. Building. What are the two big word parts in building? (build-ing) Look at build. The /i/ sound is spelled with the letters ui. That’s the part we need to remember."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: b-u-i-l-d-i-n-g. The word \"building\" does not follow the rules. We have to pay extra attention to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: among, circle, decided, finally."
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 2",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Initial and Final Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_2_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: hair",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word hair, but change the beginning sound. Change /h/, to /sh/. What's the new word? <pause> share"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the ending sound of a word. Listen as I say a word: hope"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word hope, but change the ending sound. Change /p/, to /m/. What's the new word? <pause> home"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_2_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review silent letters. This is the sound-spelling card for silent letters. The \"w-r\" spelling stands for the /r/ sound in \"write.\" The \"k-n\" and \"g-n\" spellings stand for the /n/ sound in \"knee\" and \"gnat.\" The \"m-b\" spelling stands for the /m/ sound in \"comb.\" Each of these spellings has a silent letter—a letter we don’t pronounce when sounding out the word.",
+              "notes": "<visual: show the sound-spelling card for silent letters>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_2_8",
+              "file_type": "Audio Bar",
+              "transcription": "Write each spelling several times. Say the letter sound each time as you write the letters and circle the silent letter."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about silent letters, let’s blend some words with silent letters to practice what we've learned. Listen as I sound out the first two words.",
+              "notes": "<visual: show the Blend Words chart>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_2_10",
+              "file_type": "Embedded MP4",
+              "transcription": "/rrrīīīt/, write. /rrrōōōt/, wrote. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 2",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_2_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about selling things without a store. First, look at these four pictures. Listen as I read each word. Repeat the word after I say it. farmers' market <pause>, vegetables <pause>, fruits <pause>, social media <pause>, computer <pause>, yard sale <pause>, flea market. Look at the pictures of the farmer's market and the yard sale. What is being sold in these places?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about selling things without a store. The word is numerous. Numerous means “many.”",
+              "notes": "<visual: Show the vocabulary card and the word, numerous>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words numerous and option>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Selling Things Without a Store”"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about selling things without a store? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 2",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_2_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 2 in your Unit 27 Student Book. The title of this text is \"Where Do These Silent Letters Come From Anyway?” Point to each word as you read the title with me: Where Do These Silent Letters Come From Anyway? This text is a photo comic. It has panels and text boxes like a comic, but it features photos and information instead of illustrations and dialogue for a story.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: evolved. Evolved means “changed over time.” My knowledge of math has evolved over time. In what ways have you evolved since you were a baby?",
+              "notes": "<visual: Show the story and the word, evolved>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word that names a tool that makes your hair look neat."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What is one way the English language has evolved, or changed over time? Find the sentence that answers the question."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Why does the word tsunami have a silent letter in English but not in Japanese?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Which sounds and letters in English do you find difficult? How or where can you get help when you need it?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_2_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: List three to five facts you learned about silent letters in English. <pause> Draw a picture to accompany your list.",
+              "notes": "<visual: Show the writing journal>"
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 31
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_27_Lsn_3",
+      "base": "level_3_unit_27_lesson_3",
+      "level": 3,
+      "unit": 27,
+      "lesson_num": 3,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 3",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_3_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 27, Lesson 3. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 27.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 2 in your Unit 27 Student Book. Whisper read the story “Where Do These Silent Letters Come From Anyway?” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 2 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 3",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_3_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review silent letters. This is the sound-spelling card for silent letters. The \"w-r\" spelling stands for the /r/ sound in \"write.\" The \"k-n\" and \"g-n\" spellings stand for the /n/ sound in \"knee\" and \"gnat.\" The \"m-b\" spelling stands for the /m/ sound in \"comb.\" Each of these spellings has a silent letter—a letter we don’t pronounce when sounding out the word.",
+              "notes": "<visual: show the sound-spelling card for silent letters>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_10",
+              "file_type": "Audio Bar",
+              "transcription": "Write each spelling several times. Say the letter sound each time as you write the letters and circle the silent letter."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_11",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about silent letters, let’s blend some words with silent letters to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_12",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with \"m-b.\""
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_13",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words with \"k-n.\""
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_14",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word cob. <pause> Add the letter m to make the silent letter /m/ spelling. What word did you make? Comb",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_15",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_16",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word cob<pause>. Now change cob to comb. Which sound is different? Which letter will be different?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_2_17",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "<visual: show the letter cards to build the words>"
+            }
+          ],
+          "audio_total": 17
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 3",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_3_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 3 in your Unit 27 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with silent letters and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together.",
+              "notes": "<visual: Show Cumulative Sentences, pages 12-13>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with silent letters. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word thumb. <pause> When you are finished, read your sentence to a partner.",
+              "notes": "<visual: show sentence strips and word thumb>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_3_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: know/write, sign/climb.",
+              "notes": "<visual: show sentence strips and word pairs know/write, sign/climb>"
+            }
+          ],
+          "audio_total": 4
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 23
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_27_Lsn_4",
+      "base": "level_3_unit_27_lesson_4",
+      "level": 3,
+      "unit": 27,
+      "lesson_num": 4,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 3,
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain"
+        },
+        {
+          "slide_number": 5,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Silent Letters"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 4",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_4_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 27, Lesson 4. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 27.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 3 in your Unit 27 Student Book. Whisper read the cumulative sentences.",
+              "notes": "<visual: Student Book Lesson 3 spread>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Introduce High-Frequency Words. Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: heavy, include, nothing, special, wheel.>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word nothing. Say the word with me. Nothing. The word \"nothing\" does not follow the rules. We have to pay extra attention to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: n-o-t-h-i-n-g. The letter \"o\" makes the /u/ sound in the word \"nothing.\""
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: heavy, include, nothing, special, wheel."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word knew."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word thumb."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_11",
+              "file_type": "Audio Bar",
+              "transcription": "Spelling Booster: Let's write some more words. Listen to each word I say. Break apart the word sound by sound, then write the letter or spelling for each sound.",
+              "notes": "<visual: show Spelling Booster image>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_12",
+              "file_type": "Audio Bar",
+              "transcription": "write"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_13",
+              "file_type": "Audio Bar",
+              "transcription": "wrote"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_14",
+              "file_type": "Audio Bar",
+              "transcription": "limb"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_15",
+              "file_type": "Audio Bar",
+              "transcription": "climb"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_16",
+              "file_type": "Audio Bar",
+              "transcription": "sign"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_1_17",
+              "file_type": "Audio Bar",
+              "transcription": "design"
+            }
+          ],
+          "audio_total": 17
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 4",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_4_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review silent letters. This is the sound-spelling card for silent letters. The \"w-r\" spelling stands for the /r/ sound in \"write.\" The \"k-n\" and \"g-n\" spellings stand for the /n/ sound in \"knee\" and \"gnat.\" The \"m-b\" spelling stands for the /m/ sound in \"comb.\" Each of these spellings has a silent letter—a letter we don’t pronounce when sounding out the word.",
+              "notes": "<visual: show the sound-spelling card for silent letters>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Then, read each word as your teacher taps on it.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 4",
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_4_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 4 in your Unit 27 Student Book. The title of this story is \"Trusting Your Gut.\" Point to each word as you read the title with me: Trusting Your Gut. This is a comic. The speech bubbles in each panel show what the characters are saying. When we trust our gut, we listen to what our inner voice tells us. Read the comic. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Find all the words in the comic with silent letter spellings and circle them. <pause> Chorally read the circled words."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Write the sentence I say. Listen carefully and focus on one word at a time.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "The first sentence is: I decided to write about the king’s tomb. Say the sentence with me: I decided to write about the king’s tomb. Now write the sentence. Your teacher will help you segment, or break apart, each word and write a letter for each sound."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "The second sentence is: Mom wraps the box in paper with a special design. Say the sentence with me: Mom wraps the box in paper with a special design. Now write the sentence. Your teacher will help you if you need it."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Let's read each sentence out loud. Check your work. Your teacher will write each sentence. Correct your spellings if necessary."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Silent Letters",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_4_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: sign.",
+              "notes": "<visual: show the word \"sign\" with the letters gn underlined>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "The letters \"g-n\" in the word \"sign\" stand for the /n/ sound. The letter \"g\" is silent here. Identifying silent letters can help us read and pronounce related words."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"signing.\" <pause> \"signing\" contains the base word \"sign.\"",
+              "notes": "<visual: show the word \"signing\" with the base word \"sign\" underlined>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: signature. <pause> \"signature\" is also a related word with the base word \"sign,\" but when the word is divided into syllables, the \"g\" is pronounced \"sig-na-ture.\"",
+              "notes": "<visual: show the word \"signature\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the following word \"write.\" The letters \"w-r\" stand for the /r/ sound here, and the letter \"w\" is silent.",
+              "notes": "<visual: show the word \"write\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_4_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now practice identifying the related base word and naming the silent letters for the following words:",
+              "notes": "<visual: show the following words \"rewrite,\" \"handwrite,\" \"songwriter\""
+            }
+          ],
+          "audio_total": 6
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 32
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_27_Lsn_5",
+      "base": "level_3_unit_27_lesson_5",
+      "level": 3,
+      "unit": 27,
+      "lesson_num": 5,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Silent Letters"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 5",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_5_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 27, Lesson 5. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 27.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 4 in your Unit 27 Student Book. Whisper read the story “Trusting Your Gut.\" Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 4 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 5",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_5_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 5",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_5_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about how sneakers are made. First, look at these two pictures. Listen as I read each word. Repeat the word after I say it. factory <pause>, assembly line <pause>, sneaker <pause>, machine. Look at the machine in the picture. What is do you think is being made?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about how sneakers are made. The word is durable. Durable means “strong and long-lasting over a period of time.”",
+              "notes": "<visual: Show the vocabulary card and the word, durable>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words durable and factory >"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “How Sneakers Are Made”"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about how sneakers are made? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Silent Letters",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_5_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review silent letters. Some words include silent letters. Often, related words will all have the same silent letter.",
+              "notes": "<visual: show the words \"know\" \"unknown\" \"knowledge\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word \"know.\" The letters \"k-n\" stand for the /n/ sound. The letter \"k\" is silent. Identifying silent letters can help us read and pronounce related words.",
+              "notes": "<visual: show the word \"know\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"unknown.\" <pause> \"unknown\" contains the base word \"know.\"",
+              "notes": "<visual: show the word \"unknown\" with the base word \"know\" underlined>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: knowledge. <pause> \"knowledge\" is also a related word with the base word \"know,\" but when the word is divided into syllables, the word \"know\" is pronounced \"naw.\"",
+              "notes": "<visual: show the word \"knowledge\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "Identify the silent letter in the following words.",
+              "notes": "<visual: show the words \"climb,\" \"climber,\" \"climbing\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Look at these words. Let's read the words together: wrist, wrong, writing, wrinkle, knocking, unknown, kneeling, climber, climbing, crumbs. Now look at these two categories. This is the word wrist. Read the word with me. <pause> Which category should I put wrist under? <pause> Yes, wrist goes in the wr category because the word wrist begins with wr. With your partner, continue to sort the rest of the words.",
+              "notes": "<visual: show words wrist, wrong, writing, wrinkle, knocking, unknown, kneeling, climber, climbing, crumbs> <visual: show word wrist> <visual: show the sorting cards wr, kn, mb and in a pocket chart>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What did you notice about the words in each group?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "\"Wr\" is a common spelling for the sound /r/. You may notice the wr spelling in many words. As we read, let's look for words with wr-."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 5 in your Unit 27 Student Book. The title of this text is \"What You're Really Paying For.” Point to each word as you read the title with me: What You're Really Paying For. You will read about the different costs involved in making and selling a product.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_10",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: expenses. Expenses are the things we need that we use money to buy. My weekly expenses include food and gas for my car. What are some expenses a family might have each month?",
+              "notes": "<visual: Show the story and the word, expenses>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_11",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_12",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word or words that name what apple farm workers trim each spring."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_13",
+              "file_type": "Audio Bar",
+              "transcription": "What expenses, or costs, must be paid before you buy an apple at a store? Find sentences that answer this question."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_14",
+              "file_type": "Audio Bar",
+              "transcription": "If a bicycle company has higher expenses to make a product, how might that affect the price you pay for a bike at the store? Why?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_15",
+              "file_type": "Audio Bar",
+              "transcription": "When you want to buy something, how important is the price? Explain your response."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_16",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_5_5_17",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Draw four boxes on a sheet of paper. <pause> Write an important fact about how apples or bicycles are prepared to be sold in stores in each box. <pause> Use these facts to write a one or two sentence summary of the text. Share your summary with a partner before writing.",
+              "notes": "<visual: Show the writing journal>"
+            }
+          ],
+          "audio_total": 17
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 32
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_27_Lsn_6",
+      "base": "level_3_unit_27_lesson_6",
+      "level": 3,
+      "unit": 27,
+      "lesson_num": 6,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 4,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 6",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_6_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 27, Lesson 6. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 27.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 5 in your Unit 27 Student Book. Whisper read the text “What You’re Really Paying For.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 5 spread>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: grain",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word grain, but change the middle sound. Change /ā/, to /ē/. What's the new word? <pause> green"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 6",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_6_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review silent letters. This is the sound-spelling card for silent letters. The \"w-r\" spelling stands for the /r/ sound in \"write.\" The \"k-n\" and \"g-n\" spellings stand for the /n/ sound in \"knee\" and \"gnat.\" The \"m-b\" spelling stands for the /m/ sound in \"comb.\" Each of these spellings has a silent letter—a letter we don’t pronounce when sounding out the word.",
+              "notes": "<visual: show the sound-spelling card for silent letters>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Write each spelling several times. Say the letter sound each time as you write the letters and circle the silent letter."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Say the sound for each letter or spelling as your teacher points to it. Blend the sounds to read the word. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: among, building, circle, decided, finally, heavy, include, nothing, special, wheel.>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word among. Say the word with me: \"among\""
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: a-m-o-n-g. The word \"among\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_2_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_2_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: among, building, circle, decided, finally, heavy, include, nothing, special, wheel"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "<visual: show the letter cards to build the words>"
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 6",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_6_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 6 in your Unit 27 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with silent letter spellings and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together.",
+              "notes": "<visual: Show Cumulative Sentences, pages 18-19>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with silent letter spellings. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word wrong. <pause> When you are finished, read your sentence to a partner.",
+              "notes": "<visual: show sentence strips and word wrong>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_6_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: gnaw/crumbs, knew/wrong.",
+              "notes": "<visual: show sentence strips and word pairs gnaw/crumbs, knew/wrong>"
+            }
+          ],
+          "audio_total": 4
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 18
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_27_Lsn_7",
+      "base": "level_3_unit_27_lesson_7",
+      "level": 3,
+      "unit": 27,
+      "lesson_num": 7,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 3,
+          "section": "High-Frequency Word Booster",
+          "title": "Review High-Frequency Words"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 7",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_7_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 27, Lesson 7. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 27.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 6 in your Unit 27 Student Book. Whisper read the cumulative sentences. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 6 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 7",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_7_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound or sounds for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound or sounds for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Finally, find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review silent letters. This is the sound-spelling card for silent letters. The \"w-r\" spelling stands for the /r/ sound in \"write.\" The \"k-n\" and \"g-n\" spellings stand for the /n/ sound in \"knee\" and \"gnat.\" The \"m-b\" spelling stands for the /m/ sound in \"comb.\" Each of these spellings has a silent letter—a letter we don’t pronounce when sounding out the word.",
+              "notes": "<visual: show the sound-spelling card for silent letters>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_10",
+              "file_type": "Audio Bar",
+              "transcription": "Write each spelling several times. Say the letter sound each time as you write the letters and circle the silent letter."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_11",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_12",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: among, building, circle, decided, finally, heavy, include, nothing, special, wheel.>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_13",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word building. Say the word with me: \"building\""
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_14",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: b-u-i-l-d-i-n-g. The word \"building\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_15",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_2_16",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: among, circle, decided, finally, heavy, include, nothing, special, wheel"
+            }
+          ],
+          "audio_total": 16
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 7",
+          "section": "High-Frequency Word Booster",
+          "title": "Review High-Frequency Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_7_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Read: Look at the high-frequency words. Read each word along with me. among, <pause> building, <pause> circle, <pause> decided, <pause> finally, <pause> heavy, <pause> include, <pause> nothing, <pause> special, <pause> wheel.",
+              "notes": "<visual: show \"among, building, circle, decided, finally, heavy, include, nothing, special, wheel\" as cards in pocket-chart pockets, add one blank pocket-row, show tray with only letters for the first word.> [intended for teacher to model the first word]"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Build: Now let's build a word together. Watch as your teacher spells the word."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now use your letter cards to build all the words."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write: Write each word. Then write a sentence using each word. For example, you can start a sentence with \"One building in our town is ______ .\" Read your sentences to a partner when you are done.",
+              "notes": "<visual: show sentence frame \"One building in our town is [blank].\" Then show \"among, building, circle, decided, finally, heavy, include, nothing, special, wheel\" as cards in pocket-chart pockets underneath sentence frame>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher is going to make a word with letter cards. <pause> What is the word? <pause> Spell it together. <pause> Watch as your teacher scrambles the letters. Fix the spelling.",
+              "notes": "<visual: empty pocket rows with tray with letter cards for 2nd word>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 7 in your Unit 27 Student Book. The title of this text is \"From Sheep to Sweater.\" Point to the word as you read the title with me: From Sheep to Sweater. This text lists the steps in making a wool sweater. It includes a time line. A time line shows a series of steps or actions in the order they occur, from beginning to end. Authors include time lines to help readers understand the steps in a process.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "What do you notice or wonder about when viewing the time line?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_7_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Create a time line for another process that involves several steps. <pause> Draw a picture and write a short capttion for each step. <pause> Remember to list the steps in order from beginning to end.",
+              "notes": "<visual: Show the writing journal>"
+            }
+          ],
+          "audio_total": 8
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 26
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_27_Lsn_8",
+      "base": "level_3_unit_27_lesson_8",
+      "level": 3,
+      "unit": 27,
+      "lesson_num": 8,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 4,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Silent Letters"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 8",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_8_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 27, Lesson 8. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 27.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 7 in your Unit 27 Student Book. Whisper read the text “From Sheep to Sweater.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 7 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 8",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_8_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review silent letters. This is the sound-spelling card for silent letters. The \"w-r\" spelling stands for the /r/ sound in \"write.\" The \"k-n\" and \"g-n\" spellings stand for the /n/ sound in \"knee\" and \"gnat.\" The \"m-b\" spelling stands for the /m/ sound in \"comb.\" Each of these spellings has a silent letter—a letter we don’t pronounce when sounding out the word.",
+              "notes": "<visual: show the sound-spelling card for silent letters>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Write each spelling several times. Say the letter sound each time as you write the letters and circle the silent letter."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with \"w-r.\""
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words with \"g-n.\""
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word ring. <pause> Add the letter w to make the silent letter /r/ spelling. What word did you make? Wring.",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_2_7",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_2_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word ring<pause>. Now change ring to wring with the silent letter /r/ spelling. Which letter will be different?"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Silent Letters",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_8_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: design.",
+              "notes": "<visual: show the word \"design\" with the letters gn underlined>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "The letters \"g-n\" in the word \"design\" stand for the /n/ sound. The letter \"g\" is silent here. Identifying silent letters can help us read and pronounce related words."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following words: \"designer\" <pause> \"designate.\" These are related words with the same base word, \"design.\" How are the words different?",
+              "notes": "<visual: show the words \"designer\" and \"designate\" with the base word \"design\" underlined>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Correct. The letter \"g\" is silent in the word \"designer\" but is pronounced in the word \"designate.\""
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the following word \"wrap.\" What letters stand for the /r/ sound in the word \"wrap?\"",
+              "notes": "<visual: show the word \"wrap\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Correct. The letters \"w-r\" stand for the /r/ sound. <pause> which letter in the word is silent?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Correct. The letter \"w\" is silent."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now practice identifying the related base word and naming the silent letters for the following words:",
+              "notes": "<visual: show the following words: \"wrapping,\" \"unwrap,\" \"prewrapped,\" \"wrapper\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about turning hobbies into businesses. First, look at these three pictures. Listen as I read each word. Repeat the word after I say it. artisan <pause>, knitting <pause>, hobby <pause>, market stand <pause>, products <pause>, online store. Look at the artisan in the picture. What do you think is happening in this picture?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about turning hobbies into businesses. The word is outlet. An outlet is a way to express interests, emotions, or energy.",
+              "notes": "<visual: Show the vocabulary card and the word, outlet>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words outlet and profit>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Turning Hobbies into Businesses”"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about turning hobbies into businesses? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 13
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 8",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_8_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 8 in your Unit 27 Student Book. The title of this text is \"Start a Business.” Point to each word as you read the title with me: Start a Business. You will read about the steps involved in starting your own business.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: mentor. A mentor is someone who teaches, helps, and gives advice to a younger, less experienced person. A soccer coach is a mentor to the members of the team. Who has been a mentor to you? What did this person teach you?",
+              "notes": "<visual: Show the story and the word, mentor>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "What is one way to reach out to people who own a business in order to learn about running a business?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What else should you do before you design a business plan? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Why would someone who already owns a business be a mentor to someone who wants to start a business? Why do you think the author suggests contacting someone with experience?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What special skills do you have that you could use in a business? What is a business you could start using these skills?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_8_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Create a series of steps for starting your own business based on your special skills.",
+              "notes": "<visual: Show the writing journal>"
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 32
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_27_Lsn_9",
+      "base": "level_3_unit_27_lesson_9",
+      "level": 3,
+      "unit": 27,
+      "lesson_num": 9,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 9",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_9_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 27, Lesson 9. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 27.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 8 in your Unit 27 Student Book. Whisper read the story “Start a Business.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 8 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 9",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_9_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound or sounds for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound or sounds for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Finally, find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review silent letters. This is the sound-spelling card for silent letters. The \"w-r\" spelling stands for the /r/ sound in \"write.\" The \"k-n\" and \"g-n\" spellings stand for the /n/ sound in \"knee\" and \"gnat.\" The \"m-b\" spelling stands for the /m/ sound in \"comb.\" Each of these spellings has a silent letter—a letter we don’t pronounce when sounding out the word.",
+              "notes": "<visual: show the sound-spelling card for silent letters>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_10",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let's blend some words to practice what we've learned. Read each word as your teacher taps on it. Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_11",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_12",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_13",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word crumb."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_14",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word kneel."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_2_15",
+              "file_type": "Audio Bar",
+              "transcription": "Finally, write this sentence: I finally know how to tie a knot."
+            }
+          ],
+          "audio_total": 15
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 9",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_9_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about growing a new business. First, look at the picture. Listen as I read each word. Repeat the word after I say it. office <pause>, computer <pause>, desk <pause>, chair <pause>, worker. Look at the computer in the picture. What else do you see in the office?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about growing a new business. The word is guidance. Guidance means “advice or counseling.”",
+              "notes": "<visual: Show the vocabulary card and the word, guidance>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words guidance and resources>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Helping New Businesses Grow”"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about growing a new business? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_9_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 9 in your Unit 27 Student Book. The title of this story is \"Our Class Knows!” Point to each word as you read the title with me: Our Class Knows! There's an exclamation point in the title, this means we should read the title with added feeling.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: solution. A solution is a way of solving a problem. If you run out of paper, one solution is to ask your teacher for more. What is a problem you or someone you know has faced? What was the solution to the problem?",
+              "notes": "<visual: Show the story and the word, solution>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the name of the class’s teacher."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What problem does the class have? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "What solution, or way of solving the problem, does Jack suggest? Why do the students make signs? What problem does Tony have? How does he come up with a solution?"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What advice would you give to the students in Mr. Knight’s class? Do you think their idea will be a success? Explain your response."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_9_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Extend the story by writing a new scene with one of the characters giving advice to a student or answering a student's question. <pause> Share your ideas with a partner before writing.",
+              "notes": "<visual: Show the writing journal>"
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 31
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_27_Lsn_10",
+      "base": "level_3_unit_27_lesson_10",
+      "level": 3,
+      "unit": 27,
+      "lesson_num": 10,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "High-Frequency Word Booster",
+          "title": "Morphology: Silent Letters"
+        },
+        {
+          "slide_number": 3,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Sounds"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Silent Letters"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 10",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_10_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 27, Lesson 10. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 27.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 27 Student Book. Whisper read the story “Our Class Knows!” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 9 spread>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's make a word ladder. I will give you a clue for each word to write on the word ladder.",
+              "notes": "<visual: ladder with 6 rungs>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "This word means the same as argument."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Change one letter in fight to name a time of day when it is dark."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Add one letter tonight to name a soldier who fights for a king."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Change the vowel sound in knight to name how you make a sweater with yarn. Delete two letters."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Change the ending of knit to name something you cut food with."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Change the ending of knife to make it a plural noun."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher will ask you to read and write some words to check on your progress. Congratulations on all your hard work in Unit 27!",
+              "notes": "<visual: show Cumulative Assessment page 30>"
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 10",
+          "section": "High-Frequency Word Booster",
+          "title": "Morphology: Silent Letters",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_10_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Look at the high-frequency words.",
+              "notes": "<visual: among, building, circle, decided, finally, heavy, include, nothing, special, wheel>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher reads a high-frequency word from the list. Point to the word. Read the word. Spell the the word aloud."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now build each high-frequency word using letter cards. Then work with a partner. Take turns scrambling the letters in the words. Rebuild each word. Watch as your teacher models scrambling and rebuilding the word \"circle.\"",
+              "notes": "<visual: pocket chart with 3rd word spelled out with letter cards: circle>"
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 10",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_10_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: way",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word way, but change the beginning sound. Change /w/, to /s/. What's the new word? <pause> say"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the ending sound of a word. Listen as I say a word: send"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word send, but change the ending sound. Change /d/, to /t/. What's the new word? <pause> sent"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the middle sound of a word. Listen as I say a word: man"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word man, but change the middle sound. Change /a/, to /ā/. What's the new word? <pause> main"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_3_9",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Silent Letters",
+          "audio": [
+            {
+              "filename": "level_3_unit_27_lesson_10_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review silent letters. Some words include silent letters. Often, related words will all have the same silent letter.",
+              "notes": "<visual: show the words \"thumb\" \"thumbed\" \"thumbprint\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word \"thumb.\" The letters \"m-b\" stand for the /m/ sound. The letter \"b\" is silent. Identifying silent letters can help us read and pronounce related words.",
+              "notes": "<visual: show the word \"thumb\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"thumbed.\" <pause> \"thumbed\" contains the base word \"thumb.\"",
+              "notes": "<visual: show the word \"thumbed\" with the base word \"thumb\" underlined>"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: thumbprint. <pause> \"thumbprint\" is also a related word with the base word \"thumb.\"",
+              "notes": "<visual: show the word \"thumbprint\">"
+            },
+            {
+              "filename": "level_3_unit_27_lesson_10_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "Identify the silent letter in the following words.",
+              "notes": "<visual: show the words \"assign,\" \"reassigned,\" \"assignment\">"
+            }
+          ],
+          "audio_total": 5
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 27
+      }
+    }
+  ]
+}

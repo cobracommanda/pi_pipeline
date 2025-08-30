@@ -1,0 +1,1965 @@
+{
+  "workbook": "Y49422_L3U28.xlsx",
+  "totals": {
+    "sheets": 10,
+    "slides": 32,
+    "audio_items": 256
+  },
+  "sheets": [
+    {
+      "sheet_name": "Lvl_3_Unt_28_Lsn_1",
+      "base": "level_3_unit_28_lesson_1",
+      "level": 3,
+      "unit": 28,
+      "lesson_num": 1,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 1",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_1_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 28, Lesson 1. Let’s start by gathering your lesson materials. You'll need your Student Books for Unit 27 and Unit 28.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 27 Student Book. Whisper read the story “Our Class Knows!” Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about singular and plural possessive nouns, let’s blend some words that are singular and plural possessive nouns to practice what we've learned. Listen as I sound out the first two words."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_1_4",
+              "file_type": "Embedded MP4",
+              "transcription": "/boooiii/, boy. /boooiiizzz/, boy's. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 1",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_1_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Singular and plural possessive nouns. A possessive noun shows ownership. To show that a singular noun owns something, add apostrophe \"s.\" To show that a plural noun ending in \"s\" owns something, add an apostrophe. For irregular plural nouns that do not end in \"s,\" add apostrophe \"s.\"",
+              "notes": "<visual: show the following words in a line: \"dog's\" \"dogs'\" \"children's\" (show the letter s and the apostrophe in each word in red font)"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"dog.\" To form the singular possessive add apostrophe \"s.\" Let's use the new word in a sentence. The dog's leash is green.",
+              "notes": "<visual: show the word card \"dog\" and underneath it, show the card \"dog's\" with the label: singular possessive, and across from it, the card \"dogs'\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"dogs,\" add an apostrophe. Let's use the new word in a sentence. All the dogs' leashes are green."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"children.\" \"Children\" is an irregular plural noun. Let's use the word in a sentence. The children use markers to draw.",
+              "notes": "<visual: show the word card \"children\" and \"children's\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"children,\" add apostrophe \"s.\" Let's use the new word in a sentence. The children's markers are kept in their desks."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice forming the possessive of the following words and write a sentence with them.",
+              "notes": "<visual: show the words \"mom\" \"cats\" \"men\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about states of matter. First, look at the picture. Listen as I read each word. Repeat the word after I say it. solid <pause>, gas <pause>, liquid <pause>, water <pause>, fluorescent lighting <pause>, plasma. Look at the water in the picture. What do you see on the stove?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about states of matter. The word is charactertistics. Characteristics means “features or qualities.”"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Physical States of Matter”"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about states of matter? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 11
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_1_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 1 in your Unit 28 Student Book. The title of this story is \"Bella's Search.” Point to each word as you read the title with me: Bella's Search. Look at the picture and tell what you think the girl in the background is doing."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: traits. Traits are a person, animal, or object’s characteristics or features. The puppy has many of the same traits as its mother. What traits do you admire, or really like, in a person?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word that tells whose mom was in the yard planting."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What did Matteo put on the doll? Find the sentence that answers the question."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "What are some traits Bella’s family thinks she has?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What is something you searched for and found? How did you find it?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_1_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write about what you think about Bella. For example: Would she make a good friend? Would she be fun to be with? Why or why not? <pause> Share your ideas with a partner before you write. Look back at the story for ideas."
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 24
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_28_Lsn_2",
+      "base": "level_3_unit_28_lesson_2",
+      "level": 3,
+      "unit": 28,
+      "lesson_num": 2,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Initial and Final Sounds"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 7,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 2",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_2_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 28, Lesson 2. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 28.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 1 in your Unit 28 Student Book. Whisper read the story “Bella's Search.” Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: brought, contain, front, gave, inches>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word gave. Say the word with me. Gave. Which sounds do you hear in gave? (/g/ /a/ /v/)?. Blend the sounds together."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: g-a-v-e. English words don’t end in the letter v. If you hear the v sound at the end of the word, add the letter e, as in the words give and love. We have to pay extra attention to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: brought, contain, front, inches."
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 2",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Initial and Final Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_2_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: tray"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word tray, but change the beginning sound. Change /t/, to /g/. What's the new word? <pause> gray"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the ending sound of a word. Listen as I say a word: same"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word same, but change the ending sound. Change /m/, to /v/. What's the new word? <pause> save"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 2",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_2_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about using math when playing games. First, look at the picture. Listen as I read each word. Repeat the word after I say it. side rail <pause>, pool table <pause>, ball <pause>, pocket <pause>, cue stick. Look at the pool table in the picture. How is this game played?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about using math when playing games. The word is predict. Predict means to say what will or might happen in the future."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “The Math Behind the Games We Play”"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about using math when playing games? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 2",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_2_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 2 in your Unit 28 Student Book. The title of this text is \"Mason Metric’s Fantastic Meter Stick.” Point to each word as you read the title with me: Mason Metric’s Fantastic Meter Stick. This cartoon is about a system of measurement."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: quantities. Quantities means “amounts of something.” We will use different quantities of fruit to make the pie. What quantities of ingredients do you need to make your favorite dish?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Whose fantastic meter stick is it?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What units are used to measure length in the metric system? Find the sentence that answers the question."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "What are the different quantities that people measure? Why do people need to measure them?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Why do you think the metric system is difficult for some Americans?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Make a chart that shows metric units of length and capacity. <pause> List the name of each unit and draw a picture that illustrates the quantity of each one. <pause> Then, summarize the chart information in a paragraph."
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 7,
+          "lesson": "Lesson 2",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_2_7_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review singular and plural possessive nouns. A possessive noun shows ownership. To show that a singular noun owns something, add apostrophe \"s.\" To show that a plural noun ending in \"s\" owns something, add an apostrophe. For irregular plural nouns that do not end in \"s,\" add apostrophe \"s.\"",
+              "notes": "<visual: show the following words in a line: \"dog's\" \"dogs'\" \"children's\" (show the letter s and the apostrophe in each word in red font)"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_7_2",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"dog.\" To form the singular possessive add apostrophe \"s.\" Let's use the new word in a sentence. The dog's leash is green.",
+              "notes": "<visual: show the word card \"dog\" and underneath it, show the card \"dog's\" with the label: singular possessive, and across from it, the card \"dogs'\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_7_3",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"dogs,\" add an apostrophe. Let's use the new word in a sentence. All the dogs' leashes are green."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_7_4",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"children.\" \"Children\" is an irregular plural noun. Let's use the word in a sentence. The children use markers to draw.",
+              "notes": "<visual: show the word card \"children\" and \"children's\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_7_5",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"children,\" add apostrophe \"s.\" Let's use the new word in a sentence. The children's markers are kept in their desks."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_7_6",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"book.\" To form the singular possessive add apostrophe \"s.\"",
+              "notes": "<visual: show two columns, the first with the word card \"book\" and under it, \"book's\" with the label: singular possessive; in the other column, show the word \"books\" and under it, \"books'\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_7_7",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"books.\" To form the plural possessive add an apostrophe."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_7_8",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"men.\" To form the plural possessive add apostrophe \"s.\"",
+              "notes": "<visual: show the word card \"men\" and \"men's\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_7_9",
+              "file_type": "Audio Bar",
+              "transcription": "Practice forming the possessive of the following words and write a sentence for each word.",
+              "notes": "<visual: show the words \"painting\" \"paintings\" \"geese\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_7_10",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about singular and plural possessive nouns, let’s blend some words that are singular and plural possessive nouns to practice what we've learned. Listen as I sound out the first two words."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_2_7_11",
+              "file_type": "Embedded MP4",
+              "transcription": "/boooiii/, boy. /boooiiizzz/, boy's. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            }
+          ],
+          "audio_total": 11
+        }
+      ],
+      "totals": {
+        "slides": 5,
+        "audio_items": 38
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_28_Lsn_3",
+      "base": "level_3_unit_28_lesson_3",
+      "level": 3,
+      "unit": 28,
+      "lesson_num": 3,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 3",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_3_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 28, Lesson 3. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 28.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 2 in your Unit 28 Student Book. Whisper read the story “Mason Metric’s Fantastic Meter Stick.” Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 3",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_3_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review singular and plural possessive nouns. A possessive noun shows ownership. To show that a singular noun owns something, add apostrophe \"s.\" To show that a plural noun ending in \"s\" owns something, add an apostrophe. For irregular plural nouns that do not end in \"s,\" add apostrophe \"s.\"",
+              "notes": "<visual: show the following words in a line: \"dog's\" \"dogs'\" \"children's\" (show the letter s and the apostrophe in each word in red font)"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"sign.\" To form the singular possessive add apostrophe \"s.\"",
+              "notes": "<visual: show two columns, the first with the word card \"sign\" and under it, \"sign's\" with the label: singular possessive; in the other column, show the word \"signs\" and under it, \"signs'\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"signs,\" add an apostrophe. <pause> Now write a sentence for each word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"tooth.\" To form the singular possessive, add apostrophe \"s.\"",
+              "notes": "<visual: show two columns, the first with the word card \"tooth\" and under it, \"tooth's\" with the label: singular possessive; in the other column, show the word \"teeth\" and under it, \"teeth's\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"teeth,\" add apostrophe \"s.\" <pause> Now write a sentence for each word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about singular and plural possessive nouns, let’s blend some words that are singular and plural possessive nouns to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with apostrophe s."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words with s apostrophe."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word mouse. <pause> Add ‘s to the end. What new word did you make? Mouse's",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word mouse<pause>. Now change mouse to mouse's. Which sound is different? Which letter will be different?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "Should I list the letter cards needed to buid the words?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 3 in your Unit 28 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with ’s and s’ and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with ’s and s’. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word dog's. <pause> When you are finished, read your sentence to a partner."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_3_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: trees’/bushes’, boy’s/girl’s."
+            }
+          ],
+          "audio_total": 16
+        }
+      ],
+      "totals": {
+        "slides": 2,
+        "audio_items": 18
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_28_Lsn_4",
+      "base": "level_3_unit_28_lesson_4",
+      "level": 3,
+      "unit": 28,
+      "lesson_num": 4,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 3,
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain"
+        },
+        {
+          "slide_number": 5,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Possessive Nouns (Singular and Plural)"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 4",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_4_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 28, Lesson 4. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 28.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 3 in your Unit 28 Student Book. Whisper read the cumulative sentences."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Introduce High-Frequency Words. Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: material, noun, ocean, strong, verb.>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word ocean. Say the word with me. Ocean. The word \"ocean\" does not follow the rules. We have to pay extra attention to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: o-c-e-a-n. The letters \"c-e-a-n\" makes the /shun/ sound in the word \"ocean.\""
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: material, noun, strong, verb."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word children's."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word a boy's."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_11",
+              "file_type": "Audio Bar",
+              "transcription": "Spelling Booster: Let's write some more words. Listen to each word I say. Break apart the word sound by sound, then write the letter or spelling for each sound."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_12",
+              "file_type": "Audio Bar",
+              "transcription": "a car's"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_13",
+              "file_type": "Audio Bar",
+              "transcription": "two cars'"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_14",
+              "file_type": "Audio Bar",
+              "transcription": "a woman's"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_1_15",
+              "file_type": "Audio Bar",
+              "transcription": "four women's"
+            }
+          ],
+          "audio_total": 15
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 4",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_4_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review singular and plural possessive nouns. A possessive noun shows ownership. To show that a singular noun owns something, add apostrophe \"s.\" To show that a plural noun ending in \"s\" owns something, add an apostrophe. For irregular plural nouns that do not end in \"s,\" add apostrophe \"s.\"",
+              "notes": "<visual: show the following words in a line: \"dog's\" \"dogs'\" \"children's\" (show the letter s and the apostrophe in each word in red font)"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Then, read each word as your teacher taps on it.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Select two possessive nouns from the list. Write a sentence for each word."
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 4",
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_4_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 4 in your Unit 28 Student Book. The title of this text is \"Games.\" Point to each word as you read the title with me: Games. This text asks questions that are riddles. Each riddle contains clues about the answer, which is always about a game. Read the riddles. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Find the noun in the riddles with ’s and circle it. <pause> Chorally read the circled word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Write the sentence I say. Listen carefully and focus on one word at a time."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "The first sentence is: The boy’s shirt and the girl’s blouse are made of the same material. Say the sentence with me: The boy’s shirt and the girl’s blouse are made of the same material. Now write the sentence. Your teacher will help you segment, or break apart, each word and write a letter for each sound."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "The second sentence is: Birds’ beaks and bulls’ horns are very strong. Say the sentence with me: Birds’ beaks and bulls’ horns are very strong. Now write the sentence. Your teacher will help you if you need it."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Let's read each sentence out loud. Check your work. Your teacher will write each sentence. Correct your spellings if necessary."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Possessive Nouns (Singular and Plural)",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_4_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "A possessive noun is a noun that shows ownership. That means that the person, place, or thing, has something. The possessive form of a singular noun is created by adding \"apostrophe s\" to the end. If a plural noun end with an s, the possessive form is created by only adding an apostrophe.",
+              "notes": "<visual: show the word \"student's\" with the apostrophe s highlighted and show the word \"students'\" with just the apostrophe highlighted>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following words: cat <pause> cat's <pause> The word cat's is the singular possessive form of the noun \"cat.\"",
+              "notes": "<visual: show the word card \"cat\" and the word card \"cat's\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read two other words: \"cats\" <pause> \"cats' \" \"Cats\" with an apostrophe at the end is the possessive form of the plural noun cats. Adding an apostrophe to the end of a plural noun that ends with \"s\" does not change how you say the word.",
+              "notes": "<visual: show the word card \"cats\" and the word card \"cats'\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Irregular plural nouns are plural nouns that do not end with \"s.\" We can create the possessive form of an irregular plural noun by adding apostrophe \"s.\"",
+              "notes": "<visual: show the word card \"men\" and the word card \"men's\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "For example, \"men's\" is the plural possessive form of the irregular plural noun \"men.\""
+            },
+            {
+              "filename": "level_3_unit_28_lesson_4_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice creating the possessive form of the following nouns.",
+              "notes": "<visual: show the word cards for the following words: doctor, flowers, sheep, children>"
+            }
+          ],
+          "audio_total": 6
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 30
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_28_Lsn_5",
+      "base": "level_3_unit_28_lesson_5",
+      "level": 3,
+      "unit": 28,
+      "lesson_num": 5,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Possessive Nouns (Singular and Plural)"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 5",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_5_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 28, Lesson 5. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 28.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 4 in your Unit 28 Student Book. Whisper read the story “Games” Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 5",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_5_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about radiation. First, look at these three pictures. Listen as I read each word. Repeat the word after I say it. worker <pause>, radium <pause>, watch <pause>, painted numbers. Look at the worker in the picture. What is the worker doing?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about radiation. The word is hazardous. Hazardous means “dangerous or likely to cause harm.”"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “A World of Radiation”"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about radiation? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Possessive Nouns (Singular and Plural)",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_5_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review singular and possessive nouns. Possessive nouns show ownership and can be singular, plural, or irregular plural nouns.",
+              "notes": "<visual: show the word \"student's\" with the apostrophe s highlighted and show the word \"students'\" with just the apostrophe highlighted>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following words: tiger <pause> tiger's <pause> The word tiger's is the singular possessive form of the noun \"tiger.\"",
+              "notes": "<visual: show the word card \"tiger\" and the word card \"tiger's\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read two other words: \"tigers\" <pause> \"tigers' \" \"tigers\" with an apostrophe at the end is the possessive form of the plural noun tigers. Adding an apostrophe to the end of a plural noun that ends with \"s\" does not change how you say the word.",
+              "notes": "<visual: show the word card \"tigers\" and the word card \"tigers'\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Irregular plural nouns are plural nouns that do not end with \"s.\" We can create the possessive form of an irregular plural noun by adding apostrophe \"s.\" For example, \"people's\" is the plural possessive form of the irregular plural noun \"people.\"",
+              "notes": "<visual: show the word card \"people\" and the word card \"people's\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "Practice adding an apostrophe or apostrophe \"s\" to the following words. Then identify each as singular or plural possessive.",
+              "notes": "<visual: show the words \"desk\" \"chairs\" and \"women\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Look at these words. Let's read the words together: cat, planets, dogs, chairs, frogs, cat’s, planet’s, dog’s, chairs’, boy’s. Now look at these two categories. This is the word cat. Read the word with me. <pause> Which category should I put cat under? <pause> Yes, cat goes in the Not Possessive category because the word cat is not possessive. With your partner, continue to sort the rest of the words.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What did you notice about the words in each group?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "Apostrophe s is a common word part indicating a posessive. You may notice apostrophe s in many words. As we read, let's look for possessive words with apostrophe s."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 5 in your Unit 28 Student Book. The title of this text is \"Meet the Atom’s Family.” Point to each word as you read the title with me: Meet the Atom’s Family. Tell what you know about atoms and elements. You will learn more about these scientific terms in this text."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_10",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: conclusion. To make a conclusion means to make a decision. He came to the conclusion that he did poorly on the test because he did not study. What conclusion can you make about a friend by thinking about her actions?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_11",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_12",
+              "file_type": "Audio Bar",
+              "transcription": "What object’s “family” is this text about?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_13",
+              "file_type": "Audio Bar",
+              "transcription": "What are some examples of elements? Find sentences that answer this question."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_14",
+              "file_type": "Audio Bar",
+              "transcription": "What conclusion can you make about elements based on what you read?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_15",
+              "file_type": "Audio Bar",
+              "transcription": "What additional information about elements would you like to learn? Why?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_16",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_5_5_17",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Make a T-chart with the headings Atoms and Elements. <pause> Write important facts you learned about each one. <pause> Draw a picture with labels to show the most important fact you listed in the chart. <pause> Share and compare your chart with a partner."
+            }
+          ],
+          "audio_total": 17
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 24
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_28_Lsn_6",
+      "base": "level_3_unit_28_lesson_6",
+      "level": 3,
+      "unit": 28,
+      "lesson_num": 6,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 6",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_6_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 28, Lesson 6. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 28.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 5 in your Unit 28 Student Book. Whisper read the text “Meet the Atom’s Family.” Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: lead"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word lead, but change the middle sound. Change /ē/, to /ō/. What's the new word? <pause> load"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 6",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_6_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review singular and plural possessive nouns. A possessive noun shows ownership. To show that a singular noun owns something, add apostrophe \"s.\" To show that a plural noun ending in \"s\" owns something, add an apostrophe. For irregular plural nouns that do not end in \"s,\" add apostrophe \"s.\"",
+              "notes": "<visual: show the following words in a line: \"dog's\" \"dogs'\" \"children's\" (show the letter s and the apostrophe in each word in red font)"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"friend.\" To form the singular possessive, add apostrophe \"s.\"",
+              "notes": "<visual: show two columns, the first with the word card \"friend\" and under it, \"friend's\" with the label: singular possessive; in the other column, show the word \"friends\" and under it, \"friends'\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"friends,\" add an apostrophe. <pause> Now write a sentence for each word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"wolf.\" To form the singular possessive, add apostrophe \"s.\"",
+              "notes": "<visual: show two columns, the first with the word card \"wolf\" and under it, \"wolf's\" with the label: singular possessive; in the other column, show the word \"wolves\" and under it, \"wolves'\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"wolves,\" add an apostrophe. <pause> Now write a sentence for each word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Say the sound for each letter or spelling as your teacher points to it. Blend the sounds to read the word. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: brought, contain, front, gave, inches, material, noun, ocean, strong, verb.>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word brought. Say the word with me: \"brought\""
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: b-r-o-u-g-h-t. The word \"brought\" does not follow the rules. We have to pay extra attention to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: contain, front, gave, inches, material, noun, ocean, strong, verb."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "Should I list the letter cards needed to buid the words?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 6 in your Unit 28 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with ’s and s’ and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with ’s and s’. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word book's. <pause> When you are finished, read your sentence to a partner."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_6_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: pen’s/pencil’s, walls’/floors’."
+            }
+          ],
+          "audio_total": 16
+        }
+      ],
+      "totals": {
+        "slides": 2,
+        "audio_items": 21
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_28_Lsn_7",
+      "base": "level_3_unit_28_lesson_7",
+      "level": 3,
+      "unit": 28,
+      "lesson_num": 7,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 3,
+          "section": "High-Frequency Word Booster",
+          "title": "Review High-Frequency Words"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 7",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_7_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 28, Lesson 7. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 28.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 6 in your Unit 28 Student Book. Whisper read the cumulative sentences. Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 7",
+          "section": "High-Frequency Word Booster",
+          "title": "Review High-Frequency Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_7_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Read: Look at the high-frequency words. Read each word along with me. brought, <pause> contain, <pause> front, <pause> gave, <pause> inches, <pause> material, <pause> noun, <pause> ocean, <pause> strong, <pause> verb.",
+              "notes": "<visual: show \"brought, contain, front, gave, inches, material, noun, ocean, strong, verb\" as cards in pocket-chart pockets, add one blank pocket-row, show tray with only letters for the first word.> [intended for teacher to model the first word]"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Build: Now let's build a word together. Watch as your teacher spells the word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now use your letter cards to build all the words."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write: Write each word. Then write a sentence using each word. For example, you can start a sentence with \"An example of a noun is the word ______ .\" Read your sentences to a partner when you are done.",
+              "notes": "<visual: show sentence frame \"An example of a noun is the word [blank].\" Then show \"brought, contain, front, gave, inches, material, noun, ocean, strong, verb\" as cards in pocket-chart pockets underneath sentence frame>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher is going to make a word with letter cards. <pause> What is the word? <pause> Spell it together. <pause> Watch as your teacher scrambles the letters. Fix the spelling.",
+              "notes": "<visual: empty pocket rows with tray with letter cards for 2nd word>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 7 in your Unit 28 Student Book. The title of this text is \"Model of an Atom.\" Point to the word as you read the title with me: Model of an Atom. This is a science text that gives information about what an atom is made up of. This text includes diagrams to show and compare the different parts of an oxygen and hydrogen atom. Authors often include diagrams and labeled illustrations to present technical information that may otherwise be difficult to understand."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "What do you notice or wonder about when viewing the diagrams?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Compare and contrast a hydrogen atom and an oxygen atom based on the diagrams shown in the text. <pause> Write your observations in paragraph form and then share your writing with a partner."
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 7",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_7_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review singular and plural possessive nouns. A possessive noun shows ownership. To show that a singular noun owns something, add apostrophe \"s.\" To show that a plural noun ending in \"s\" owns something, add an apostrophe. For irregular plural nouns that do not end in \"s,\" add apostrophe \"s.\"",
+              "notes": "<visual: show the following words in a line: \"dog's\" \"dogs'\" \"children's\" (show the letter s and the apostrophe in each word in red font)"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"horse.\" To form the singular possessive, add apostrophe \"s.\"",
+              "notes": "<visual: show two columns, the first with the word card \"horse\" and under it, \"horse's\" with the label: singular possessive; in the other column, show the word \"horses\" and under it, \"horses'\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"horses,\" add an apostrophe."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"woman.\" To form the singular possessive, add apostrophe \"s.\"",
+              "notes": "<visual: show two columns, the first with the word card \"woman\" and under it, \"woman's\" with the label: singular possessive; in the other column, show the word \"women\" and under it, \"women's\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"women,\" add apostrophe \"s.\""
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: brought, contain, front, gave, inches, material, noun, ocean, strong, verb.>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word contain. Say the word with me: \"contain\""
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: c-o-n-t-a-i-n. Look at the word parts, con-tain. \"Con\" has a schwa sound. \"Tain\" has a long i sound. We have to pay extra attention to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_7_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: brought, front, gave, inches, material, noun, ocean, strong, verb."
+            }
+          ],
+          "audio_total": 11
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 21
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_28_Lsn_8",
+      "base": "level_3_unit_28_lesson_8",
+      "level": 3,
+      "unit": 28,
+      "lesson_num": 8,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 5,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Possessive Nouns (Singular and Plural)"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 8",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_8_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 28, Lesson 8. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 28.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 7 in your Unit 28 Student Book. Whisper read the text “Model of an Atom.” Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 8",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_8_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review singular and plural possessive nouns. A possessive noun shows ownership. To show that a singular noun owns something, add apostrophe \"s.\" To show that a plural noun ending in \"s\" owns something, add an apostrophe. For irregular plural nouns that do not end in \"s,\" add apostrophe \"s.\"",
+              "notes": "<visual: show the following words in a line: \"dog's\" \"dogs'\" \"children's\" (show the letter s and the apostrophe in each word in red font)"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"bird.\" To form the singular possessive, add apostrophe \"s.\"",
+              "notes": "<visual: show two columns, the first with the word card \"bird\" and under it, \"bird's\" with the label: singular possessive; in the other column, show the word \"birds\" and under it, \"birds'\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"birds,\" add an apostrophe."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Look at the word \"leaf.\" To form the singular possessive, add apostrophe \"s.\"",
+              "notes": "<visual: show two columns, the first with the word card \"leaf\" and under it, \"leaf's\" with the label: singular possessive; in the other column, show the word \"leaves\" and under it, \"leaves'\" with the label: plural possessive>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural possessive of \"leaves,\" add an apostrophe."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and circle all the words with s apostrophe."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around all the words with apostrophe s."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word cook's. <pause> . Move the apostrophe after s. What word did you make? Cooks'",
+              "notes": "<PRODUCTION: Is there and MP4 video modeling this? If not, we need the e-pocket chart here so the teacher can model this>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Change cook’s to its plural possessive form, cooks’. How does this change the meaning?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about temperature and changing states of matter. First, look at the picture. Listen as I read each word. Repeat the word after I say it. temperature <pause>, freezing point <pause>, melting point <pause>, boiling point <pause>, ice cube <pause>, solid <pause>, water <pause>, liquid <pause>, vapor <pause>, gas. Look at the ice cube in the picture. What is the state of the ice cube?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about temperature and changing states of matter. The word is freeze. Freeze means to change from a liquid to a solid as a result of lowered temperatures."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Temperature and Changing States of Matter”"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about temperature and changing states of matter? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 16
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Possessive Nouns (Singular and Plural)",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_8_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "A possessive noun is a noun that shows ownership. That means that the person, place, or thing, has something. The possessive form of a singular noun is created by adding \"apostrophe s\" to the end. If a plural noun end with an s, the possessive form is created by only adding an apostrophe.",
+              "notes": "<visual: show the word \"student's\" with the apostrophe s highlighted and show the word \"students'\" with just the apostrophe highlighted>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following words: teacher <pause> teacher's <pause> The word teacher's is the singular possessive form of the noun \"teacher.\"",
+              "notes": "<visual: show the word card \"teacher\" and the word card \"teacher's\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read two other words: \"teachers\" <pause> \"teachers' \" \"teachers\" with an apostrophe at the end is the possessive form of the plural noun cats. Adding an apostrophe to the end of a plural noun that ends with s does not change how you say the word.",
+              "notes": "<visual: show the word card \"teachers\" and the word card \"teachers'\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Irregular plural nouns are plural nouns that do not end with s. We can create the possessive form of an irregular plural noun by adding apostrophe s.",
+              "notes": "<visual: show the word card \"people\" and the word card \"people's\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "For example, \"people's\" is the plural possessive form of the irregular plural noun \"people.\""
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice creating the possessive form of the following nouns.",
+              "notes": "<visual: show the word cards for the following words: worker, apples, deer, women>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 8 in your Unit 28 Student Book. The title of this story is \"Lemonade.” Point to each word as you read the title with me: Lemonade. You will read a story about a problem with freezing lemonade."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: thaws. Thaws means “melts, or becomes unfrozen.” The frozen chicken thaws when Mom leaves it out. How do you know when something thaws? What happens?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_10",
+              "file_type": "Audio Bar",
+              "transcription": "Whose dad will be home tomorrow?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_11",
+              "file_type": "Audio Bar",
+              "transcription": "Why does Essa want her dad to have something really special? Find the sentence that answers the question."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_12",
+              "file_type": "Audio Bar",
+              "transcription": "What happens to a frozen ice pop if it thaws? Why?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_13",
+              "file_type": "Audio Bar",
+              "transcription": "What are some things you would put in a freezer? Why?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_14",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_8_5_15",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Make a story map labeled Beginning, Middle, End. <pause> Fill in the map with the important events from the story. <pause> Use your map to retell the story to a partner."
+            }
+          ],
+          "audio_total": 15
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 33
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_28_Lsn_9",
+      "base": "level_3_unit_28_lesson_9",
+      "level": 3,
+      "unit": 28,
+      "lesson_num": 9,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 9",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_9_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 28, Lesson 9. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 28.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 8 in your Unit 28 Student Book. Whisper read the story “Lemonade.” Your teacher will listen in and help you as needed."
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 9",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_9_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review singular and plural possessive nouns. A possessive noun shows ownership. To show that a singular noun owns something, add apostrophe \"s.\" To show that a plural noun ending in \"s\" owns something, add an apostrophe. For irregular plural nouns that do not end in \"s,\" add apostrophe \"s.\"",
+              "notes": "<visual: show the following words in a line: \"dog's\" \"dogs'\" \"children's\" (show the letter s and the apostrophe in each word in red font)"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let's blend some words to practice what we've learned. Read each word as your teacher taps on it. Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word family's."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word woman's."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_2_7",
+              "file_type": "Audio Bar",
+              "transcription": "Finally, write this sentence: Jen's dog is not as strong as Rob's dog."
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 9",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_9_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about making glass from sand. First, look at these six pictures. Listen as I read each word. Repeat the word after I say it. drinking glass <pause>, bottle <pause>, screen <pause>, car windshield <pause>, oven door <pause>, snow globe. Look at the pictures of the bottle and the snow globe. What are both these items made out of?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about making glass from sand. The word is transform. Transform means to change in appearance or form."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Making Glass from Sand.”"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about making glass from sand? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_9_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 9 in your Unit 28 Student Book. The title of this text is \"Up, Up, and Away!” Point to each word as you read the title with me: Up, Up, and Away! This text is a brochure advertising hot-air balloon rides."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: flucuate. To fluctuate means “to change a little bit.” The temperature can fluctuate several times in a day. Can the cost of a toy fluctuate from one store to another? Why or why not?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Which sunny shores do the hot-air balloons ride over?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "How does the amount of hot air that goes into the balloon fluctuate? Find the sentence that answers the question."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Do you think the material used for a hot-air balloon contributes to its safety? Why or why not?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Would you like to take a ride in a hot-air balloon? Why or why not?"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_9_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Pretend you are a reporter who went on the hot-air balloon ride described in the text. Draw a picture and write a newspaper article answering the questions: who? What? when? where? why? and how? <pause> Share your pictures and articles with a partner."
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 23
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_28_Lsn_10",
+      "base": "level_3_unit_28_lesson_10",
+      "level": 3,
+      "unit": 28,
+      "lesson_num": 10,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Blend and Segment Multisyllabic Words by Syllable"
+        },
+        {
+          "slide_number": 5,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Possessive Nouns (Singular and Plural)"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 10",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_10_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 28, Lesson 10. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 28.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 28 Student Book. Whisper read the story “Up, Up, and Away!” Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's make a word ladder. I will give you a clue for each word to write on the word ladder.",
+              "notes": "<visual: empty word ladder with 6 rungs>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "This word describes a very sharp object."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Change the first two letters of knife to form a word that is the opposite of husband."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Add an ending to make wife a singular possessive noun."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Change one letter and move the apostrophe in wife’s to make a plural possessive noun."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Replace one letter in wives’ to form a word that is the possessive plural of a very sharp object."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Replace two letters in knives to form the plural possessive form of life."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher will ask you to read and write some words to check on your progress. Congratulations on all your hard work in Unit 28!"
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 10",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Blend and Segment Multisyllabic Words by Syllable",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_10_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say the following syllables: sis-ter's"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the syllables and blend them to make a word. sis-ter's, sister's."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following syllables. Blend the syllables to make a word."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now we will segment words into syllables. Listen as I say the following word: tiger's"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the word and segment it into the syllables you hear. Tiger's, ti-ger's."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words. Segment each word into the syllables you hear."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_2_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Look at the high-frequency words.",
+              "notes": "<visual: brought, contain, front, gave, inches, material, noun, ocean, strong, verb>"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_2_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher reads a high-frequency word from the list. Point to the word. Read the word. Spell the the word aloud."
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Now build each high-frequency word using letter cards. Then work with a partner. Take turns scrambling the letters in the words. Rebuild each word. Watch as your teacher models scrambling and rebuilding the word \"front.\"",
+              "notes": "<visual: pocket chart with 3rd word spelled out with letter cards: front>"
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Possessive Nouns (Singular and Plural)",
+          "audio": [
+            {
+              "filename": "level_3_unit_28_lesson_10_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review possessive nouns. Possessive nouns show ownership and can be singular, plural, or irregular plural nouns. Identify each of these words as a singular or plural possessive noun.",
+              "notes": "<visual: show the words \"light’s,\" \"lights’,\" \"mice’s\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following words: lion <pause> lion's <pause> The word lion's is the singular possessive form of the noun \"lion.\"",
+              "notes": "<visual: show the word card \"lion\" and the word card \"lion's\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Irregular plural nouns are plural nouns that do not end with \"s.\" We can create the possessive form of an irregular plural noun by adding apostrophe \"s.\" For example, \"moose's\" is the plural possessive form of the irregular plural noun \"moose.\"",
+              "notes": "<visual: show the word card \"moose\" and the word card \"moose's\">"
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following words: geese <pause> geese's <pause> the word \"geese's\" is the plural possessive form of the irregular plural noun \"geese.\"",
+              "notes": "<visual: show the word \"geese\" and the word \"geese's\""
+            },
+            {
+              "filename": "level_3_unit_28_lesson_10_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "Select two possessive nouns from the list. Write a sentence for each word.",
+              "notes": "<visual: show the words \"geese's\" \"lion's\" and \"moose's\">"
+            }
+          ],
+          "audio_total": 5
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 24
+      }
+    }
+  ]
+}

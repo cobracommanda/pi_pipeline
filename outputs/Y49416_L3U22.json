@@ -1,0 +1,2407 @@
+{
+  "workbook": "Y49416_L3U22.xlsx",
+  "totals": {
+    "sheets": 10,
+    "slides": 40,
+    "audio_items": 310
+  },
+  "sheets": [
+    {
+      "sheet_name": "Lvl_3_Unt_22_Lsn_1",
+      "base": "level_3_unit_22_lesson_1",
+      "level": 3,
+      "unit": 22,
+      "lesson_num": 1,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 3,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 1",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_1_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 22, Lesson 1. Let’s start by gathering your lesson materials. You'll need your Student Books for Unit 21 and Unit 22.",
+              "notes": "<visual:"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 21 Student Book. Whisper read the story “The History Lady.” Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about irregular plural nouns, let’s blend some words that are singular nouns and irregular plural nouns to practice what we've learned. Listen as I sound out the first two words."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_1_4",
+              "file_type": "Embedded MP4",
+              "transcription": "/mmmaaannn/, man. /mmmeeennn/, men. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 1",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_1_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Irregular plural nouns. A plural noun stands for more than one of something. Many nouns add \"s\" or \"e-s\" to form the plural, as in \"cats\" and \"boxes.\" However, some nouns do not. These nouns are known as irregular plural nouns.",
+              "notes": "<visual: show the word \"cat\" and \"cats,\" then the words \"box\" and \"boxes\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Here are some examples of irregular plural nouns.",
+              "notes": "<visual: show two columns, the words \"child,\" \"mouse,\" and \"man\" in one column labeled \"singular\" and the words \"children,\" \"mice\" and \"men\" in the second column labeled \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Practice saying a sentence for each of the following words.",
+              "notes": "<visual: show the words children, mice, men>"
+            }
+          ],
+          "audio_total": 3
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 1",
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_1_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about how the Earth is changing. First, look at the picture. Listen as I read each word. Repeat the word after I say it. sun <pause>, energy or sunlight <pause>, atmosphere <pause>, greenhouse gases <pause>, Earth. Look at the sun and the Earth in the picture. What does the Earth get from the sun?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about how the Earth is changing. The word is affects. Affects means “influences.”"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “How Is Earth Changing?”"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about how the Earth is changing? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 1",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_1_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 1 in your Unit 22 Student Book. The title of this story is \"What’s Happening to Earth’s Climate?” Point to each word as you read the title with me: What’s Happening to Earth’s Climate? This story is about a girl who learns how the climate on Earth is changing. Climate is what the weather is like in a place, over a long period of time."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: shift. A shift is a change in something. I felt a shift in temperature because there was a cold breeze. What are some ways the temperature might shift throughout the year?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the plurals of person and life on the first page of the story."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What climate shift did the girl learn about when she went to the rally? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "How do you think the hurricane, thunderstorm, and tornado warning affected how the girl feels about climate change?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Why is it important to help with a cause you feel strongly about?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write one or two questions you have about climate. <pause> Share your ideas with a partner before you write. Look back at the story for ideas."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_1_5_11",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 11
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 23
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_22_Lsn_2",
+      "base": "level_3_unit_22_lesson_2",
+      "level": 3,
+      "unit": 22,
+      "lesson_num": 2,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Initial and Final Sounds"
+        },
+        {
+          "slide_number": 3,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 2",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_2_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 22, Lesson 2. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 22.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 1 in your Unit 22 Student Book. Whisper read the story “What’s Happening to Earth’s Climate?” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 1 spread>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: against, certain, door, early, field>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word certain. Say the word with me. Certain. What syllables do you hear in certain? (cer-tain) There’s a lot to remember with this word. It begins with the soft c sound /s/ like circle. The last syllable t-a-i-n is pronounced and spelled just like the last syllable in mountain. That can help us remember it."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: c-e-r-t-a-i-n. The word \"certain\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: against, certain, door, early, field."
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 2",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Substitute Initial and Final Sounds",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_2_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: train",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word train, but change the beginning sound. Change /t/, to /b/. What's the new word? <pause> brain"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's change the ending sound of a word. Listen as I say a word: fork"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word fork, but change the ending sound. Change /k/, to /t/. What's the new word? <pause> fort"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 2",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_2_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review irregular plural nouns. Irregular plural nouns do not form the plural by adding \"s\" or \"e-s.\" Some irregular plural nouns have common spelling changes.",
+              "notes": "<visual: wife wife-fe+ves wives [show \"ves\" in red font]>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"wife.\" To form the plural of \"wife,\" first remove letters \"f-e.\" <pause> Now replace them with letters \"v-e-s.\" What is the new word?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "wives."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Practice forming the plural for the following words with your teacher.",
+              "notes": "<visual: show the following words: wolf, life, leaf>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about irregular plural nouns, let’s blend some words that are singular nouns and irregular plural nouns to practice what we've learned. Listen as I sound out the first two words.",
+              "notes": "<visual: blend words table>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_3_6",
+              "file_type": "Embedded MP4",
+              "transcription": "/mmmaaannn/, man. /mmmeeennn/, men. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether’. Say the word nice and loud."
+            }
+          ],
+          "audio_total": 6
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 2",
+          "section": "Vocabulary Booster",
+          "title": "Read Aloud",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_2_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about how weather impacts bird migration. First, look at the picture. Listen as I read each word. Repeat the word after I say it. birds <pause>, trees <pause>, water. Look at the birds in the picture. Where do you think the birds are going?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about how weather impacts bird migration. The word is challenges. Challenges are difficulties or problems.",
+              "notes": "<visual: Show the vocabulary card and the word, challenges>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words challenges and migrate>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “How Weather Impacts Bird Migration”"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about how weather impacts bird migration? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 2",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_2_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 2 in your Unit 22 Student Book. The title of this text is \"Moose on the Move.” Point to each word as you read the title with me: Moose on the Move. This text is a photo comic. It has panels and text boxes like a comic but uses photos and facts instead of illustrations and dialogue.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: suited. Suited means appropriate or matched. A polar bear’s fur is suited to its freezing home. What is an activity that is suited to you? Why?",
+              "notes": "<visual: Show the story and the word, suited>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find the plural of moose."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "Where do moose migrate, or travel to? Find the sentences and text features that answer the question."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "In what ways are moose suited for the environments where they live?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "What else would you like to know about moose? How could you find more information about them?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write a list of three to five facts that you learned about moose. <pause> Draw a picture to accompany your list.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_2_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        }
+      ],
+      "totals": {
+        "slides": 5,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_22_Lsn_3",
+      "base": "level_3_unit_22_lesson_3",
+      "level": 3,
+      "unit": 22,
+      "lesson_num": 3,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 3,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review"
+        },
+        {
+          "slide_number": 4,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 3",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_3_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 22, Lesson 3. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 22.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 2 in your Unit 22 Student Book. Whisper read the story “Moose on the Move.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 2 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 3",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_3_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 3",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_3_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review irregular plural nouns. Irregular plural nouns do not form the plural by adding \"s\" or \"e-s.\" Some irregular plural nouns have common spelling changes.",
+              "notes": "<visual: woman woman-an+en women [show \"en\" in red font]>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"woman.\" To form the plural of \"woman,\" change the letters \"a-n\" to \"e-n.\" What is the new word?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "women."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Practice forming the plural with vowel spelling changes for the following words with your teacher.",
+              "notes": "<visual: show the following words: man, tooth, foot>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Now that we’ve learned about irregular plural nouns, let’s blend some words that are singular nouns and irregular plural nouns to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and underline each irregular plural in which the vowel or vowels changed."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around each irregular plural where the f was changed to a v."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word half. <pause> Change the f to make the plural of half. What word did you make? Halves",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_3_9",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_3_10",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word half <pause>. Now change half to halves. Which sound is different? Which letter will be different?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_3_11",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "<visual: show the letter cards to build the words>"
+            }
+          ],
+          "audio_total": 11
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 3",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_3_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 3 in your Unit 22 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with irregular plural nouns and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together.",
+              "notes": "<visual: Show Cumulative Sentences, pages 12-13>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the words with irregular plural nouns. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word teeth. <pause> When you are finished, read your sentence to a partner.",
+              "notes": "<visual: show sentence strips and word teeth>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: people/children, sheep/deer.",
+              "notes": "<visual: show sentence strips and word pairs people/children, sheep/deer>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_5",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_6",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_7",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_8",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_9",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_11",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_12",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_13",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_14",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_15",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_16",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_17",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_3_4_18",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 18
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 39
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_22_Lsn_4",
+      "base": "level_3_unit_22_lesson_4",
+      "level": 3,
+      "unit": 22,
+      "lesson_num": 4,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 3,
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain"
+        },
+        {
+          "slide_number": 6,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Irregular Plural Nouns"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 4",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_4_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 22, Lesson 4. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 22.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 3 in your Unit 22 Student Book. Whisper read the cumulative sentences.",
+              "notes": "<visual: Student Book Lesson 3 spread>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Introduce High-Frequency Words. Let's learn some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: heard, knew, listen, morning, several>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word listen. Say the word with me. Listen. The word \"listen\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: l-i-s-t-e-n. The letter \"t\" is silent in the word \"listen.\""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: heard, knew, morning, several."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word feet."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word people."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_11",
+              "file_type": "Audio Bar",
+              "transcription": "Spelling Booster: Let's write some more words. Listen to each word I say. Break apart the word sound by sound, then write the letter or spelling for each sound.",
+              "notes": "<visual: show Spelling Booster image>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_12",
+              "file_type": "Audio Bar",
+              "transcription": "tooth"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_13",
+              "file_type": "Audio Bar",
+              "transcription": "teeth"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_14",
+              "file_type": "Audio Bar",
+              "transcription": "man"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_15",
+              "file_type": "Audio Bar",
+              "transcription": "men"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_16",
+              "file_type": "Audio Bar",
+              "transcription": "shelf"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_17",
+              "file_type": "Audio Bar",
+              "transcription": "selves"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_1_18",
+              "file_type": "Audio Bar",
+              "transcription": "fish"
+            }
+          ],
+          "audio_total": 18
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 4",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_4_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review irregular plural nouns. Irregular plural nouns do not form the plural by adding \"s\" or \"e-s.\" Some irregular plural nouns have common spelling changes.",
+              "notes": "<visual: show two columns, the words \"child\" and \"person\" in one column labeled \"singular\" and the words \"children\" and \"people\" in the second column labeled \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Here are some examples of irregular plural nouns."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Then, read each word as your teacher taps on it.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence using both words."
+            }
+          ],
+          "audio_total": 4
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 4",
+          "section": "Apply to Reading and Writing",
+          "title": "Read/Explain",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_4_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 4 in your Unit 22 Student Book. The title of this text is \"Listen to This!\" Point to each word as you read the title with me: Listen to This! This text is a photo comic. It has panels, speech bubbles, and text boxes like a comic but uses photos together with illustrations. Read the photo comic. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Find the word in the photo comic with the irregular plural and circle them. <pause> Chorally read the circled word."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Write the sentence I say. Listen carefully and focus on one word at a time.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "The first sentence is: Several children can hop on one foot. Say the sentence with me: Several children can hop on one foot. Now write the sentence. Your teacher will help you segment, or break apart, each word and write a letter for each sound."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "The second sentence is: This morning I saw sheep and geese in the field. Say the sentence with me: This morning I saw sheep and geese in the field. Now write the sentence. Your teacher will help you if you need it."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Let's read each sentence out loud. Check your work. Your teacher will write each sentence. Correct your spellings if necessary."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_3_7",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 7
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 4",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Irregular Plural Nouns",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_4_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review irregular plural nouns. Remember that a plural noun stands for \"more than one of something.\" Many nouns add \"s\" or \"es\" to form the plural. However, some nouns do not. These nouns are irregular."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "Some irregular plural nouns can be formed by changing the vowel or vowels in the word. For example, the singular noun \"man\" is made plural by changing the \"a\" to an \"e.\"",
+              "notes": "<visual: show word card \"man\" with a label above it that says \"singular\" and the word card \"men\" with a label above it that says \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_6_3",
+              "file_type": "Audio Bar",
+              "transcription": "Some irregular plural nouns can be formed by changing the \"f\" or \"f-e\" in the words to \"v-e-s.\" For example, the plural form of the noun \"leaf\" is \"leaves.\"",
+              "notes": "<visual: show word card \"leaf\" with a label above it that says \"singular\" and the word card \"leaves\" with a label above it that says \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_6_4",
+              "file_type": "Audio Bar",
+              "transcription": "Some irregular plural nouns do not follow any rules. For example, the plural form of the noun \"person\" is \"people.\"",
+              "notes": "<visual: show word card \"person\" with a label above it that says \"singular\" and the word card \"people\" with a label above it that says \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_6_5",
+              "file_type": "Audio Bar",
+              "transcription": "Some words, such as \"sheep\" and \"fish,\" do not change when they are plural.",
+              "notes": "<visual: show word card \"sheep\" with a label above it that says \"singular\" and the word card \"sheep\" with a label above it that says \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_4_6_6",
+              "file_type": "Audio Bar",
+              "transcription": "Do you know the plural form of these nouns?",
+              "notes": "<visual: show the word cards \"tooth\" \"loaf\" \"mouse\" \"deer\">"
+            }
+          ],
+          "audio_total": 6
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 35
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_22_Lsn_5",
+      "base": "level_3_unit_22_lesson_5",
+      "level": 3,
+      "unit": 22,
+      "lesson_num": 5,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Irregular Plural Nouns"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 5",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_5_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 22, Lesson 5. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 22.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 4 in your Unit 22 Student Book. Whisper read the story “Listen to This!” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 4 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 5",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_5_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 5",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_5_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about heat waves, drought, and wildfires. First, look at these five pictures. Listen as I read each word. Repeat the word after I say it. hot summer day <pause>, drought <pause>, sun <pause>, water <pause>, wildfire <pause>, trees. Look at the picture of a hot summer day. How do people cool off during hot weather?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about heat waves, drought, and wildfires. The word is shortage. Shortage means “a lack of something that is needed.”",
+              "notes": "<visual: Show the vocabulary card and the word, shortage>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words shortage and persist>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “The Heat Is On!”"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about heat waves, drought, and wildfires? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 5",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_5_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 5 in your Unit 22 Student Book. The title of this text is \"It’s Too Hot!” Point to each word as you read the title with me: It’s Too Hot! You will read about more effects of climate change.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: consequence. A consequence is the result or effect of something. A consequence of eating too many sweets can be a stomachache. What might be the consequence of going outside in the rain without an umbrella?",
+              "notes": "<visual: Show the story and the word, consequence>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find two irregular plural nouns on the second page of the text."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What is one example of a consequence, or effect, of a heat wave? Find sentences that answer this question."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Why does the author say that extreme weather is dangerous?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "How would you describe the weather today where you live? How would you describe the climate where you live?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Draw pictures to create a cause-effect chart to show some of the effects of a heat wave. <pause> Write a sentence to explain what is happening in each picture. <pause> You will use this information to write a short summary of the effects of a heat wave. Share your summary with a partner before writing.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 5",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Irregular Plural Nouns",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_5_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review irregular plural nouns. Remember that a plural noun stands for \"more than one of something.\" Many nouns add \"s\" or \"es\" to form the plural. However, some nouns do not. These nouns are irregular.",
+              "notes": "<visual: show word card \"man\" with a label above it that says \"singular\" and the word card \"men\" with a label above it that says \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "To form the plural of the noun \"woman\" the letter \"a\" must change to an \"e.\"",
+              "notes": "<visual: show word card \"woman\" with a label above it that says \"singular\" and the word card \"women\" with a label above it that says \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_6_3",
+              "file_type": "Audio Bar",
+              "transcription": "Some irregular plural nouns can be formed by changing the \"f\" or \"f-e\" in the words to \"v-e-s.\" For example, the plural form of the noun \"scarf\" is \"scarves.\"",
+              "notes": "<visual: show word card \"scarf\" with a label above it that says \"singular\" and the word card \"scarves\" with a label above it that says \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_6_4",
+              "file_type": "Audio Bar",
+              "transcription": "Some irregular plural nouns do not follow any rules. For example, the plural form of the noun \"person\" is \"people.\"",
+              "notes": "<visual: show word card \"person\" with a label above it that says \"singular\" and the word card \"people\" with a label above it that says \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_6_5",
+              "file_type": "Audio Bar",
+              "transcription": "Some words, such as \"moose\" do not change when they are plural.",
+              "notes": "<visual: show word card \"moose\" with a label above it that says \"singular\" and the word card \"moose\" with a label above it that says \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_6_6",
+              "file_type": "Audio Bar",
+              "transcription": "Do you know the plural form of these nouns?",
+              "notes": "<visual: show the word cards \"foot\" \"loaf\" \"child\" \"shrimp\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_6_7",
+              "file_type": "Audio Bar",
+              "transcription": "Look at these words. Let's read the words together: wife, wives, leaf, leaves, foot, feet, teeth, mice, person, people, shrimp, moose, fish. Now look at these two categories. This is the word wife. Read the word with me. <pause> Which category should I put wife under? <pause> Yes, wife goes in the singular category because the word wife is only one wife, not more than one. With your partner, continue to sort the rest of the words.",
+              "notes": "<visual: show wordswife, wives, leaf, leaves, foot, feet, teeth, mice, person, people, shrimp, moose, fish> <visual: show word wife> <visual: show the sorting cards plural, singular, and both in a pocket chart>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_6_8",
+              "file_type": "Audio Bar",
+              "transcription": "What did you notice about the words in each group?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_5_6_9",
+              "file_type": "Audio Bar",
+              "transcription": "You will notice singular and pluran nouns in your reading. As we read, let's look for words that are singular, plural, or both."
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 5,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_22_Lsn_6",
+      "base": "level_3_unit_22_lesson_6",
+      "level": 3,
+      "unit": 22,
+      "lesson_num": 6,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 3,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 4,
+          "section": "Apply to Reading and Writing",
+          "title": "Read"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 6",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_6_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 22, Lesson 6. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 22.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 5 in your Unit 22 Student Book. Whisper read the text “It’s Too Hot!” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 5 spread>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say a word: mean",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Say the word mean, but change the middle sound. Change /ē/, to /ō/. What's the new word? <pause> moan"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words and sounds."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 6",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_6_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review irregular plural nouns. Irregular plural nouns do not form the plural by adding \"s\" or \"e-s.\" Some irregular plural nouns have common spelling changes.",
+              "notes": "<visual: foot foot-oot+eet feet [show \"eet\" in red font]>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"foot.\" To form the plural of \"foot,\" change the letters \"o-o-t\" to \"e-e-t.\" What is the new word?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "feet."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Practice forming the plural with vowel spelling changes for the following words with your teacher.",
+              "notes": "<visual: show the following words: tooth, goose>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Say the sound for each letter or spelling as your teacher points to it. Blend the sounds to read the word. Now read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: against, certain, door, early, field, heard, knew, listen, morning, several>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word against. Say the word with me: \"against\""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: a-g-a-i-n-s-t. The word \"against\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_3_9",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_3_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: against, certain, door, early, field, heard, knew, listen, morning, several."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_3_11",
+              "file_type": "Audio Bar",
+              "transcription": "Build Words Booster: Let's do some more word building. Listen carefully as your teacher tells you which word to make with your letter cards. Your teacher will check your work. Think about each sound in the word you are making. Use letter cards to spell the word.",
+              "notes": "<visual: show the letter cards to build the words>"
+            }
+          ],
+          "audio_total": 11
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 6",
+          "section": "Apply to Reading and Writing",
+          "title": "Read",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_6_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 6 in your Unit 22 Student Book. Today we are going to read some cumulative sentences. These sentences contain words with irregular plural nouns and other phonics skills we have learned. Let’s whisper read one sentence at a time. When you are done, we will chorally read them together.",
+              "notes": "<visual: Show Cumulative Sentences, pages 18-19>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Circle all the irregular plural nouns. <pause> Turn to a partner and read the words. Your teacher will listen in."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using the word feet. <pause> When you are finished, read your sentence to a partner.",
+              "notes": "<visual: show sentence strips and word feet>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write a sentence using each of these word pairs: feet/teeth, knives/loaves.",
+              "notes": "<visual: show sentence strips and word pairs feet/teeth, knives/loaves>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_6_4_5",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 5
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 21
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_22_Lsn_7",
+      "base": "level_3_unit_22_lesson_7",
+      "level": 3,
+      "unit": 22,
+      "lesson_num": 7,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 3,
+          "section": "High-Frequency Word Booster",
+          "title": "Read, Build, Write"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 7",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_7_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 22, Lesson 7. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 22.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 6 in your Unit 22 Student Book. Whisper read the cumulative sentences. Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 6 spread>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_1_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_1_5",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_1_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_1_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_1_9",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_1_10",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 7",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_7_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review irregular plural nouns. Irregular plural nouns do not form the plural by adding \"s\" or \"e-s.\" Some irregular plural nouns have common spelling changes.",
+              "notes": "<visual: show two columns, the words \"man\" and \"woman\" in one column labeled \"singular\" and the words \"men\" and \"women\" in the second column labeled \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Here are some examples of irregular plural nouns. These plural nouns are formed by changing a vowel spelling."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review some high-frequency words. We will Say, Spell, Read, and Write each word.",
+              "notes": "<visual: e-pocket chart with the following words in this order: against, certain, door, early, field, heard, knew, listen, morning, several.>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with the word certain. Say the word with me: \"certain\""
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Spell the word with me: c-e-r-t-a-i-n. The word \"certain\" does not follow the rules. We have to pay extra attention to it to remember its spelling."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_2_7",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word. Say each letter as you write it. Then, use the word in a sentence."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_2_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now let's Say, Spell, Read, and Write these words: against, door, early, field, heard, knew, listen, morning, several."
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 7",
+          "section": "High-Frequency Word Booster",
+          "title": "Read, Build, Write",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_7_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Read: Look at the high-frequency words. Read each word along with me. against, <pause> certain, <pause> door, <pause> early, <pause> field, <pause> heard, <pause> knew, <pause> listen, <pause> morning, <pause> several.",
+              "notes": "<visual: show \"against, certain, door, early, field, heard, knew, listen, morning, several\" as cards in pocket-chart pockets, add one blank pocket-row, show tray with only letters for the first word.> [intended for teacher to model the first word]"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "Build: Now let's build a word together. Watch as your teacher spells the word."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "Now use your letter cards to build all the words."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write: Write each word. Then write a sentence using each word. For example, you can start a sentence with \"I am certain that ______ .\" Read your sentences to a partner when you are done.",
+              "notes": "<visual: show sentence frame \"I am certain that [blank].\" Then show \"against, certain, door, early, field, heard, knew, listen, morning, several\" as cards in pocket-chart pockets underneath sentence frame>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher is going to make a word with letter cards. <pause> What is the word? <pause> Spell it together. <pause> Watch as your teacher scrambles the letters. Fix the spelling.",
+              "notes": "<visual: empty pocket rows with tray with letter cards for 2nd word>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 7 in your Unit 22 Student Book. The title of this text is \"Weather and Climate.\" Point to the word as you read the title with me: Weather and Climate. This is a chart that compares and contrasts weather and climate. It tells how weather and climate are alike and different.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "What do you notice or wonder about when viewing the chart?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Create a chart that compares and contrasts two weather events, such as a thunderstorm and a blizzard.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_7_3_9",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 9
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 27
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_22_Lsn_8",
+      "base": "level_3_unit_22_lesson_8",
+      "level": 3,
+      "unit": 22,
+      "lesson_num": 8,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 4,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        },
+        {
+          "slide_number": 10,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Syllable Type Review"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 8",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_8_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 22, Lesson 8. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 22.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 7 in your Unit 22 Student Book. Whisper read the text “Weather and Climate.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 7 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 8",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_8_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review irregular plural nouns. Irregular plural nouns do not form the plural by adding \"s\" or \"e-s.\" Some irregular plural nouns have common spelling changes.",
+              "notes": "<visual: show two columns, the words \"child\" and \"person\" in one column labeled \"singular\" and the words \"children\" and \"people\" in the second column labeled \"plural\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Here are some examples of irregular plural nouns. These plural nouns don't follow any rules and will have to be memorized."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I read the following word: \"mouse.\" To form the plural of \"mouse,\" change the letters \"o-u-s-e\" to \"i-c-e.\" What is the new word?",
+              "notes": "<visual: mouse mouse-ouse+ice mice [show \"ice\" in red font]>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "mice."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Practice forming the plural of the following word with your teacher.",
+              "notes": "<visual: show the word \"ox\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_6",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let’s blend some words to practice what we've learned. Read each word as your teacher taps on it. Sound out the word to yourself. You can whisper it, if you like. Then your teacher will tap on the word again and say ‘altogether.’ Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's find and underline all the irregular plural nouns that have to be memorized."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now, let's put a box around each plural in which the vowel or vowels changed."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_9",
+              "file_type": "Audio Bar",
+              "transcription": "Blending Focus: Use your letter cards to build each word I say. Let's start by doing one together. Make the word trap. <pause> Make man. Change the vowel in man to make it plural. What word did you make? Men",
+              "notes": "<visual: show the letter cards to build the words>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_10",
+              "file_type": "Audio Bar",
+              "transcription": "Listen carefully as your teacher tells you the letter or letters to change to make the next word with your letter cards."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_11",
+              "file_type": "Audio Bar",
+              "transcription": "Let's build this set of words again. This time your teacher will not tell you which letters to change. Let's try one together: Make the word man <pause>. Now change man to men. Which sound is different? Which letter will be different?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_12",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about dust storms and sandstorms. First, look at the picture. Listen as I read each word. Repeat the word after I say it. sky <pause>, dust storm <pause>, street <pause>, city. Look at the dust storm in the picture. What is the dust storm covering?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_13",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about dust storms and sandstorms. The word is lack. If there is a lack of something, there is not enough of it.",
+              "notes": "<visual: Show the vocabulary card and the word, lack>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_14",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words lack and launch>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_15",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Storms Made of Sand and Dust”"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_4_16",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about dust storms and sandstorms? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 16
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 8",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_8_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 8 in your Unit 22 Student Book. The title of this text is \"Dust Storm!” Point to each word as you read the title with me: Dust Storm! You will read a text about the dust storms that took place in the Midwest nearly one hundred years ago.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this text: erosion. Erosion is the breaking away of soil and rocks caused by wind, water, and other forces. Waves can cause sand erosion at the beach. How do you think wind and water cause erosion? Tell about your ideas.",
+              "notes": "<visual: Show the story and the word, erosion>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the text. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find three irregular plural nouns on the first page."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "How did erosion play a part in the dust storms of the 1930s? Find the sentences that answer this question."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Why did many people leave their homes during the dust storms? Why do you think other people stayed?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Imagine that your family lived through the dust storms. What do you think it was like?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this text during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Work with a partner to research how farmers changed their methods so dust storms would be less likely to happen again.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 10,
+          "lesson": "Lesson 8",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Morphology: Syllable Type Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_8_10_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review syllable types. Words are made up of syllables. For example, the words \"public,\" \"basic,\" \"reason,\" and \"margin\" each have two syllables. Each syllable has one vowel sound. We can use what we know about syllables and spelling patters to read longer words.",
+              "notes": "<visual: show the words \"public\" \"basic\" \"reason\" and \"margin\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_10_2",
+              "file_type": "Audio Bar",
+              "transcription": "Closed syllables are syllables that have a short vowel sound. When two or more consonants appear in the middle of a word, divide the word between the consonants.",
+              "notes": "<visual: show the word public>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_10_3",
+              "file_type": "Audio Bar",
+              "transcription": "The word \"public\" has two closed syllalbles: \"pub\" <pause> \"lic\".",
+              "notes": "<visual: show the word public broken up into two cards: pub lic>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_10_4",
+              "file_type": "Audio Bar",
+              "transcription": "Open syllables are syllables that end in a vowel and have a long vowel sound. When one consonant appears between two vowels, divide the word before and after the consonant.",
+              "notes": "<visual: show the word basic>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_10_5",
+              "file_type": "Audio Bar",
+              "transcription": "The word \"basic\" has one open syllable: \"ba\" and one closed syllable: \"sic.\"",
+              "notes": "<visual: show the word basic broken up into two cards: ba sic>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_10_6",
+              "file_type": "Audio Bar",
+              "transcription": "Vowel team syllables are syllables that contain a vowel team. The vowel team always stays together in the same syllable.",
+              "notes": "<visual: show the word reason>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_10_7",
+              "file_type": "Audio Bar",
+              "transcription": "The word reason has one vowel team syllable: \"rea\" <pause> \"son.\"",
+              "notes": "<visual: show the word reason broken up into two cards: rea son>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_10_8",
+              "file_type": "Audio Bar",
+              "transcription": "R-controlled vowel syllables have an r-controlled vowel. The letters that make up the r-controlled vowel spelling stay together in the same syllable.",
+              "notes": "<visual: show the word margin>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_10_9",
+              "file_type": "Audio Bar",
+              "transcription": "The word margin has two syllables: \"mar\" <pause> \"gin.\" The first syllable is an r-controlled vowel syllable.",
+              "notes": "<visual: show the word margin broken up into two cards: mar gin>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_8_10_10",
+              "file_type": "Audio Bar",
+              "transcription": "Practice identifying the different syllable types in the following words.",
+              "notes": "<visual: show the following words: subject, vacant, contain, turkey>"
+            }
+          ],
+          "audio_total": 10
+        }
+      ],
+      "totals": {
+        "slides": 4,
+        "audio_items": 38
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_22_Lsn_9",
+      "base": "level_3_unit_22_lesson_9",
+      "level": 3,
+      "unit": 22,
+      "lesson_num": 9,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards"
+        },
+        {
+          "slide_number": 3,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words"
+        },
+        {
+          "slide_number": 4,
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card"
+        },
+        {
+          "slide_number": 5,
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 9",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_9_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 22, Lesson 9. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 22.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 8 in your Unit 22 Student Book. Whisper read the story “Dust Storm!” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 8 spread>"
+            }
+          ],
+          "audio_total": 2
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 9",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Review Phonics Cards",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_9_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Review Phonics Cards",
+              "notes": "<visual: Show phonics cards>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_2_2",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_2_3",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_2_4",
+              "file_type": "Embedded MP4",
+              "transcription": "Say the sound for each phonics card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Review Word Cards",
+              "notes": "<visual: Show High-Frequency Word Cards>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_2_6",
+              "file_type": "Embedded MP4",
+              "transcription": "Let’s review some words. Say the word for each high-frequency word card you see."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_2_7",
+              "file_type": "Embedded MP4",
+              "transcription": "Now, let’s try again—but this time faster. I’ll mix the cards."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_2_8",
+              "file_type": "Embedded MP4",
+              "transcription": "Find the card for the word I say. Listen carefully.",
+              "notes": "<visual: Show the pocket chart and word>"
+            }
+          ],
+          "audio_total": 8
+        },
+        {
+          "slide_number": 3,
+          "lesson": "Lesson 9",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Transition to Multisyllabic Words",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_9_3_1",
+              "file_type": "Audio Bar",
+              "transcription": "Multimodal mini-lesson. Let's review irregular plural nouns. Some words, such as \"deer,\" stay the same whether they are singular or plural.",
+              "notes": "<visual: show the word deer in two columns, one labeled singular and one labeled plural>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_3_2",
+              "file_type": "Audio Bar",
+              "transcription": "What do you notice about the following words?",
+              "notes": "<visual: show each of the following words twice next to each other, once in black font, once in red font: sheep, fish, moose>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_3_3",
+              "file_type": "Audio Bar",
+              "transcription": "They're the same. These are examples of more words that stay the same whether they are singular or plural."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_3_4",
+              "file_type": "Audio Bar",
+              "transcription": "Blend Words: Let's blend some words to practice what we've learned. Read each word as your teacher taps on it. Say the word nice and loud.",
+              "notes": "<visual: show the blend words table>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_3_5",
+              "file_type": "Audio Bar",
+              "transcription": "Select two words from the list. Write a sentence for each word."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_3_6",
+              "file_type": "Audio Bar",
+              "transcription": "Listen to each word your teacher says. Write the word. If you need help, tap the sounds or use your sound boxes and counters to break up the word sound by sound. Then think about the letter that stands for each sound.",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_3_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's start with these two words. Write the word wolf."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_3_8",
+              "file_type": "Audio Bar",
+              "transcription": "Now write the word wolves."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_3_9",
+              "file_type": "Audio Bar",
+              "transcription": "Finally, write this sentence: The women saw some mice in the leaves."
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 4,
+          "lesson": "Lesson 9",
+          "section": "Vocabulary Booster",
+          "title": "Display Read Aloud Card",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_9_4_1",
+              "file_type": "Audio Bar",
+              "transcription": "Vocabulary Booster: Now we’ll listen to a text about blizzards. First, look at the picture. Listen as I read each word. Repeat the word after I say it. blizzard <pause>, tree <pause>, ice <pause>, car <pause>, snow <pause>, road. Look at the picture of the blizzard. What do you notice about the road?",
+              "notes": "<visual: show vocabulary card>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_4_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about blizzards. The word is average. Average means “common or usual.”",
+              "notes": "<visual: Show the vocabulary card and the word, average>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_4_3",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher introduces another important word.",
+              "notes": "<visual: Show the vocabulary card and the words average and present>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_4_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now listen to “Blizzards Bring Snow—and Danger”"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_4_5",
+              "file_type": "Audio Bar",
+              "transcription": "Do you have any wonderings or questions about blizzards? Let’s write them down. We can look for answers as we read the stories in this unit."
+            }
+          ],
+          "audio_total": 5
+        },
+        {
+          "slide_number": 5,
+          "lesson": "Lesson 9",
+          "section": "Apply to Reading and Writing",
+          "title": "Introduce",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_9_5_1",
+              "file_type": "Audio Bar",
+              "transcription": "Apply to Reading and Writing: Turn to Lesson 9 in your Unit 22 Student Book. The title of this story is \"Sam Kent's Journal.” Point to each word as you read the title with me: Sam Kent's Journal. This passage is a journal entry written by a man visiting the Grand Canyon.",
+              "notes": "<visual: Show the student book cover and story>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_5_2",
+              "file_type": "Audio Bar",
+              "transcription": "Let’s learn an important word we will use to talk about this story: account. An account is a telling of events or a report. Dad gave an account of what happened on his way home. When have you given an account of something that happened?",
+              "notes": "<visual: Show the story and the word, account>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_5_3",
+              "file_type": "Audio Bar",
+              "transcription": "Read the story. Your teacher will listen in and help you as needed."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_5_4",
+              "file_type": "Audio Bar",
+              "transcription": "Find an irregular plural noun in the second paragraph."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_5_5",
+              "file_type": "Audio Bar",
+              "transcription": "What does Sam Kent see as he looks down into the canyon? Find the sentences that answer the question."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_5_6",
+              "file_type": "Audio Bar",
+              "transcription": "Why do you think Sam Kent wrote this account in his journal?"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_5_7",
+              "file_type": "Audio Bar",
+              "transcription": "Would you like to visit the Grand Canyon? Why or why not? Use details from Sam Kent’s journal to support your answer."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_5_8",
+              "file_type": "Audio Bar",
+              "transcription": "You can reread this story during independent work time or at home. Tomorrow you will also reread it as a warm-up to the day’s lesson."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_5_9",
+              "file_type": "Audio Bar",
+              "transcription": "Write to Deepen Comprehension: Write a journal entry for Sam Kent’s day rafting with his family. <pause> Share your ideas with a partner before writing.",
+              "notes": "<visual: Show the writing journal>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_9_5_10",
+              "file_type": "Audio Bar",
+              "transcription": ""
+            }
+          ],
+          "audio_total": 10
+        }
+      ],
+      "totals": {
+        "slides": 5,
+        "audio_items": 34
+      }
+    },
+    {
+      "sheet_name": "Lvl_3_Unt_22_Lsn_10",
+      "base": "level_3_unit_22_lesson_10",
+      "level": 3,
+      "unit": 22,
+      "lesson_num": 10,
+      "toc": [
+        {
+          "slide_number": 1,
+          "section": "Unit Intro",
+          "title": "Intro"
+        },
+        {
+          "slide_number": 2,
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Blend and Segment Multisyllabic Words by Syllable"
+        },
+        {
+          "slide_number": 6,
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Syllable Type Review"
+        }
+      ],
+      "slides": [
+        {
+          "slide_number": 1,
+          "lesson": "Lesson 10",
+          "section": "Unit Intro",
+          "title": "Intro",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_10_1_1",
+              "file_type": "Audio Bar",
+              "transcription": "Welcome to Benchmark Phonics, Level 3, Unit 22, Lesson 10. Let’s start by gathering your lesson materials. You'll need your Student Book for Unit 22.",
+              "notes": "<visual: book cover>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_1_2",
+              "file_type": "Audio Bar",
+              "transcription": "Warm-Up: Review and Repetition. Reread to Build Fluency. Turn to Lesson 9 in your Unit 22 Student Book. Whisper read the story “Sam Kent’s Journal.” Your teacher will listen in and help you as needed.",
+              "notes": "<visual: Student Book Lesson 1 spread>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_1_3",
+              "file_type": "Audio Bar",
+              "transcription": "Let's make a word ladder. I will give you a clue for each word to write on the word ladder.",
+              "notes": "<visual: empty word ladder with 6 rungs>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_1_4",
+              "file_type": "Audio Bar",
+              "transcription": "Write the word fishing."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_1_5",
+              "file_type": "Audio Bar",
+              "transcription": "Replace the ending in fishing to make a word that means “like a fish.”"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_1_6",
+              "file_type": "Audio Bar",
+              "transcription": "Delete the suffix in fishy to name a water animal that has gills."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_1_7",
+              "file_type": "Audio Bar",
+              "transcription": "Add three letters to the beginning of fish to make a word that means “concerned only with yourself, not others.”"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_1_8",
+              "file_type": "Audio Bar",
+              "transcription": "Take away the suffix in selfish to make a word that means “one’s own being.”"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_1_9",
+              "file_type": "Audio Bar",
+              "transcription": "Change the ending of self to make the word plural."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_1_10",
+              "file_type": "Audio Bar",
+              "transcription": "Now your teacher will ask you to read and write some words to check on your progress. Congratulations on all your hard work in Unit 22!",
+              "notes": "<visual: show Cumulative Assessment page 30>"
+            }
+          ],
+          "audio_total": 10
+        },
+        {
+          "slide_number": 2,
+          "lesson": "Lesson 10",
+          "section": "Warm-Up: Review and Repetition",
+          "title": "Build Phonemic Awareness: Blend and Segment Multisyllabic Words by Syllable",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_10_2_1",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as I say the following syllables: hill-top",
+              "notes": "<visual: show Phonemic Awareness image>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_2_2",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the syllables and blend them to make a word. Hill-top, hilltop."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_2_3",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following syllables. Blend the syllables to make a word."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_2_4",
+              "file_type": "Audio Bar",
+              "transcription": "Now we will segment words into syllables. Listen as I say the following word: reuse"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_2_5",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the word and segment it into the syllables you hear. Reuse, re-use."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_2_6",
+              "file_type": "Audio Bar",
+              "transcription": "Repeat the routine. Listen as your teacher says with the following words. Segment each word into the syllables you hear."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_2_7",
+              "file_type": "Audio Bar",
+              "transcription": "Let's do some more work with this unit's high-frequency words. Look at the high-frequency words.",
+              "notes": "<visual: against, certain, door, early, field, heard, knew, listen, morning, several>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_2_8",
+              "file_type": "Audio Bar",
+              "transcription": "Listen as your teacher reads a high-frequency word from the list. Point to the word. Read the word. Spell the the word aloud."
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_2_9",
+              "file_type": "Audio Bar",
+              "transcription": "Now build each high-frequency word using letter cards. Then work with a partner. Take turns scrambling the letters in the words. Rebuild each word. Watch as your teacher models scrambling and rebuilding the word \"door.\"",
+              "notes": "<visual: pocket chart with 3rd word spelled out with letter cards: door>"
+            }
+          ],
+          "audio_total": 9
+        },
+        {
+          "slide_number": 6,
+          "lesson": "Lesson 10",
+          "section": "Multimodal Mini-Lessons",
+          "title": "Morphology: Syllable Type Review",
+          "audio": [
+            {
+              "filename": "level_3_unit_22_lesson_10_6_1",
+              "file_type": "Audio Bar",
+              "transcription": "Let's review syllables. Each syllable has one vowel sound. We can use what we know about syllables and spelling patters to read longer words. The words \"helmet,\" \"bacon,\" \"reveal,\" and \"ever\" each have two syllables.",
+              "notes": "<visual: show the words \"helmet\" \"bacon\" and \"reveal\" \"ever\">"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_6_2",
+              "file_type": "Audio Bar",
+              "transcription": "When two or more consonants appear in the middle of a word, divide the word between the consonants. The word \"helmet\" has two closed syllables: \"hel\" <pause> \"met\" <pause> \"helmet.\"",
+              "notes": "<visual: show the word helmet broken up into two cards: hel-met>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_6_3",
+              "file_type": "Audio Bar",
+              "transcription": "When one consonant appears between two vowels, divide the word before and after the consonant. The word \"bacon\" has one open syllable \"ba\" and one closed syllable \"con.\" \"ba\" <pause> \"con\" <pause> \"bacon.\"",
+              "notes": "<visual: show the word bacon broken up into two cards: ba-con>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_6_4",
+              "file_type": "Audio Bar",
+              "transcription": "The word \"reveal\" has one open syllable \"re\" and one closed syllable \"veal.\" \"re\" <pause> \"veal\" <pause> \"reveal.\"",
+              "notes": "<visual: show the word reveal broken up into two cards: re-veal>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_6_5",
+              "file_type": "Audio Bar",
+              "transcription": "The word \"ever\" has two closed syllables, \"ev\" <pause> \"ver\" <pause> \"ever.\"",
+              "notes": "<visual: show the word ever broken up into two cards: ev-ver>"
+            },
+            {
+              "filename": "level_3_unit_22_lesson_10_6_6",
+              "file_type": "Audio Bar",
+              "transcription": "Practice dividing the following words into syllables.",
+              "notes": "<visual: show the words: \"magnet,\" \"lady,\" \"window,\" \"discard\">"
+            }
+          ],
+          "audio_total": 6
+        }
+      ],
+      "totals": {
+        "slides": 3,
+        "audio_items": 25
+      }
+    }
+  ]
+}
