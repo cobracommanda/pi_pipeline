@@ -355,12 +355,12 @@ def _write_xml_and_cmi5(dest: Path, unit: int, lesson: int, xml_root: Path):
     for k, v in repl.items():
         xml_text = xml_text.replace(k, v)
 
-    # Write lesson xml under data/xml
-    data_xml_dir = dest / "data" / "xml"
-    data_xml_dir.mkdir(parents=True, exist_ok=True)
-    (data_xml_dir / f"level_3_unit_{unit}_lesson_{lesson}.xml").write_text(
-        xml_text, encoding="utf-8"
-    )
+    # # Write lesson xml under data/xml
+    # data_xml_dir = dest / "data" / "xml"
+    # data_xml_dir.mkdir(parents=True, exist_ok=True)
+    # (data_xml_dir / f"level_3_unit_{unit}_lesson_{lesson}.xml").write_text(
+    #     xml_text, encoding="utf-8"
+    # )
 
     # Also write cmi5.xml at the package root
     (dest / "cmi5.xml").write_text(xml_text, encoding="utf-8")
