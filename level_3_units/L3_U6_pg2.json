@@ -190,6 +190,23 @@
       "type": "cell",
       "blocks": [
         {
+          "type": "para",
+          "style": "lesson_Body-txt_tight",
+          "runs": [
+            {
+              "text": "(add words with skills your students need to review) ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cell",
+      "blocks": [
+        {
           "type": "header",
           "level": 3,
           "style": "lesson_C-hd",

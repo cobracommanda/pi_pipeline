@@ -1,0 +1,647 @@
+[
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_1",
+    "path": "[0] > sheet > slides > [10] > audio > [0] > notes",
+    "word": "benefit"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_2",
+    "path": "[1] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "relatives"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_5",
+    "path": "[4] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "behavior"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_8",
+    "path": "[7] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "consequence"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_9",
+    "path": "[8] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "protect"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_1",
+    "path": "[10] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "environment"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_2",
+    "path": "[11] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "nutrients"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_5",
+    "path": "[14] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "adapt"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_8",
+    "path": "[17] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "trigger"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_9",
+    "path": "[18] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "avoid"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_1",
+    "path": "[20] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "assist"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_2",
+    "path": "[21] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "display"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_5",
+    "path": "[24] > sheet > slides > [16] > audio > [0] > notes",
+    "word": "habitat"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_8",
+    "path": "[27] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "enjoy"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_9",
+    "path": "[28] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "climate"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_1",
+    "path": "[30] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "generous"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_2",
+    "path": "[31] > sheet > slides > [10] > audio > [0] > notes",
+    "word": "adapt"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_5",
+    "path": "[34] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "unusual"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_8",
+    "path": "[37] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "powerful"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_9",
+    "path": "[38] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "selfish"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_2",
+    "path": "[41] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "goods"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_5",
+    "path": "[44] > sheet > slides > [16] > audio > [0] > notes",
+    "word": "ingredient"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_8",
+    "path": "[47] > sheet > slides > [18] > audio > [0] > notes",
+    "word": "confront"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_9",
+    "path": "[48] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "favor"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_2",
+    "path": "[51] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "goods"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_5",
+    "path": "[54] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "attract"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_8",
+    "path": "[57] > sheet > slides > [18] > audio > [0] > notes",
+    "word": "confront"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_9",
+    "path": "[58] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "favor"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_1",
+    "path": "[60] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "decide"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_2",
+    "path": "[61] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "division"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_5",
+    "path": "[64] > sheet > slides > [16] > audio > [0] > notes",
+    "word": "represent"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_8",
+    "path": "[67] > sheet > slides > [17] > audio > [0] > notes",
+    "word": "ensure"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_9",
+    "path": "[68] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "purpose"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_1",
+    "path": "[70] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "options"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_2",
+    "path": "[71] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "participate"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_8",
+    "path": "[77] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "symbol"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_9",
+    "path": "[78] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "essential"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_1",
+    "path": "[80] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "exercise"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_2",
+    "path": "[81] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "discussion"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_5",
+    "path": "[84] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "select"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_8",
+    "path": "[87] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "companion"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_9",
+    "path": "[88] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "unusual"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_1",
+    "path": "[90] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "defend"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_2",
+    "path": "[91] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "point of view"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_5",
+    "path": "[94] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "reproduce"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_8",
+    "path": "[97] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "compromise"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_9",
+    "path": "[98] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "generous"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_1",
+    "path": "[100] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "anxious"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_2",
+    "path": "[101] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "directions"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_5",
+    "path": "[104] > sheet > slides > [21] > audio > [0] > notes",
+    "word": "petrified"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_8",
+    "path": "[107] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "afford"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_9",
+    "path": "[108] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "cautious"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_1",
+    "path": "[110] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "challenge"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_2",
+    "path": "[111] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "perspective"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_5",
+    "path": "[114] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "jargon"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_8",
+    "path": "[117] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "exaggerated"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_9",
+    "path": "[118] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "conflicting"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_1",
+    "path": "[120] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "confidence"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_2",
+    "path": "[121] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "self-reliant"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_5",
+    "path": "[124] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "haul"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_8",
+    "path": "[127] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "attempted"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_9",
+    "path": "[128] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "required"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_1",
+    "path": "[130] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "invent"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_5",
+    "path": "[134] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "contains"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_8",
+    "path": "[137] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "annoy"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_9",
+    "path": "[138] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "generate"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_1",
+    "path": "[140] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "benefits"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_2",
+    "path": "[141] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "gathering"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_8",
+    "path": "[147] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "convenient"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_9",
+    "path": "[148] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "thoughtful"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_1",
+    "path": "[150] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "irritable"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_2",
+    "path": "[151] > sheet > slides > [10] > audio > [0] > notes",
+    "word": "traits"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_5",
+    "path": "[154] > sheet > slides > [18] > audio > [0] > notes",
+    "word": "genre"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_8",
+    "path": "[157] > sheet > slides > [18] > audio > [0] > notes",
+    "word": "recorded"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_9",
+    "path": "[158] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "abandon"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_1",
+    "path": "[160] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "method"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_2",
+    "path": "[161] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "resource"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_5",
+    "path": "[164] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "trained"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_8",
+    "path": "[167] > sheet > slides > [17] > audio > [0] > notes",
+    "word": "alert"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_9",
+    "path": "[168] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "collaborate"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_1",
+    "path": "[170] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "charity"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_2",
+    "path": "[171] > sheet > slides > [11] > audio > [0] > notes",
+    "word": "threatened"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_5",
+    "path": "[174] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "opposing"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_8",
+    "path": "[177] > sheet > slides > [17] > audio > [0] > notes",
+    "word": "despair"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_9",
+    "path": "[178] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "courteous"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_1",
+    "path": "[180] > sheet > slides > [16] > audio > [0] > notes",
+    "word": "rural"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_2",
+    "path": "[181] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "available"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_5",
+    "path": "[184] > sheet > slides > [19] > audio > [0] > notes",
+    "word": "possible"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_8",
+    "path": "[187] > sheet > slides > [21] > audio > [0] > notes",
+    "word": "dedicated"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_9",
+    "path": "[188] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "contender"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_20_Lsn_1",
+    "path": "[190] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "perspective"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_20_Lsn_2",
+    "path": "[191] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "inspiration"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_20_Lsn_5",
+    "path": "[194] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "located"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_20_Lsn_8",
+    "path": "[197] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "value"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_20_Lsn_9",
+    "path": "[198] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "expeditions"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_21_Lsn_1",
+    "path": "[200] > sheet > slides > [15] > audio > [0] > notes",
+    "word": "excavate"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_21_Lsn_2",
+    "path": "[201] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "gigantic"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_21_Lsn_5",
+    "path": "[204] > sheet > slides > [13] > audio > [0] > notes",
+    "word": "process"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_21_Lsn_8",
+    "path": "[207] > sheet > slides > [14] > audio > [0] > notes",
+    "word": "memories"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_21_Lsn_9",
+    "path": "[208] > sheet > slides > [12] > audio > [0] > notes",
+    "word": "inspire"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_22_Lsn_2",
+    "path": "[211] > sheet > slides > [4] > audio > [1] > notes",
+    "word": "suited"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_22_Lsn_5",
+    "path": "[214] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "consequence"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_22_Lsn_8",
+    "path": "[217] > sheet > slides > [2] > audio > [1] > notes",
+    "word": "erosion"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_22_Lsn_9",
+    "path": "[218] > sheet > slides > [4] > audio > [1] > notes",
+    "word": "account"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_23_Lsn_1",
+    "path": "[220] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "intend"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_23_Lsn_2",
+    "path": "[221] > sheet > slides > [3] > audio > [9] > notes",
+    "word": "mixture"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_23_Lsn_5",
+    "path": "[224] > sheet > slides > [3] > audio > [10] > notes",
+    "word": "sufficient"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_23_Lsn_8",
+    "path": "[227] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "demolished"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_23_Lsn_9",
+    "path": "[228] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "primary"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_24_Lsn_1",
+    "path": "[230] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "explore"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_24_Lsn_2",
+    "path": "[231] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "preserve"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_24_Lsn_5",
+    "path": "[234] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "severe"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_24_Lsn_8",
+    "path": "[237] > sheet > slides > [2] > audio > [1] > notes",
+    "word": "confident"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_24_Lsn_9",
+    "path": "[238] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "transform"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_25_Lsn_1",
+    "path": "[240] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "quantity"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_25_Lsn_2",
+    "path": "[241] > sheet > slides > [3] > audio > [9] > notes",
+    "word": "enhance"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_25_Lsn_5",
+    "path": "[244] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "purchase"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_25_Lsn_8",
+    "path": "[247] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "persuade"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_25_Lsn_9",
+    "path": "[248] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "alternative"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_1",
+    "path": "[250] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "result"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_2",
+    "path": "[251] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "export"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_5",
+    "path": "[254] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "submit"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_8",
+    "path": "[257] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "expect"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_9",
+    "path": "[258] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "innovation"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_1",
+    "path": "[260] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "employee"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_2",
+    "path": "[261] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "evolved"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_5",
+    "path": "[264] > sheet > slides > [3] > audio > [9] > notes",
+    "word": "expenses"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_8",
+    "path": "[267] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "mentor"
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_9",
+    "path": "[268] > sheet > slides > [3] > audio > [1] > notes",
+    "word": "solution"
+  }
+]
