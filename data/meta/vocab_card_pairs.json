@@ -1,0 +1,940 @@
+[
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_1",
+    "paired_words": [
+      "attracted",
+      "scavengers"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_2",
+    "paired_words": [
+      "flourish",
+      "vegetation"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_5",
+    "paired_words": [
+      "abundant",
+      "adapt"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_8",
+    "paired_words": [
+      "reduce",
+      "consumers"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_9",
+    "paired_words": [
+      "diligently",
+      "endangered"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_1",
+    "paired_words": [
+      "characteristics",
+      "delving"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_2",
+    "paired_words": [
+      "nutrients",
+      "organism"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_5",
+    "paired_words": [
+      "endure",
+      "conducive"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_8",
+    "paired_words": [
+      "entice",
+      "digested"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_9",
+    "paired_words": [
+      "compelled",
+      "swarms"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_1",
+    "paired_words": [
+      "retreat",
+      "witness"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_2",
+    "paired_words": [
+      "relocate",
+      "ferocious"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_5",
+    "paired_words": [
+      "transparent",
+      "deliberately"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_8",
+    "paired_words": [
+      "shallow",
+      "vibrant"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_9",
+    "paired_words": [
+      "inhospitable",
+      "exceeds"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_1",
+    "paired_words": [
+      "rambunctious",
+      "notorious"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_2",
+    "paired_words": [
+      "delicate",
+      "alternative"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_5",
+    "paired_words": [
+      "reside",
+      "steep"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_8",
+    "paired_words": [
+      "hues",
+      "majestic"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_9",
+    "paired_words": [
+      "precious",
+      "glimpse"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_1",
+    "paired_words": [
+      "energized",
+      "rapid"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_2",
+    "paired_words": [
+      "spacious",
+      "accumulate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_5",
+    "paired_words": [
+      "particles",
+      "ripen"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_8",
+    "paired_words": [
+      "dejected",
+      "console"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_9",
+    "paired_words": [
+      "specks",
+      "communicate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_1",
+    "paired_words": [
+      "observations",
+      "investigate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_2",
+    "paired_words": [
+      "bewildered",
+      "predicament"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_5",
+    "paired_words": [
+      "detect",
+      "transparent"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_8",
+    "paired_words": [
+      "maneuver",
+      "distribute"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_9",
+    "paired_words": [
+      "gather",
+      "momentarily"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_1",
+    "paired_words": [
+      "advisors",
+      "veto"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_2",
+    "paired_words": [
+      "educate",
+      "sponsor"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_5",
+    "paired_words": [
+      "proposes",
+      "represent"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_8",
+    "paired_words": [
+      "ensure",
+      "authority"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_9",
+    "paired_words": [
+      "signficant",
+      "observe"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_1",
+    "paired_words": [
+      "substantial",
+      "scale"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_2",
+    "paired_words": [
+      "sturdy",
+      "constant"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_5",
+    "paired_words": [
+      "obstruct",
+      "prolonged"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_8",
+    "paired_words": [
+      "occasion",
+      "symbol"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_9",
+    "paired_words": [
+      "convert",
+      "banned"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_1",
+    "paired_words": [
+      "negotiate",
+      "satisfies"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_2",
+    "paired_words": [
+      "reliable",
+      "establishes"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_5",
+    "paired_words": [
+      "responsiblity",
+      "secure"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_8",
+    "paired_words": [
+      "impressive",
+      "companions"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_9",
+    "paired_words": [
+      "memorial",
+      "elaborate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_1",
+    "paired_words": [
+      "thrill",
+      "extinct"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_2",
+    "paired_words": [
+      "versatile",
+      "ingredient"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_5",
+    "paired_words": [
+      "transported",
+      "vast"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_8",
+    "paired_words": [
+      "interact",
+      "vital"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_9",
+    "paired_words": [
+      "bellowed",
+      "persuaded"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_1",
+    "paired_words": [
+      "cautious",
+      "vibrate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_2",
+    "paired_words": [
+      "exceptional",
+      "range"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_5",
+    "paired_words": [
+      "petrified",
+      "revel"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_8",
+    "paired_words": [
+      "despondent",
+      "puzzled"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_9",
+    "paired_words": [
+      "recoil",
+      "potential"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_1",
+    "paired_words": [
+      "absorb",
+      "envelops"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_2",
+    "paired_words": [
+      "classify",
+      "tend"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_5",
+    "paired_words": [
+      "resemble",
+      "origins"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_8",
+    "paired_words": [
+      "hurl",
+      "essential"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_9",
+    "paired_words": [
+      "spectacular",
+      "streaking"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_1",
+    "paired_words": [
+      "instructions",
+      "code"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_2",
+    "paired_words": [
+      "inexpensive",
+      "embraced"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_5",
+    "paired_words": [
+      "massive",
+      "structure"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_8",
+    "paired_words": [
+      "obtain",
+      "conduct"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_9",
+    "paired_words": [
+      "functions",
+      "required"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_1",
+    "paired_words": [
+      "invented",
+      "manipulate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_2",
+    "paired_words": [
+      "robust",
+      "circulate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_5",
+    "paired_words": [
+      "collaboration",
+      "contains"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_8",
+    "paired_words": [
+      "interrupt",
+      "contradiction"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_9",
+    "paired_words": [
+      "assembled",
+      "luxury"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_1",
+    "paired_words": [
+      "selecting",
+      "benefits"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_2",
+    "paired_words": [
+      "immersed",
+      "nutritious"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_5",
+    "paired_words": [
+      "miniature",
+      "impact"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_8",
+    "paired_words": [
+      "strike",
+      "exist"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_9",
+    "paired_words": [
+      "advance",
+      "envisioned"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_1",
+    "paired_words": [
+      "highlight",
+      "imparted"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_2",
+    "paired_words": [
+      "impatient",
+      "greedy"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_5",
+    "paired_words": [
+      "stained",
+      "mistreated"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_8",
+    "paired_words": [
+      "certain",
+      "reward"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_9",
+    "paired_words": [
+      "repay",
+      "haste"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_1",
+    "paired_words": [
+      "combination",
+      "exterior"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_2",
+    "paired_words": [
+      "trained",
+      "comprehensive"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_5",
+    "paired_words": [
+      "tame",
+      "domesticated"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_8",
+    "paired_words": [
+      "inhabit",
+      "recover"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_9",
+    "paired_words": [
+      "generally",
+      "prevent"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_1",
+    "paired_words": [
+      "purchase",
+      "donate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_2",
+    "paired_words": [
+      "lessen",
+      "unique"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_5",
+    "paired_words": [
+      "barriers",
+      "altered"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_8",
+    "paired_words": [
+      "invented",
+      "unusual"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_9",
+    "paired_words": [
+      "examine",
+      "records"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_1",
+    "paired_words": [
+      "connect",
+      "major"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_2",
+    "paired_words": [
+      "available",
+      "adjusted"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_5",
+    "paired_words": [
+      "transportation",
+      "highways"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_8",
+    "paired_words": [
+      "setback",
+      "careers"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_9",
+    "paired_words": [
+      "competed",
+      "turmoil"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_20_Lsn_1",
+    "paired_words": [
+      "shelter",
+      "values"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_20_Lsn_2",
+    "paired_words": [
+      "discovered",
+      "intact"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_20_Lsn_5",
+    "paired_words": [
+      "located",
+      "exterior"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_20_Lsn_8",
+    "paired_words": [
+      "farewell",
+      "maintain"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_20_Lsn_9",
+    "paired_words": [
+      "inspired",
+      "territory"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_21_Lsn_1",
+    "paired_words": [
+      "displayed",
+      "excavate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_21_Lsn_2",
+    "paired_words": [
+      "collection",
+      "gigantic"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_21_Lsn_5",
+    "paired_words": [
+      "preserved",
+      "purposes"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_21_Lsn_8",
+    "paired_words": [
+      "unfamiliar",
+      "retrieved"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_21_Lsn_9",
+    "paired_words": [
+      "honor",
+      "wonder"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_22_Lsn_2",
+    "paired_words": [
+      "challenges",
+      "migrate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_22_Lsn_5",
+    "paired_words": [
+      "shortage",
+      "persist"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_22_Lsn_8",
+    "paired_words": [
+      "lack",
+      "launch"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_22_Lsn_9",
+    "paired_words": [
+      "average",
+      "present"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_23_Lsn_1",
+    "paired_words": [
+      "essential",
+      "solid"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_23_Lsn_2",
+    "paired_words": [
+      "layers",
+      "vital"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_23_Lsn_5",
+    "paired_words": [
+      "common",
+      "plunge"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_23_Lsn_8",
+    "paired_words": [
+      "process",
+      "extend"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_23_Lsn_9",
+    "paired_words": [
+      "gradually",
+      "deposit"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_24_Lsn_1",
+    "paired_words": [
+      "release",
+      "eliminated"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_24_Lsn_2",
+    "paired_words": [
+      "types",
+      "receive"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_24_Lsn_5",
+    "paired_words": [
+      "beneath",
+      "invisible"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_24_Lsn_8",
+    "paired_words": [
+      "replace",
+      "tilted"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_24_Lsn_9",
+    "paired_words": [
+      "collide",
+      "outer"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_25_Lsn_1",
+    "paired_words": [
+      "quantities",
+      "manufacture"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_25_Lsn_2",
+    "paired_words": [
+      "talents",
+      "bonus"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_25_Lsn_5",
+    "paired_words": [
+      "digital",
+      "value"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_25_Lsn_8",
+    "paired_words": [
+      "rely",
+      "emplyed"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_25_Lsn_9",
+    "paired_words": [
+      "effective",
+      "operate"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_1",
+    "paired_words": [
+      "disrupted",
+      "spiked"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_2",
+    "paired_words": [
+      "absent",
+      "switch"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_5",
+    "paired_words": [
+      "income",
+      "percentage"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_8",
+    "paired_words": [
+      "expensive",
+      "condition"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_9",
+    "paired_words": [
+      "innovation",
+      "reliable"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_1",
+    "paired_words": [
+      "trading",
+      "bartering"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_2",
+    "paired_words": [
+      "numerous",
+      "option"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_5",
+    "paired_words": [
+      "durable",
+      "factory"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_8",
+    "paired_words": [
+      "outlet",
+      "profit"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_9",
+    "paired_words": [
+      "guidance",
+      "resources"
+    ]
+  }
+]

@@ -1,0 +1,1387 @@
+[
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_1",
+    "path": "[0] > sheet > slides > [2] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling cards for the digraphs ch/tch, ph, and sh>",
+    "images": [
+      "Digraph-ch.jpg",
+      "Soft-C.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_2",
+    "path": "[1] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling cards for the digraphs th, wh, and ng>",
+    "images": [
+      "Digraph-th.jpg",
+      "Digraph-wh.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_3",
+    "path": "[2] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling cards for l-blends, r-blends, s-blends, and 3-letter blends>",
+    "images": [
+      "L-Blends.jpg",
+      "R-Blends.jpg",
+      "S-Blends.jpg",
+      "Three-Letter-Blends.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_4",
+    "path": "[3] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling cards for short medial vowels a,e,i,o, and u>",
+    "images": [
+      "Letter-A_Medial.jpg",
+      "Letter-E-Medial.jpg",
+      "Letter-I_Medial.jpg",
+      "Letter-O_Medial.jpg",
+      "Letter-U_Medial.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_6",
+    "path": "[5] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling cards for the digraphs ch, ph, and sh>",
+    "images": [
+      "Digraph-ch.jpg",
+      "Digraph-ph.jpg",
+      "Digraph-sh.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_7",
+    "path": "[6] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling cards for the digraphs th, wh, and ng>",
+    "images": [
+      "Digraph-th.jpg",
+      "Digraph-wh.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_8",
+    "path": "[7] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling cards for l-blends, r-blends, s-blends, and 3-letter blends>",
+    "images": [
+      "L-Blends.jpg",
+      "R-Blends.jpg",
+      "S-Blends.jpg",
+      "Three-Letter-Blends.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_1_Lsn_9",
+    "path": "[8] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling cards for short medial vowels a,e,i,o, and u>",
+    "images": [
+      "Letter-A_Medial.jpg",
+      "Letter-E-Medial.jpg",
+      "Letter-I_Medial.jpg",
+      "Letter-O_Medial.jpg",
+      "Letter-U_Medial.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_1",
+    "path": "[10] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for closed syllables: napkin>",
+    "images": [
+      "Closed-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_1",
+    "path": "[10] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for open syllables: zero>",
+    "images": [
+      "Open-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_2",
+    "path": "[11] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for closed syllables: napkin>",
+    "images": [
+      "Closed-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_2",
+    "path": "[11] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for open syllables: zero>",
+    "images": [
+      "Open-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_3",
+    "path": "[12] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for closed syllables: napkin>",
+    "images": [
+      "Closed-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_3",
+    "path": "[12] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for open syllables: zero>",
+    "images": [
+      "Open-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_4",
+    "path": "[13] > sheet > slides > [6] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for closed syllables: napkin>",
+    "images": [
+      "Closed-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_4",
+    "path": "[13] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for open syllables: zero>",
+    "images": [
+      "Open-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_6",
+    "path": "[15] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for closed syllables: napkin>",
+    "images": [
+      "Closed-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_6",
+    "path": "[15] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for open syllables: zero>",
+    "images": [
+      "Open-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_7",
+    "path": "[16] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for closed syllables: napkin>",
+    "images": [
+      "Closed-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_7",
+    "path": "[16] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for open syllables: zero>",
+    "images": [
+      "Open-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_8",
+    "path": "[17] > sheet > slides > [6] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for closed syllables: napkin>",
+    "images": [
+      "Closed-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_8",
+    "path": "[17] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for open syllables: zero>",
+    "images": [
+      "Open-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_9",
+    "path": "[18] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for closed syllables: napkin>",
+    "images": [
+      "Closed-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_2_Lsn_9",
+    "path": "[18] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: sound-spelling card for open syllables: zero>",
+    "images": [
+      "Open-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_1",
+    "path": "[20] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long a>",
+    "images": [
+      "Long-A.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_2",
+    "path": "[21] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long a>",
+    "images": [
+      "Long-A.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_3",
+    "path": "[22] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card (train) for Long a>",
+    "images": [
+      "Long-A.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_4",
+    "path": "[23] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long a>",
+    "images": [
+      "Long-A.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_6",
+    "path": "[25] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card (train) for Long a>",
+    "images": [
+      "Long-A.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_7",
+    "path": "[26] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card (train) for Long a>",
+    "images": [
+      "Long-A.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_8",
+    "path": "[27] > sheet > slides > [6] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long a>",
+    "images": [
+      "Long-A.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_3_Lsn_9",
+    "path": "[28] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long a>",
+    "images": [
+      "Long-A.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_1",
+    "path": "[30] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long o>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_3",
+    "path": "[32] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long o>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_4",
+    "path": "[33] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long o>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_6",
+    "path": "[35] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long o>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_7",
+    "path": "[36] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long o>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_8",
+    "path": "[37] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long o>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_4_Lsn_9",
+    "path": "[38] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long o>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_1",
+    "path": "[40] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long e (leaf)>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_2",
+    "path": "[41] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_3",
+    "path": "[42] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card (leaf) for Long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_4",
+    "path": "[43] > sheet > slides > [9] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card (leaf) for Long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_6",
+    "path": "[45] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for long e (leaf)>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_7",
+    "path": "[46] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for long e (leaf)>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_8",
+    "path": "[47] > sheet > slides > [10] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for long e (leaf)>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_5_Lsn_9",
+    "path": "[48] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for long e (leaf)>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_1",
+    "path": "[50] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long i (tie)>",
+    "images": [
+      "Long-I.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_2",
+    "path": "[51] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long I (tie)>",
+    "images": [
+      "Long-I.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_3",
+    "path": "[52] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card (tie) for Long i>",
+    "images": [
+      "Long-I.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_4",
+    "path": "[53] > sheet > slides > [10] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long (tie)i>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_6",
+    "path": "[55] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for long i (tie)>",
+    "images": [
+      "Long-I.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_7",
+    "path": "[56] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long i>",
+    "images": [
+      "Long-I.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_8",
+    "path": "[57] > sheet > slides > [10] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long I (tie)>",
+    "images": [
+      "Long-I.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_6_Lsn_9",
+    "path": "[58] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long i>",
+    "images": [
+      "Long-I.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_1",
+    "path": "[60] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long u uniform)>",
+    "images": [
+      "Long-U.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_2",
+    "path": "[61] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long u uniform)>",
+    "images": [
+      "Long-U.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_3",
+    "path": "[62] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long u (uniform)>",
+    "images": [
+      "Long-U.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_4",
+    "path": "[63] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long u>",
+    "images": [
+      "Long-U.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_6",
+    "path": "[65] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long u>",
+    "images": [
+      "Long-U.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_7",
+    "path": "[66] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long u>",
+    "images": [
+      "Long-U.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_8",
+    "path": "[67] > sheet > slides > [9] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long u>",
+    "images": [
+      "Long-U.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_7_Lsn_9",
+    "path": "[68] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for Long u>",
+    "images": [
+      "Long-U.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_1",
+    "path": "[70] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e4r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_2",
+    "path": "[71] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e4r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_3",
+    "path": "[72] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e4r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_4",
+    "path": "[73] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e4r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_6",
+    "path": "[75] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e4r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_7",
+    "path": "[76] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e4r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_8",
+    "path": "[77] > sheet > slides > [6] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e4r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_8_Lsn_9",
+    "path": "[78] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e4r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_1",
+    "path": "[80] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /\u00fbr/>",
+    "images": [
+      "r-controlled-vowel-ur.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_2",
+    "path": "[81] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /\u00fbr/>",
+    "images": [
+      "r-controlled-vowel-ur.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_3",
+    "path": "[82] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /\u00fbr/>",
+    "images": [
+      "r-controlled-vowel-ur.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_4",
+    "path": "[83] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /\u00fbr/>",
+    "images": [
+      "r-controlled-vowel-ur.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_6",
+    "path": "[85] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /\u00fbr/>",
+    "images": [
+      "r-controlled-vowel-ur.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_7",
+    "path": "[86] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /\u00fbr/>",
+    "images": [
+      "r-controlled-vowel-ur.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_8",
+    "path": "[87] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /\u00fbr/>",
+    "images": [
+      "r-controlled-vowel-ur.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_9_Lsn_9",
+    "path": "[88] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /\u00fbr/>",
+    "images": [
+      "r-controlled-vowel-ur.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_1",
+    "path": "[90] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /o\u0302r/>",
+    "images": [
+      "r-controlled-vowel-or.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_2",
+    "path": "[91] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /o\u0302r/>",
+    "images": [
+      "r-controlled-vowel-or.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_3",
+    "path": "[92] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /o\u0302r/>",
+    "images": [
+      "r-controlled-vowel-or.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_4",
+    "path": "[93] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /o\u0302r/>",
+    "images": [
+      "r-controlled-vowel-or.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_6",
+    "path": "[95] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /o\u0302r/>",
+    "images": [
+      "r-controlled-vowel-or.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_7",
+    "path": "[96] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /o\u0302r/>",
+    "images": [
+      "r-controlled-vowel-or.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_8",
+    "path": "[97] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /o\u0302r/>",
+    "images": [
+      "r-controlled-vowel-or.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_10_Lsn_9",
+    "path": "[98] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-controlled vowel /o\u0302r/>",
+    "images": [
+      "r-controlled-vowel-or.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_1",
+    "path": "[100] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_2",
+    "path": "[101] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_3",
+    "path": "[102] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_4",
+    "path": "[103] > sheet > slides > [11] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_6",
+    "path": "[105] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_7",
+    "path": "[106] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_8",
+    "path": "[107] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_11_Lsn_9",
+    "path": "[108] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long e>",
+    "images": [
+      "Long-E.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_1",
+    "path": "[110] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e2r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_3",
+    "path": "[112] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e2r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_4",
+    "path": "[113] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e2r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_6",
+    "path": "[115] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e2r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_7",
+    "path": "[116] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e2r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_8",
+    "path": "[117] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e2r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_12_Lsn_9",
+    "path": "[118] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for r-Controlled Vowel /\u00e2r/>",
+    "images": [
+      "r-controlled-vowel-ar.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_1",
+    "path": "[120] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for vowel-consonant e syllables \u2013 tadpole>",
+    "images": [
+      "Vowel-Consonant-e-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_1",
+    "path": "[120] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for consonant le syllables \u2013 bubbles>",
+    "images": [
+      "Consonant-le-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_2",
+    "path": "[121] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for vowel-consonant e syllables \u2013 tadpole>",
+    "images": [
+      "Vowel-Consonant-e-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_2",
+    "path": "[121] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for consonant le syllables \u2013 bubbles>",
+    "images": [
+      "Consonant-le-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_3",
+    "path": "[122] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for vowel-consonant e syllables \u2013 tadpole>",
+    "images": [
+      "Vowel-Consonant-e-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_3",
+    "path": "[122] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for consonant le syllables \u2013 bubbles>",
+    "images": [
+      "Consonant-le-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_4",
+    "path": "[123] > sheet > slides > [6] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for vowel-consonant e syllables \u2013 tadpole>",
+    "images": [
+      "Vowel-Consonant-e-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_4",
+    "path": "[123] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for consonant le syllables \u2013 bubbles>",
+    "images": [
+      "Consonant-le-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_6",
+    "path": "[125] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for vowel-consonant e syllables \u2013 tadpole>",
+    "images": [
+      "Vowel-Consonant-e-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_6",
+    "path": "[125] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for consonant le syllables \u2013 bubbles>",
+    "images": [
+      "Consonant-le-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_7",
+    "path": "[126] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for vowel-consonant e syllables \u2013 tadpole>",
+    "images": [
+      "Vowel-Consonant-e-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_7",
+    "path": "[126] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for consonant le syllables \u2013 bubbles>",
+    "images": [
+      "Consonant-le-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_8",
+    "path": "[127] > sheet > slides > [6] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for vowel-consonant e syllables \u2013 tadpole>",
+    "images": [
+      "Vowel-Consonant-e-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_8",
+    "path": "[127] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for consonant le syllables \u2013 bubbles>",
+    "images": [
+      "Consonant-le-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_9",
+    "path": "[128] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for vowel-consonant e syllables \u2013 tadpole>",
+    "images": [
+      "Vowel-Consonant-e-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_13_Lsn_9",
+    "path": "[128] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show sound-spelling card for consonant le syllables \u2013 bubbles>",
+    "images": [
+      "Consonant-le-Syllables.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_1",
+    "path": "[130] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /oi/>",
+    "images": [
+      "Diphthong-OI.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_2",
+    "path": "[131] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /oi/>",
+    "images": [
+      "Diphthong-OI.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_3",
+    "path": "[132] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /oi/>",
+    "images": [
+      "Diphthong-OI.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_4",
+    "path": "[133] > sheet > slides > [6] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /oi/>",
+    "images": [
+      "Diphthong-OI.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_6",
+    "path": "[135] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /oi/>",
+    "images": [
+      "Diphthong-OI.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_7",
+    "path": "[136] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /oi/>",
+    "images": [
+      "Diphthong-OI.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_8",
+    "path": "[137] > sheet > slides > [6] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /oi/>",
+    "images": [
+      "Diphthong-OI.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_14_Lsn_9",
+    "path": "[138] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /oi/>",
+    "images": [
+      "Diphthong-OI.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_1",
+    "path": "[140] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /ou/>",
+    "images": [
+      "Diphthong-OU.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_2",
+    "path": "[141] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /ou/>",
+    "images": [
+      "Diphthong-OU.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_3",
+    "path": "[142] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /ou/>",
+    "images": [
+      "Diphthong-OU.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_4",
+    "path": "[143] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /ou/>",
+    "images": [
+      "Diphthong-OU.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_6",
+    "path": "[145] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /ou/>",
+    "images": [
+      "Diphthong-OU.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_7",
+    "path": "[146] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /ou/>",
+    "images": [
+      "Diphthong-OU.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_15_Lsn_9",
+    "path": "[148] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound spelling card for diphthong /ou/>",
+    "images": [
+      "Diphthong-OU.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_1",
+    "path": "[150] > sheet > slides > [4] > audio > [2] > notes",
+    "notes": "<visual: show the sound-spelling card for long /oo/>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_2",
+    "path": "[151] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long /o\u035eo/>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_3",
+    "path": "[152] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long /o\u035eo/>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_4",
+    "path": "[153] > sheet > slides > [10] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long /o\u035eo/>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_6",
+    "path": "[155] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long /o\u035eo/>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_7",
+    "path": "[156] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long /o\u035eo/>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_8",
+    "path": "[157] > sheet > slides > [10] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long /o\u035eo/>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_16_Lsn_9",
+    "path": "[158] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for long /o\u035eo/>",
+    "images": [
+      "Long-O.jpg"
+    ]
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_1",
+    "path": "[160] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for short /o\u035do/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_2",
+    "path": "[161] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for short /o\u035do/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_3",
+    "path": "[162] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for short /o\u035do/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_4",
+    "path": "[163] > sheet > slides > [7] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for short /o\u035do/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_6",
+    "path": "[165] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for short /o\u035do/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_7",
+    "path": "[166] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for short /o\u035do/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_8",
+    "path": "[167] > sheet > slides > [9] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for short /o\u035do/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_17_Lsn_9",
+    "path": "[168] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for short /o\u035do/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_1",
+    "path": "[170] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for variant vowel /\u00f4/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_2",
+    "path": "[171] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for variant vowel /\u00f4/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_3",
+    "path": "[172] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for variant vowel /\u00f4/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_4",
+    "path": "[173] > sheet > slides > [9] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for variant vowel /\u00f4/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_6",
+    "path": "[175] > sheet > slides > [3] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for variant vowel /\u00f4/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_7",
+    "path": "[176] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for variant vowel /\u00f4/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_8",
+    "path": "[177] > sheet > slides > [9] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for variant vowel /\u00f4/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_18_Lsn_9",
+    "path": "[178] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for variant vowel /\u00f4/>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_1",
+    "path": "[180] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_2",
+    "path": "[181] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_3",
+    "path": "[182] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_4",
+    "path": "[183] > sheet > slides > [6] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_6",
+    "path": "[185] > sheet > slides > [4] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_7",
+    "path": "[186] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_8",
+    "path": "[187] > sheet > slides > [13] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_19_Lsn_9",
+    "path": "[188] > sheet > slides > [5] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_1",
+    "path": "[250] > sheet > slides > [2] > audio > [2] > notes",
+    "notes": "<visual: show the sound-spelling card for schwa>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_2",
+    "path": "[251] > sheet > slides > [1] > audio > [6] > notes",
+    "notes": "<visual: show the sound-spelling card for schwa>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_3",
+    "path": "[252] > sheet > slides > [1] > audio > [8] > notes",
+    "notes": "<visual: show the sound-spelling card for schwa>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_4",
+    "path": "[253] > sheet > slides > [1] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for schwa>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_6",
+    "path": "[255] > sheet > slides > [1] > audio > [6] > notes",
+    "notes": "<visual: show the sound-spelling card for schwa>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_7",
+    "path": "[256] > sheet > slides > [1] > audio > [8] > notes",
+    "notes": "<visual: show the sound-spelling card for schwa>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_8",
+    "path": "[257] > sheet > slides > [1] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for schwa>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_26_Lsn_9",
+    "path": "[258] > sheet > slides > [1] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for schwa>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_1",
+    "path": "[260] > sheet > slides > [1] > audio > [10] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_2",
+    "path": "[261] > sheet > slides > [1] > audio > [6] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_3",
+    "path": "[262] > sheet > slides > [1] > audio > [8] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_4",
+    "path": "[263] > sheet > slides > [1] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_6",
+    "path": "[265] > sheet > slides > [1] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_7",
+    "path": "[266] > sheet > slides > [1] > audio > [8] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_8",
+    "path": "[267] > sheet > slides > [1] > audio > [0] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  },
+  {
+    "sheet_name": "Lvl_3_Unt_27_Lsn_9",
+    "path": "[268] > sheet > slides > [1] > audio > [8] > notes",
+    "notes": "<visual: show the sound-spelling card for silent letters>",
+    "images": []
+  }
+]
